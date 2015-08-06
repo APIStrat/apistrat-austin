@@ -1360,7 +1360,7 @@ h2 + .btn-header {
 }
 .articles article .image {
     float: left;
-    width: 310px;
+    width: 310px; height: 100px;
     border-radius: 4px;
     position: relative;
     overflow: hidden;
