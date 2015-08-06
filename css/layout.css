@@ -295,7 +295,7 @@ header #logo {
     z-index: 50;
 }
 header #logo img {
-  
+    max-width: 100%; max-height: 60px;
 }
 header #menu-primary {
     margin-top: 101px;
