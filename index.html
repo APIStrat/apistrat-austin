@@ -101,8 +101,8 @@ title: APIStrat Austin 2015
 	  </ol>
 
     <!-- Wrapper for slides -->
-	  <div class="carousel-inner">
-	     <div class="item active">
+	  <div>
+	     <div>
 
          {% for post in site.posts limit:2 %}
 	        <article>
@@ -121,7 +121,7 @@ title: APIStrat Austin 2015
 	                  <span class="perex">
                       {{ post.content | split:'<!--break-->' | first }}
       						    {% if post.content contains '<!--break-->' %}
-      						       <p align="right"><a href="{{ post.url }}">read more</a></p>
+      						       <a href="{{ post.url }}">read more</a>
       						    {% endif %}
                     </span>
 	                </a>
