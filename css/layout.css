@@ -1403,7 +1403,6 @@ h2 + .btn-header {
     display: block;
     padding: 3px 3px;
     text-decoration: none;
-    text-align: right;
     color: inherit;
 }
 .articles article .post-content .heading {
