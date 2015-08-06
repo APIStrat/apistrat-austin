@@ -295,7 +295,7 @@ header #logo {
     z-index: 50;
 }
 header #logo img {
-    max-width: 100%; max-height: 60px;
+  
 }
 header #menu-primary {
     margin-top: 101px;
@@ -1828,7 +1828,7 @@ footer .credits {
 footer .ef_footer_text_columns h1,
 footer .ef_footer_text_columns h2,
 footer .ef_footer_text_columns h3 {
-	color: #f1f1f1;	
+	color: #f1f1f1;
 }
 
 /*
