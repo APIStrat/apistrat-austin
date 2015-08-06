@@ -672,7 +672,7 @@ h2 + .btn-header {
     letter-spacing: 0;
     text-transform: uppercase;
     padding: 89px 0 0 15px;
-    margin: 0 0 0px 15px;
+    margin: 0 0 20px 15px;
     height: 245px;
 }
 .landing h1 > span {
@@ -680,9 +680,10 @@ h2 + .btn-header {
     max-height: 164px;
 }
 .landing .lead {
-    height: 44px;
+    height: 24px;
     text-transform: uppercase;
     font-size: 30px;
+    padding-bottom: 20px;
 }
 .landing .btn {
     margin: 22px 0 96px;
@@ -1360,7 +1361,7 @@ h2 + .btn-header {
 }
 .articles article .image {
     float: left;
-    width: 310px; height: 100px;
+    width: 310px; height: 189px;
     border-radius: 4px;
     position: relative;
     overflow: hidden;
@@ -1401,7 +1402,6 @@ h2 + .btn-header {
 .articles article .post-content a {
     display: block;
     padding: 15px 21px;
-    height: 189px;
     text-decoration: none;
     color: inherit;
 }
