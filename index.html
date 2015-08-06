@@ -89,20 +89,7 @@ title: APIStrat Austin 2015
 	  <div class="container widget">
 	  <h2>Latest APIStrat News</h2>
 		<a href="/blog/" class="btn btn-primary btn-header pull-right hidden-xs">View all posts</a>
-
-    <h3></h3>
-	  <div class="articles carousel slide" data-ride="carousel" data-interval="false" id="articles-carousel">
-
-    <!-- Indicators -->
-	  <ol class="carousel-indicators">
-	     <li data-target="#articles-carousel" data-slide-to="0" class="active"></li>
-	     <li data-target="#articles-carousel" data-slide-to="1" ></li>
-	     <li data-target="#articles-carousel" data-slide-to="2" ></li>
-	  </ol>
-
     <!-- Wrapper for slides -->
-	  <div>
-	     <div>
 
          {% for post in site.posts limit:2 %}
 	        <article>
@@ -131,8 +118,6 @@ title: APIStrat Austin 2015
 	          </article>
             {% endfor %}
 
-	        </div>
-	      </div>
       </div>
 	  </div>
 	</div>
