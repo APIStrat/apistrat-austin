@@ -1401,8 +1401,9 @@ h2 + .btn-header {
 }
 .articles article .post-content a {
     display: block;
-    padding: 15px 21px;
+    padding: 3px 3px;
     text-decoration: none;
+    text-align: right;
     color: inherit;
 }
 .articles article .post-content .heading {
