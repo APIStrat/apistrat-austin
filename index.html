@@ -115,17 +115,19 @@ title: APIStrat Austin 2015
     			      	</span>
   	              <img width="238" height="236" src="{{ post.image }}" class="attachment-tyler-blog-home wp-post-image" alt="{{ post.title }}" />	                       </a>
 	            </div>
-	            <div class="post-content">
-	               <a href="{{ post.url }}" class="text-fit">
-	                  <strong class="heading">{{ post.title }}</strong>
-	                  <span class="perex">
-                      {{ post.content | split:'<!--break-->' | first }}
-      						    {% if post.content contains '<!--break-->' %}
-      						       <a href="{{ post.url }}">read more</a>
-      						    {% endif %}
-                    </span>
-	                </a>
-	            </div>
+              <div class="post-content">
+    				  	<div class="text-fit">
+    							<strong class="heading">
+    				    		<a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
+    				    	</strong>
+    							<div class="perex">
+    								{{ post.content | split:'<!--break-->' | first }}
+    						    {% if post.content contains '<!--break-->' %}
+    						       <a href="{{ post.url }}">read more</a>
+    						    {% endif %}
+    				    	</div>
+    						</div>
+    					</div>
 	          </article>
             {% endfor %}
 
