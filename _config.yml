@@ -36,3 +36,34 @@ featured_speakers:
     description: Chief Strategy Officer, business strategist, enterprise architect, keynote speaker, author, & futurist.
     slug: /speakers/dion-hinchcliffe/
     twitter: https://twitter.com/dhinchcliffe
+
+sponsors:
+  - name: 3Scale
+    link: http://www.3scale.net/
+    logo: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/3scale-logo-new.png
+  - name: Walgreens
+    link: https://developer.walgreens.com/
+    logo: http://kinlane-productions.s3.amazonaws.com/up-image.php/sponsor/Walgreens_Type-Logo_Red_4c.jpg
+  - name: Klout
+    link: https://klout.com/s/developers/home
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/klout-logo-color-dark.png
+  - name: SmartBear
+    link: http://smartbear.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/Color-SmartBear_Logo.png
+  - name: Akana
+    link: https://www.akana.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/akana-logo.png
+  - name: Cloud Elements
+    link: http://cloud-elements.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/cloud-elements-logo.png
+  - name: AnyPresence
+    link: http://www.anypresence.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/anypresence-logo.jpeg
+
+organizers:
+  - name: 3Scale
+    link: http://www.3scale.net/
+    logo: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/3scale-logo-new.png
+  - name: API Evangelist
+    link: http://apievangelist.com/
+    logo: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/api-evangelist-logo1.png

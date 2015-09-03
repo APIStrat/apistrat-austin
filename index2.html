@@ -94,23 +94,15 @@ title: APIStrat Austin 2015
     <h3 class="sponsor"><span>Sponsors</span></h3>
     <div class="item active">
 
-      <div class="sponsor">
-        <a href='http://wso2.com/' title='WSO2' target='_blank'>
-          <img width="329" height="95" src="http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/01/wso2-logo-ok.png" class="attachment-full wp-post-image" alt="wso2-logo-ok" />
-        </a>
-      </div>
-
-      <div class="sponsor">
-        <a href='http://www.commercetools.com/' title='SPHERE.IO' target='_blank'>
-          <img width="329" height="95" src="http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/12/sphere-io-logo.png" class="attachment-full wp-post-image" alt="commertools SPHERE.IO" />
-        </a>
-      </div>
-
-      <div class="sponsor">
-        <a href='http://www.3scale.net/' title='3scale' target='_blank'>
-          <img width="329" height="95" src="http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/3scale-logo-new.png" class="attachment-full wp-post-image" alt="3scale" />
-        </a>
-      </div>
+      {% for oranizer in site.sponsors %}
+        <div class="item">
+          <div class="sponsor">
+            <a href="{{ oranizer.link }}" title="{{ oranizer.name }}" target="_blank">
+              <img width="329" height="95" src="{{ oranizer.logo }}" class="attachment-full wp-post-image" alt="{{ oranizer.name }}" />
+            </a>
+          </div>
+        </div>
+      {% endfor %}
 
     </div>
 </div>
@@ -118,21 +110,15 @@ title: APIStrat Austin 2015
     <h3 class="sponsor"><span>Organizers</span></h3>
     <div class="sponsors sponsors-lg">
 
-      <div class="item">
-        <div class="sponsor">
-          <a href='http://www.3scale.net/' title='3scale' target='_blank'>
-            <img width="329" height="95" src="http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/3scale-logo-new.png" class="attachment-full wp-post-image" alt="3scale" />
-          </a>
+      {% for oranizer in site.organizers %}
+        <div class="item">
+          <div class="sponsor">
+            <a href="{{ oranizer.link }}" title="{{ oranizer.name }}" target="_blank">
+              <img width="329" height="95" src="{{ oranizer.logo }}" class="attachment-full wp-post-image" alt="{{ oranizer.name }}" />
+            </a>
+          </div>
         </div>
-      </div>
-
-      <div class="item active">
-        <div class="sponsor">
-          <a href='http://apievangelist.com/' title='API Evangelist' target='_blank'>
-            <img width="329" height="95" src="http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/api-evangelist-logo1.png" class="attachment-full wp-post-image" alt="API Evangelist" />
-          </a>
-        </div>
-      </div>
+      {% endfor %}
 
     </div>
 
