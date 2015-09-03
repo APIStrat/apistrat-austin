@@ -135,6 +135,7 @@ h3.sponsor {
     text-transform: uppercase;
     margin: 0.5em 0 1em;
     color: #e73955;
+    text-align: left;
 }
 h3.sponsor span {
     position: relative;
