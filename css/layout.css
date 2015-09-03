@@ -800,12 +800,12 @@ h2 + .btn-header {
 }
 .speakers .name {
     display: table;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     color: #fff;
     height: 25px;
     width: 100%;
-    margin: 0 0 5px;
+    margin: 0 0 10px;
 }
 .speakers .name>span{
     display: table-cell;
@@ -815,8 +815,8 @@ h2 + .btn-header {
     display: block;
     text-align: center;
     color: #393939;
-    font-size: 14px; font-weight: normal;
-    line-height: normal;
+    font-size: 12px;
+    font-weight: normal;
     margin-bottom: 5px;
 }
 .speakers .speaker .view {
