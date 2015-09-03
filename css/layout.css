@@ -800,7 +800,7 @@ h2 + .btn-header {
 }
 .speakers .name {
     display: table;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 500;
     color: #fff;
     height: 25px; width: 100%;
