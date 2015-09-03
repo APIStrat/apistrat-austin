@@ -817,6 +817,7 @@ h2 + .btn-header {
     font-size: 12px;
     font-weight: normal;
     margin-bottom: 5px;
+    line-height: 14px;
 }
 .speakers .speaker .view {
     display: none;
