@@ -1,0 +1,144 @@
+---
+layout: page
+title: APIStrat Austin 2015
+---
+
+<div class="container widget">
+    <div class="landing">
+        <div class="bg" style="background-image: url('https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/austin-1-earl-mcgehee.jpg')"></div>
+        <h1 style="padding-left: 20px;"><span class="text-fit" style="color:#000; padding-left: 20px;">APIStrat Austin 2015</span></h1>
+        <div style="padding-bottom: 20px;"><p class="lead text-fit" style="color:#000; padding-bottom: 50px;">The API conversation GETs interesting...</p></div>
+	      <div class="row">
+            <div class="col-md-7">
+                <div class="box">
+                    <i class="icon-calendar"></i>
+                    <div class="box-inner">
+                        <div>
+                            <span class="sub">WHEN</span>
+                            <span class="title">November 18-20, 2015</span>
+                            <span class="desc"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="box">
+                    <i class="icon-map-marker"></i>
+                    <div class="box-inner">
+                        <div>
+                            <span class="sub">WHERE</span>
+                            <span class="title">Austin, TX</span>
+                            <span class="desc"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- TEXT -->
+<div id="tile_description" class="container widget">
+    <h2>About</h2>
+    <p>API Strategy & Practice Conference, now known as APIStrat, is a conference focused on the API economy. The sixth edition of the conference is coming to Austin TX, looking to bring together everyone — from the API curious to today’s leaders — to discuss current opportunities and challenges in the API space.</p>
+    <p>APIStrat sparks conversations between API providers and API consumers, startups and enterprise, developers and architects, and all types of integrators to discuss what we each see on the ground every day. The event is not just for developers and IT, it also for business users and anyone who is looking to better understand how APIs are impacting the world around us.</p>
+    <p>Thanks for visiting, stay tuned for more information, and we look forward to seeing you in Austin this fall.</p>
+</div>
+
+
+<!-- SPEAKERS -->
+<div id="tile_speakers" class="container widget">
+
+  <h2>Speakers</h2>
+  <a href="/speakers/" class="btn btn-primary btn-header pull-right hidden-xs">View all speakers</a>
+  <h3>The speakers list is building - here are the first additions!</h3>
+  <div class="speakers carousel slide" data-ride="carousel" data-interval="false" id="speakers-carousel">
+
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#speakers-carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#speakers-carousel" data-slide-to="1" ></li>
+        <li data-target="#speakers-carousel" data-slide-to="2" ></li>
+    </ol>
+
+    <div class="carousel-inner">
+       <div class="item active">
+          <div class="speaker">
+             <a class="speaker-inner" href="/speakers/mandy-waite/">
+             <span class="photo">
+             <img width="200" height="200" src="{}" alt="" />
+             </span>
+             <span class="name"><span class="text-fit">Mandy Waite (Google)</span></span>
+             <span class="description">Developer Advocate at Google Cloud Platform</span>
+             <span class="view">
+                View profile <i class="icon-angle-right"></i>
+             </span>
+             </a>
+          </div>
+        </div>
+    </div>
+
+  </div>
+
+  <div class="text-center visible-xs">
+   <a href="/speakers/" class="btn btn-primary btn-header">View all speakers</a>
+  </div>
+
+</div>
+
+    <!-- LATEST NEWS -->
+	  <div class="container widget">
+	  <h2>Latest APIStrat News</h2>
+		<a href="/blog/" class="btn btn-primary btn-header pull-right hidden-xs">View all posts</a>
+
+    <h3></h3>
+	  <div class="articles carousel slide" data-ride="carousel" data-interval="false" id="articles-carousel">
+
+    <!-- Wrapper for slides -->
+	  <div class="carousel-inner">
+	     <div class="item active">
+
+         {% for post in site.posts limit:2 %}
+	        <article>
+	           <div class="image">
+	              <a href="{{ post.url }}" class="text-fit">
+                  <span class="date">
+    		            <span class="month">{{ post.date | date:"%m" }}</span>
+    		            <span class="day">{{ post.date | date:"%d" }}</span>
+    		            <span class="year">{{ post.date | date:"%Y" }}</span>
+    			      	</span>
+  	              <img width="238" height="236" src="{{ post.image }}" class="attachment-tyler-blog-home wp-post-image" alt="{{ post.title }}" />	                       </a>
+	            </div>
+	            <div class="post-content">
+	               <a href="{{ post.url }}" class="text-fit">
+	                  <strong class="heading">{{ post.title }}</strong>
+	                  <span class="perex">
+                      {{ post.content | split:'<!--break-->' | first }}
+      						    {% if post.content contains '<!--break-->' %}
+      						       <a href="{{ post.url }}">read more >></a>
+      						    {% endif %}
+                    </span>
+	                </a>
+	            </div>
+	          </article>
+            {% endfor %}
+
+	        </div>
+	      </div>
+      </div>
+	  </div>
+	</div>
+
+  <!-- CONNECT -->
+  <div id="tile_connect" class="container widget">
+    <div class="connect">
+      <div class="connect-inner">
+        <span>Connect with Us</span>
+        <div class="links">
+          <a href="mailto:contact@apistrat.com" title="Email"><i class="icon-envelope"></i></a>
+          <a href="http://apidaysberlin2015.apistrat.com/blog.xml" target="_blank" title="RSS"><i class="icon-rss"></i></a>
+          <a href="https://twitter.com/apistrat" target="_blank" title="Twitter"><i class="icon-twitter"></i></a>							<a href="https://www.flickr.com/photos/95142376@N05/" target="_blank" title="Flickr"><i class="icon-flickr"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
