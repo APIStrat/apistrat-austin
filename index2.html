@@ -57,31 +57,20 @@ title: APIStrat Austin 2015
     <div class="carousel-inner">
        <div class="item active">
 
-          <div class="speaker">
-             <a class="speaker-inner" href="/speakers/neha-sampat/">
-             <span class="photo">
-             <img width="200" height="200" src="https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/neha-sampat-headshot.jpeg" alt="" />
-             </span>
-             <span class="name"><span class="text-fit" style="font-size: 12px;">Neha Sampat (Built.io)</span></span>
-             <span class="description">CEO of @Builtio | Co-founder of @raweng & @kurbkarma | Advocate for Women in Leadership | Certified Sommelier</span>
-             <span class="view">
-                View profile <i class="icon-angle-right"></i>
-             </span>
-             </a>
-          </div>
-
-          <div class="speaker">
-             <a class="speaker-inner" href="/speakers/dion-hinchcliffe/">
-             <span class="photo">
-             <img width="200" height="200" src="https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dion_hinchcliffe-headshot.jpg" alt="" />
-             </span>
-             <span class="name"><span class="text-fit" style="font-size: 12px;">Dion Hinchcliffe (7Summits)</span></span>
-             <span class="description">Chief Strategy Officer, business strategist, enterprise architect, keynote speaker, author, and futurist on #socbiz, #digital.</span>
-             <span class="view">
-                View profile <i class="icon-angle-right"></i>
-             </span>
-             </a>
-          </div>
+         {% for speaker in site.featured_speakers %}
+         <div class="speaker">
+            <!--<a class="speaker-inner" href="{{ speaker.slug }}">-->
+            <span class="photo">
+            <img width="200" height="200" src="{{ speaker.image }}" alt="" />
+            </span>
+            <span class="name"><span class="text-fit" style="font-size: 12px;">{{ speaker.image }} ({{ speaker.image }})</span></span>
+            <span class="description">{{ speaker.image }}</span>
+            <!--<span class="view">
+               View profile <i class="icon-angle-right"></i>
+            </span>-->
+            <!--</a>-->
+         </div>
+         {% endfor %}
 
         </div>
     </div>

@@ -20,3 +20,17 @@ BASE_PATH : http://austin2015.apistrat.com
 
 categories_path : /categories.html
 tags_path : /tags.html
+
+featured_speakers:
+  - name: "Neha Sampat"
+    company: Built.io
+    company_url: http://built.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/neha-sampat-headshot.jpeg
+    description: CEO of @Builtio | Co-founder of @raweng & @kurbkarma | Advocate for Women in Leadership | Certified Sommelier
+    slug: /speakers/neha-sampat/
+  - name: Dion Hinchcliffe
+    company: 7Summits
+    company_url: http://www.7summitsinc.com/
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dion_hinchcliffe-headshot.jpg
+    description: Chief Strategy Officer, business strategist, enterprise architect, keynote speaker, author, and futurist on #socbiz, #digital.
+    slug: /speakers/dion-hinchcliffe/
