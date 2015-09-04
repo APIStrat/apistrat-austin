@@ -56,9 +56,15 @@ sponsors:
   - name: Cloud Elements
     link: http://cloud-elements.com/
     logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/cloud-elements-logo.png
-  - name: AnyPresence
+  - name: JustAPIs by AnyPresence
     link: http://www.anypresence.com/
-    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/anypresence-logo.jpeg
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/jusapis-logo.png
+  - name: Apiary
+    link: https://apiary.io/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/apiary-logo.png
+  - name: Swagger
+    link: http://swagger.io/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/swagger-logo.png
 
 organizers:
   - name: 3Scale
