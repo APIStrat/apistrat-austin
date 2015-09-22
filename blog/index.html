@@ -38,7 +38,7 @@ title: Adopta Agency - Blog
 				    		<a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
 				    	</strong>
 							<div class="perex">
-								{{ post.content | strip_html | split:'<!--break-->' |  first }}
+								{{ post.content | split:'<!--break-->' |  first | strip_html  }}
 						    {% if post.content contains '<!--break-->' %}
 						       <a href="{{ post.url }}">read more</a>
 						    {% endif %}
