@@ -137,7 +137,7 @@ title: APIStrat Austin 2015
 	  <div class="carousel-inner">
 	     <div class="item active">
 
-         {% for post in site.posts limit:3 %}
+         {% for post in site.posts limit:2 %}
 	        <article>
 	           <div class="image">
 	              <a href="{{ post.url }}" class="text-fit">
@@ -152,7 +152,7 @@ title: APIStrat Austin 2015
 	               <a href="{{ post.url }}" class="text-fit">
 	                  <strong class="heading">{{ post.title }}</strong>
 	                  <span class="perex">
-                      {{ post.content | split:'<!--break-->' | strip_html | first }}
+                      {{ post.content | strip_html | split:'<!--break-->' |  first }}
       						    {% if post.content contains '<!--break-->' %}
       						       <a href="{{ post.url }}">read more >></a>
       						    {% endif %}
