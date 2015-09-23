@@ -56,7 +56,6 @@ title: APIStrat Austin 2015
 
          {% for speaker in site.featured_speakers %}
          <div class="speaker" style="margin: 5px 50px 5px 50px;">
-            <a class="speaker-inner" href="{{ speaker.slug }}">
             <span class="photo">
               <img width="200" height="200" src="{{ speaker.image }}" alt="" />
             </span>
@@ -64,7 +63,6 @@ title: APIStrat Austin 2015
               {{ speaker.name }}<br />({{ speaker.company }})
             </span>
             <span class="description" style="color: #FFF;">{{ speaker.description }}</span><br />
-            </a>
          </div>
          {% endfor %}
 
