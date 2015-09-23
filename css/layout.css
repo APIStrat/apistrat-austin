@@ -739,8 +739,8 @@ h2 + .btn-header {
 
 /* speakers */
 .speakers {
-    margin-left: -15px;
-    margin-right: -15px;
+    margin-left: -25px;
+    margin-right: -25px;
     text-align: center;
 }
 .speakers.carousel {
@@ -749,7 +749,7 @@ h2 + .btn-header {
 }
 .speakers .speaker {
     display: inline-block;
-    padding: 0 15px;
+    padding: 0 25px;
     margin: 15px -1.5px;
     width: 33.33333%;
     white-space: normal;
