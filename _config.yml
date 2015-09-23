@@ -36,6 +36,13 @@ featured_speakers:
     description: Chief Strategy Officer, business strategist, enterprise architect, keynote speaker, author, & futurist.
     slug: /speakers/dion-hinchcliffe/
     twitter: https://twitter.com/dhinchcliffe
+  - name: Lori MacVittie
+    company: F5 Networks
+    company_url: https://f5.com/
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorie-macvittie.jpg
+    description: Lori MacVittie is a subject matter expert on emerging technology responsible for education and evangelism across F5s entire product suite.
+    slug: /speakers/lori-macvittie/
+    twitter: https://twitter.com/lmacvittie    
   - name: Ashley Hathaway
     company: IBM Watson Group
     company_url: http://www.ibm.com/smarterplanet/us/en/ibmwatson/
@@ -43,13 +50,6 @@ featured_speakers:
     description: Ass part of a strong team she helps to prioritize, drive requirements, and realize the vision of a successful product for the IBM Watson Developer Cloud in Austin, Texas.
     slug: /speakers/ashley-hathaway/
     twitter: https://twitter.com/ash_hathaway
-  - name: Lori MacVittie
-    company: F5 Networks
-    company_url: https://f5.com/
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorie-macvittie.jpg
-    description: Lori MacVittie is a subject matter expert on emerging technology responsible for education and evangelism across F5s entire product suite.
-    slug: /speakers/lori-macvittie/
-    twitter: https://twitter.com/lmacvittie
 
 sponsors:
   - name: 3Scale
