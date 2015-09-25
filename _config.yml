@@ -42,12 +42,12 @@ featured_speakers:
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorie-macvittie.jpg
     description: Lori MacVittie is a subject matter expert on emerging technology responsible for education and evangelism across F5s entire product suite.
     slug: /speakers/lori-macvittie/
-    twitter: https://twitter.com/lmacvittie    
+    twitter: https://twitter.com/lmacvittie
   - name: Ashley Hathaway
     company: IBM Watson Group
     company_url: http://www.ibm.com/smarterplanet/us/en/ibmwatson/
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ashley-hathway.jpeg
-    description: Ass part of a strong team she helps to prioritize, drive requirements, and realize the vision of a successful product for the IBM Watson Developer Cloud in Austin, Texas.
+    description: As part of a strong team she helps to prioritize, drive requirements, and realize the vision of a successful product for the IBM Watson Developer Cloud in Austin, Texas.
     slug: /speakers/ashley-hathaway/
     twitter: https://twitter.com/ash_hathaway
 
