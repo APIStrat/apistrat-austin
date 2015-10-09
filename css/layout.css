@@ -1625,6 +1625,8 @@ form.contact-us textarea {
 }
 .sponsors .sponsor img {
     max-width: 100%;
+    text-align: center;
+    aligncenter;
 }
 .sponsors-lg .sponsor { width: 33.3%; }
 .sponsors-md .sponsor { width: 25%; }
