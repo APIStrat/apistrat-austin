@@ -85,6 +85,9 @@ sponsors:
   - name: Twitter
     link: http://twitter.com
     logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/Twitter_logo_blue.png
+  - name: Pusher
+    link: http://pusher.com
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/pusher-logo.png
 
 organizers:
   - name: 3Scale
