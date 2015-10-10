@@ -108,8 +108,8 @@ title: APIDays Berlin and APIStrat Europe 2015 - Schedule
                       <a class="title" href="#"><span>{{ entry.title }}</span></a>
                       <span class="location">{{ entry.location }}</span>
 
+                      <span class="speakers-thumbs">
                       {% for speaker in entry.speakers %}
-                        <span class="speakers-thumbs">
                           <a class="speaker" href="{{ speaker.slug }}">
                             <img alt="{{ speaker.name }} ({{ speaker.company }})" class="attachment-54x54 wp-post-image" height="54" src="{{ speaker.image }}" width="47">
                             <span class="name">
@@ -118,8 +118,8 @@ title: APIDays Berlin and APIStrat Europe 2015 - Schedule
                               </span>
                             </span>
                           </a>
-                        </span>
                       {% endfor %}
+                      </span>
 
                       <a class="more" href="">More info <i class="icon-angle-right"></i></a>
 
