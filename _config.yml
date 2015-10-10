@@ -121,7 +121,7 @@ dayone:
           slug: steve-wilmott
     - time: 9:00 am - 9:10 am
       title: OPENING REMARKS
-      location: Room: Main Stage
+      location: Main Stage
       speakers:
         - name: Steve Willmott
           company: 3Scale
