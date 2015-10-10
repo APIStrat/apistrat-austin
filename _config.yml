@@ -98,44 +98,43 @@ organizers:
     logo: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/api-evangelist-logo1.png
 
 dayone:
-  - slot:
-    - time: 8:15 AM - 9:00 AM
-      title: Registration and Coffee
-      location: Break Area
-      speakers:
-        - name: Steve Willmott
-          company: 3Scale
-          image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-          slug: steve-wilmott
-        - name: Steve Willmott
-          company: 3Scale
-          image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-          slug: steve-wilmott
-        - name: Steve Willmott
-          company: 3Scale
-          image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-          slug: steve-wilmott
-        - name: Steve Willmott
-          company: 3Scale
-          image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-          slug: steve-wilmott
-    - time: 9:00 AM - 9:10 AM
-      title: Opening Remarks
-      location: Main Stage
-      speakers:
-        - name: Steve Willmott
-          company: 3Scale
-          image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-          slug: steve-wilmott
-        - name: Steve Willmott
-          company: 3Scale
-          image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-          slug: steve-wilmott
-        - name: Steve Willmott
-          company: 3Scale
-          image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-          slug: steve-wilmott
-        - name: Steve Willmott
-          company: 3Scale
-          image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-          slug: steve-wilmott
+  - time: 8:15 AM - 9:00 AM
+    title: Registration and Coffee
+    location: Break Area
+    speakers:
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+  - time: 9:00 AM - 9:10 AM
+    title: Opening Remarks
+    location: Main Stage
+    speakers:
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
