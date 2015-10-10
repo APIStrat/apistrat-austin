@@ -98,11 +98,11 @@ organizers:
     logo: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/api-evangelist-logo1.png
 
 dayone:
-  - time: 8:15 AM - 9:00 AM
+  - time: 8:15 am - 9:00 am
     title: Registration and Coffee
     location: Break Area
     speakers:
-  - time: 9:00 AM - 9:10 AM
+  - time: 9:00 am - 9:10 am
     title: Opening Remarks
     location: Main Stage
     speakers:
@@ -122,7 +122,7 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 9:10 AM - 9:35 AM
+  - time: 9:10 am - 9:35 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -130,7 +130,7 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 9:35 AM - 10:00 AM
+  - time: 9:35 am - 10:00 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -138,7 +138,7 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 10:00 AM - 10:25 AM
+  - time: 10:00 am - 10:25 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -146,7 +146,7 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 10:00 AM - 10:25 AM
+  - time: 10:00 am - 10:25 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -154,11 +154,11 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 10:25 AM - 10:50 AM
+  - time: 10:25 am - 10:50 am
     title: Coffee Break
     location: Break Area
     speakers:
-  - time: 10:50 AM - 12:20 PM
+  - time: 10:50 am - 12:20 pm
     title: Session
     location: Breakout One
     speakers:
@@ -178,7 +178,7 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 10:50 AM - 12:20 PM
+  - time: 10:50 am - 12:20 pm
     title: Session
     location: Breakout Two
     speakers:
@@ -198,7 +198,7 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 10:50 AM - 12:20 PM
+  - time: 10:50 am - 12:20 pm
     title: Session
     location: Breakout Three
     speakers:
@@ -218,11 +218,11 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 12:20 PM - 1:20 PM
+  - time: 12:20 pm - 1:20 pm
     title: Lunch
     location: Break Area
     speakers:
-  - time: 1:20 PM - 2:50 PM
+  - time: 1:20 pm - 2:50 pm
     title: Session
     location: Breakout One
     speakers:
@@ -242,7 +242,7 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 1:20 PM - 2:50 PM
+  - time: 1:20 pm - 2:50 pm
     title: Session
     location: Breakout Two
     speakers:
@@ -262,7 +262,7 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 1:20 PM - 2:50 PM
+  - time: 1:20 pm - 2:50 pm
     title: Session
     location: Breakout Three
     speakers:
@@ -282,11 +282,11 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 2:50 AM - 3:20 PM
+  - time: 2:50 am - 3:20 pm
     title: Coffee Break (Sponsored By Steve)
     location: Break Area
     speakers:
-  - time: 3:20 PM - 3:45 PM
+  - time: 3:20 pm - 3:45 pm
     title: Keynote
     location: Main Stage
     speakers:
@@ -294,7 +294,7 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 3:45 PM - 4:10 PM
+  - time: 3:45 pm - 4:10 pm
     title: Keynote
     location: Main Stage
     speakers:
@@ -302,7 +302,7 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 4:10 PM - 4:35 PM
+  - time: 4:10 pm - 4:35 pm
     title: Fireside Chat
     location: Main Stage
     speakers:
@@ -314,7 +314,7 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 4:35 PM - 5:05 PM
+  - time: 4:35 pm - 5:05 pm
     title: Fireside Chat
     location: Main Stage
     speakers:
@@ -326,7 +326,7 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 5:05 PM - 5:15 PM
+  - time: 5:05 pm - 5:15 pm
     title: Closing Remarks
     location: Main Stage
     speakers:
@@ -334,17 +334,17 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 5:15 PM - 7:00 PM
+  - time: 5:15 pm - 7:00 pm
     title: Drinks Reception
     location: Break Area
     speakers:
 
 daytwo:
-  - time: 8:15 AM - 9:00 AM
+  - time: 8:15 am - 9:00 am
     title: Registration and Coffee
     location: Break Area
     speakers:
-  - time: 9:00 AM - 9:10 AM
+  - time: 9:00 am - 9:10 am
     title: Opening Remarks
     location: Main Stage
     speakers:
@@ -364,7 +364,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 9:10 AM - 9:35 AM
+  - time: 9:10 am - 9:35 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -372,7 +372,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 9:35 AM - 10:00 AM
+  - time: 9:35 am - 10:00 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -380,7 +380,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 10:00 AM - 10:25 AM
+  - time: 10:00 am - 10:25 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -388,7 +388,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 10:00 AM - 10:25 AM
+  - time: 10:00 am - 10:25 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -396,11 +396,11 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 10:25 AM - 10:50 AM
+  - time: 10:25 am - 10:50 am
     title: Coffee Break
     location: Break Area
     speakers:
-  - time: 10:50 AM - 12:20 PM
+  - time: 10:50 am - 12:20 pm
     title: Session
     location: Breakout One
     speakers:
@@ -420,7 +420,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 10:50 AM - 12:20 PM
+  - time: 10:50 am - 12:20 pm
     title: Session
     location: Breakout Two
     speakers:
@@ -440,7 +440,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 10:50 AM - 12:20 PM
+  - time: 10:50 am - 12:20 pm
     title: Session
     location: Breakout Three
     speakers:
@@ -460,11 +460,11 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 12:20 PM - 1:20 PM
+  - time: 12:20 pm - 1:20 pm
     title: Lunch
     location: Break Area
     speakers:
-  - time: 1:20 PM - 2:50 PM
+  - time: 1:20 pm - 2:50 pm
     title: Session
     location: Breakout One
     speakers:
@@ -484,7 +484,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 1:20 PM - 2:50 PM
+  - time: 1:20 pm - 2:50 pm
     title: Session
     location: Breakout Two
     speakers:
@@ -504,7 +504,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 1:20 PM - 2:50 PM
+  - time: 1:20 pm - 2:50 pm
     title: Session
     location: Breakout Three
     speakers:
@@ -524,11 +524,11 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 2:50 AM - 3:20 PM
+  - time: 2:50 am - 3:20 pm
     title: Coffee Break (Sponsored By Steve)
     location: Break Area
     speakers:
-  - time: 3:20 PM - 3:45 PM
+  - time: 3:20 pm - 3:45 pm
     title: Keynote
     location: Main Stage
     speakers:
@@ -536,7 +536,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 3:45 PM - 4:10 PM
+  - time: 3:45 pm - 4:10 pm
     title: Keynote
     location: Main Stage
     speakers:
@@ -544,7 +544,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 4:10 PM - 4:35 PM
+  - time: 4:10 pm - 4:35 pm
     title: Fireside Chat
     location: Main Stage
     speakers:
@@ -556,7 +556,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 4:35 PM - 5:05 PM
+  - time: 4:35 pm - 5:05 pm
     title: Fireside Chat
     location: Main Stage
     speakers:
@@ -568,7 +568,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 5:05 PM - 5:15 PM
+  - time: 5:05 pm - 5:15 pm
     title: Closing Remarks
     location: Main Stage
     speakers:
@@ -576,7 +576,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 5:15 PM - 7:00 PM
+  - time: 5:15 pm - 7:00 pm
     title: Drinks Reception
     location: Break Area
     speakers:
