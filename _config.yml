@@ -99,8 +99,8 @@ organizers:
 
 dayone:
   - slot:
-    - time: 8:15 am - 9:00 am
-      title: REGISTRATION and COFFEE
+    - time: 8:15 AM - 9:00 AM
+      title: Registration and Coffee
       location: Break Area
       speakers:
         - name: Steve Willmott
@@ -119,8 +119,8 @@ dayone:
           company: 3Scale
           image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
           slug: steve-wilmott
-    - time: 9:00 am - 9:10 am
-      title: OPENING REMARKS
+    - time: 9:00 AM - 9:10 AM
+      title: Opening Remarks
       location: Main Stage
       speakers:
         - name: Steve Willmott

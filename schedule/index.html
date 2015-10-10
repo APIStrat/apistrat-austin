@@ -98,16 +98,17 @@ title: APIDays Berlin and APIStrat Europe 2015 - Schedule
                 </div>
             </div>
 
-            {% for slot in site.dayone.slot %}
-              <div class="session">
-                  <span class="time">{{ slot.time }}</span>
+            Here: 1
+            {% for entry in site.dayone.slot %}
+              <div class="session">2
+                  <span class="time">{{ entry.time }}</span>
 
                   <div class="session-inner">
 
-                      <a class="title" href="#"><span>{{ slot.title }}</span></a>
-                      <span class="location">{{ slot.location }}</span>
+                      <a class="title" href="#"><span>{{ entry.title }}</span></a>
+                      <span class="location">{{ entry.location }}</span>
 
-                      {% for speaker in slot.speakers %}
+                      {% for speaker in entry.speakers %}
                         <span class="speakers-thumbs">
                           <a class="speaker" href="{{ speaker.slug }}">
                             <img alt="{{ speaker.name }} ({{ speaker.company }})" class="attachment-54x54 wp-post-image" height="54" src="{{ speaker.image }}" width="47">
