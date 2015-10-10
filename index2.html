@@ -7,7 +7,6 @@ title: APIStrat Austin 2015
     <div class="landing">
         <div class="bg" style="background-image: url('https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/austin-1-earl-mcgehee.jpg')"></div>
         <h1 style="padding-left: 20px;"><span class="text-fit" style="color:#000; padding-left: 20px;">APIStrat Austin 2015</span></h1>
-        <div style="padding-bottom: 20px;"><p class="lead text-fit" style="color:#000; padding-bottom: 50px;">The API conversation GETs interesting...</p></div>
 	      <div class="row">
             <div class="col-md-7">
                 <div class="box">
@@ -45,21 +44,19 @@ title: APIStrat Austin 2015
     <p>Thanks for visiting, stay tuned for more information, and we look forward to seeing you in Austin this fall.</p>
 </div>
 
-
 <!-- SPEAKERS -->
 <div id="tile_speakers" class="container widget">
 
   <h2>Speakers</h2>
   <!--<a href="/speakers/" class="btn btn-primary btn-header pull-right hidden-xs">View all speakers</a>-->
   <h3>Here are the first keynotes announced -- many more to come, so say tuned!</h3>
-  <div class="speakers carousel slide" data-ride="carousel" data-interval="false" id="speakers-carousel">
-
+  <div class="speakers">
     <div class="carousel-inner">
        <div class="item active">
 
          {% for speaker in site.featured_speakers %}
-         <div class="speaker">
-            <a class="speaker-inner" href="{{ speaker.slug }}">
+         <div class="speaker" style="margin: 5px 50px 5px 50px;">
+            <a class="speaker-inner" href="#">
             <span class="photo">
               <img width="200" height="200" src="{{ speaker.image }}" alt="" />
             </span>
@@ -96,7 +93,7 @@ title: APIStrat Austin 2015
       {% for oranizer in site.sponsors %}
           <div class="sponsor">
             <a href="{{ oranizer.link }}" title="{{ oranizer.name }}" target="_blank">
-              <img align="center" src="{{ oranizer.logo }}" class="attachment-full wp-post-image" alt="{{ oranizer.name }}" align="center" />
+              <img align="center" src="{{ oranizer.logo }}" alt="{{ oranizer.name }}" />
             </a>
           </div>
       {% endfor %}
@@ -139,7 +136,7 @@ title: APIStrat Austin 2015
 	  <div class="carousel-inner">
 	     <div class="item active">
 
-         {% for post in site.posts limit:2 %}
+         {% for post in site.posts limit:3 %}
 	        <article>
 	           <div class="image">
 	              <a href="{{ post.url }}" class="text-fit">
@@ -154,7 +151,7 @@ title: APIStrat Austin 2015
 	               <a href="{{ post.url }}" class="text-fit">
 	                  <strong class="heading">{{ post.title }}</strong>
 	                  <span class="perex">
-                      {{ post.content | split:'<!--break-->' | first }}
+                      {{ post.content | split:'<!--break-->' |  first | strip_html  }}
       						    {% if post.content contains '<!--break-->' %}
       						       <a href="{{ post.url }}">read more >></a>
       						    {% endif %}
@@ -173,53 +170,27 @@ title: APIStrat Austin 2015
   <!-- Tweets -->
   <div class="container widget">
 
-    <h2>Some Tweets About Previous @APIStrat Events</h2>
+    <h2>Tweets About Previous @APIStrat Events</h2>
+    <div style="padding-left: 225px;">
 
-    <div style="padding: 0px; margin: 0px; border: 1px solid #000;">
+      <blockquote class="twitter-tweet" lang="en" style="display: inline;"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/apistrat">@apistrat</a> <a href="https://twitter.com/APIdaysGlobal">@APIdaysGlobal</a> <a href="https://twitter.com/APIdaysGlobal">@APIdaysGlobal</a> <a href="https://twitter.com/kinlane">@kinlane</a> for a great conference. Looking forward to a next edition</p>&mdash; Menno Abbink (@mennoabbink) <a href="https://twitter.com/mennoabbink/status/592409958530056193">April 26, 2015</a></blockquote>
 
-      <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/apistrat">@apistrat</a> <a href="https://twitter.com/APIdaysGlobal">@APIdaysGlobal</a> <a href="https://twitter.com/APIdaysGlobal">@APIdaysGlobal</a> <a href="https://twitter.com/kinlane">@kinlane</a> for a great conference. Looking forward to a next edition</p>&mdash; Menno Abbink (@mennoabbink) <a href="https://twitter.com/mennoabbink/status/592409958530056193">April 26, 2015</a></blockquote>
+      <blockquote class="twitter-tweet" lang="en" style="display: inline;"><p lang="en" dir="ltr">Another thing that <a href="https://twitter.com/apistrat">@apistrat</a> and <a href="https://twitter.com/APIDaysBerlin">@APIDaysBerlin</a> got right at this weeks conference was having womens sizes for T-Shirts, thanks for that!</p>&mdash; Mandy Waite (@tekgrrl) <a href="https://twitter.com/tekgrrl/status/592396238793900032">April 26, 2015</a></blockquote>
 
-      <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Another thing that <a href="https://twitter.com/apistrat">@apistrat</a> and <a href="https://twitter.com/APIDaysBerlin">@APIDaysBerlin</a> got right at this weeks conference was having womens sizes for T-Shirts, thanks for that!</p>&mdash; Mandy Waite (@tekgrrl) <a href="https://twitter.com/tekgrrl/status/592396238793900032">April 26, 2015</a></blockquote>
+      <blockquote class="twitter-tweet" lang="en" style="display: inline;"><p lang="en" dir="ltr">Another tremendous conference put on by <a href="https://twitter.com/kinlane">@kinlane</a> and Steve. Thank you guys for an amazing <a href="https://twitter.com/apistrat">@apistrat</a> 2014 <a href="https://twitter.com/hashtag/chicago?src=hash">#chicago</a></p>&mdash; Mike Stowe (@mikegstowe) <a href="https://twitter.com/mikegstowe/status/515639979742359552">September 26, 2014</a></blockquote>
 
-      <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Another tremendous conference put on by <a href="https://twitter.com/kinlane">@kinlane</a> and Steve. Thank you guys for an amazing <a href="https://twitter.com/apistrat">@apistrat</a> 2014 <a href="https://twitter.com/hashtag/chicago?src=hash">#chicago</a></p>&mdash; Mike Stowe (@mikegstowe) <a href="https://twitter.com/mikegstowe/status/515639979742359552">September 26, 2014</a></blockquote>
+      <blockquote class="twitter-tweet" lang="en" style="display: inline;"><p lang="en" dir="ltr">Back in London after an awesome <a href="https://twitter.com/apistrat">@apistrat</a>. Congrats and thank you to <a href="https://twitter.com/njyx">@njyx</a>, <a href="https://twitter.com/kinlane">@kinlane</a>, the <a href="https://twitter.com/3scale">@3scale</a> team and everyone who joined! <a href="https://twitter.com/hashtag/apistratAMS?src=hash">#apistratAMS</a></p>&mdash; Romain Huet (@romainhuet) <a href="https://twitter.com/romainhuet/status/450321112304730113">March 30, 2014</a></blockquote>
 
-      <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Back in London after an awesome <a href="https://twitter.com/apistrat">@apistrat</a>. Congrats and thank you to <a href="https://twitter.com/njyx">@njyx</a>, <a href="https://twitter.com/kinlane">@kinlane</a>, the <a href="https://twitter.com/3scale">@3scale</a> team and everyone who joined! <a href="https://twitter.com/hashtag/apistratAMS?src=hash">#apistratAMS</a></p>&mdash; Romain Huet (@romainhuet) <a href="https://twitter.com/romainhuet/status/450321112304730113">March 30, 2014</a></blockquote>
+      <blockquote class="twitter-tweet" lang="en" style="display: inline;"><p lang="en" dir="ltr">Great week at <a href="https://twitter.com/apistrat">@apistrat</a>, learned a lot and met very interesting people ! Thank you all :)</p>&mdash; Antoine Jackson (@willjcksn) <a href="https://twitter.com/willjcksn/status/449650529111904256">March 28, 2014</a></blockquote>
 
-      <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Great week at <a href="https://twitter.com/apistrat">@apistrat</a>, learned a lot and met very interesting people ! Thank you all :)</p>&mdash; Antoine Jackson (@willjcksn) <a href="https://twitter.com/willjcksn/status/449650529111904256">March 28, 2014</a></blockquote>
+      <blockquote class="twitter-tweet" lang="en" style="display: inline;"><p lang="en" dir="ltr">Amazing conversations in <a href="https://twitter.com/hashtag/apis?src=hash">#apis</a> at <a href="https://twitter.com/hashtag/apistrat?src=hash">#apistrat</a> thank you <a href="https://twitter.com/kinlane">@kinlane</a> <a href="https://twitter.com/njyx">@njyx</a> <a href="https://twitter.com/apistrat">@apistrat</a> ! <a href="http://t.co/ScbPpVjsIo">pic.twitter.com/ScbPpVjsIo</a></p>&mdash; Laura Heritage (@heritagelaura) <a href="https://twitter.com/heritagelaura/status/448924101659217921">March 26, 2014</a></blockquote>
 
-      <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Amazing conversations in <a href="https://twitter.com/hashtag/apis?src=hash">#apis</a> at <a href="https://twitter.com/hashtag/apistrat?src=hash">#apistrat</a> thank you <a href="https://twitter.com/kinlane">@kinlane</a> <a href="https://twitter.com/njyx">@njyx</a> <a href="https://twitter.com/apistrat">@apistrat</a> ! <a href="http://t.co/ScbPpVjsIo">pic.twitter.com/ScbPpVjsIo</a></p>&mdash; Laura Heritage (@heritagelaura) <a href="https://twitter.com/heritagelaura/status/448924101659217921">March 26, 2014</a></blockquote>
+      <blockquote class="twitter-tweet" lang="en" style="display: inline;"><p lang="en" dir="ltr">Just back to SF! Had amazing days with smart people and awesome APIs at <a href="https://twitter.com/apistrat">@apistrat</a> - Thank you <a href="https://twitter.com/kinlane">@kinlane</a> &amp; <a href="https://twitter.com/njyx">@njyx</a> to make it happen.</p>&mdash; Augusto Marietti (@sinzone) <a href="https://twitter.com/sinzone/status/306248717726519296">February 26, 2013</a></blockquote>
 
-      <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Just back to SF! Had amazing days with smart people and awesome APIs at <a href="https://twitter.com/apistrat">@apistrat</a> - Thank you <a href="https://twitter.com/kinlane">@kinlane</a> &amp; <a href="https://twitter.com/njyx">@njyx</a> to make it happen.</p>&mdash; Augusto Marietti (@sinzone) <a href="https://twitter.com/sinzone/status/306248717726519296">February 26, 2013</a></blockquote>
-
-      <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Indeed, great content and speakers. RT <a href="https://twitter.com/gueritaverde">@gueritaverde</a>: <a href="https://twitter.com/apistrat">@apistrat</a> <a href="https://twitter.com/kinlane">@kinlane</a> it was an awesome conference, so glad to attend! Thank you!&quot;</p>&mdash; Dave Goldberg (@davidgoldberg) <a href="https://twitter.com/davidgoldberg/status/305285437428203520">February 23, 2013</a></blockquote>
+      <blockquote class="twitter-tweet" lang="en" style="display: inline;"><p lang="en" dir="ltr">Indeed, great content and speakers. RT <a href="https://twitter.com/gueritaverde">@gueritaverde</a>: <a href="https://twitter.com/apistrat">@apistrat</a> <a href="https://twitter.com/kinlane">@kinlane</a> it was an awesome conference, so glad to attend! Thank you!&quot;</p>&mdash; Dave Goldberg (@davidgoldberg) <a href="https://twitter.com/davidgoldberg/status/305285437428203520">February 23, 2013</a></blockquote>
 
       <blockquote class="twitter-tweet" lang="en" style="display: inline;"><p lang="en" dir="ltr"><a href="https://twitter.com/apistrat">@apistrat</a> <a href="https://twitter.com/kinlane">@kinlane</a> it was an awesome conference, so glad to attend! Thank you!</p>&mdash; Christina Green (@gueritaverde) <a href="https://twitter.com/gueritaverde/status/305081239407312896">February 22, 2013</a></blockquote>
       <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-      <style>
-        blockquote.twitter-tweet {
-          display: inline-block;
-          padding: 2px;
-          margin: 5px 0;
-          max-width: 375px;
-          border: #ddd 1px solid;
-          border-top-color: #eee;
-          border-bottom-color: #bbb;
-          border-radius: 5px;
-          box-shadow: 0 1px 3px rgba(0,0,0,0.15);
-          font: bold 14px/18px Helvetica, Arial, sans-serif;
-          color: #000;
-        }
 
-        blockquote.twitter-tweet p {
-          font: normal 18px/24px Georgia, "Times New Roman", Palatino, serif;
-          margin: 0 5px 10px 0;
-        }
-
-        blockquote.twitter-tweet a[href^="https://twitter.com"] {
-          font-weight: normal;
-          color: #666;
-          font-size: 12px;
-        }
-      </style>
     </div>
   </div>
