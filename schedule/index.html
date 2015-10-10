@@ -89,29 +89,42 @@ title: APIDays Berlin and APIStrat Europe 2015 - Schedule
                 <div class="session-inner">
                     Workshops
                 </div>
-                
+
             </div>
-
-            <!--<div class="session">
-                <span class="time">5:00 pm - 7:30 pm</span>
-
-                <div class="session-inner">
-                    <a class="title" href=
-                    "http://apidaysberlin2015.apistrat.com/sessions/birds-of-a-feather/">
-                    <span>Birds of a Feather (Sponsored by 3scale &amp;
-                    Runscope)</span></a> <span class="location">Edelweiss
-                    pub</span> <span class="speakers-thumbs"></span>
-                    <a class="more" href=
-                    "http://apidaysberlin2015.apistrat.com/sessions/birds-of-a-feather/">
-                    More info <i class="icon-angle-right"></i></a>
-                </div>
-            </div>-->
 
             <div class="followWrap" style="height: 60px;">
                 <div class="day-floating">
                     <span>November 19th, 2015</span>
                 </div>
             </div>
+
+            {% for slot in site.dayone.slot %}
+              <div class="session">
+                  <span class="time">{{ slot.time }}</span>
+
+                  <div class="session-inner">
+
+                      <a class="title" href="#"><span>{{ slot.title }}</span></a>
+                      <span class="location">{{ slot.location }}</span>
+
+                      {% for speaker in slot.speakers %}
+                        <span class="speakers-thumbs">
+                          <a class="speaker" href="{{ speaker.slug }}">
+                            <img alt="{{ speaker.name }} ({{ speaker.company }})" class="attachment-54x54 wp-post-image" height="54" src="{{ speaker.image }}" width="47">
+                            <span class="name">
+                              <span class="text-fit">
+                                <span class="text-fit-inner" style="display: block; font-size: 0.95em;">{{ speaker.name }} ({{ speaker.company }})</span>
+                              </span>
+                            </span>
+                          </a>
+                        </span>
+                      {% endfor %}
+
+                      <a class="more" href="">More info <i class="icon-angle-right"></i></a>
+
+                  </div>
+              </div>
+            {% endfor %}
 
             <div class="session">
                 <span class="time">8:15 am - 9:00 am</span>
