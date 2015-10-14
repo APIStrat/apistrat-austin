@@ -88,6 +88,17 @@ sponsors:
   - name: Pusher
     link: http://pusher.com
     logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/pusher-logo.png
+  - name: Runscope
+    link: http://runscope.com
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/runscope-logo.png
+
+goldsponsors:
+  - name: 3Scale
+    link: http://www.3scale.net/
+    logo: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/3scale-logo-new.png
+  - name: 3Scale
+    link: http://www.3scale.net/
+    logo: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/3scale-logo-new.png
 
 organizers:
   - name: 3Scale
