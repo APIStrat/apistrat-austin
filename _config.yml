@@ -96,9 +96,49 @@ goldsponsors:
   - name: 3Scale
     link: http://www.3scale.net/
     logo: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/3scale-logo-new.png
-  - name: 3Scale
-    link: http://www.3scale.net/
-    logo: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/3scale-logo-new.png
+  - name: IBM
+    link: http://ibm.com
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/ibm-logo.png
+
+silversponsors:
+  - name: Walgreens
+    link: https://developer.walgreens.com/
+    logo: http://kinlane-productions.s3.amazonaws.com/up-image.php/sponsor/Walgreens_Type-Logo_Red_4c.jpg
+  - name: Klout
+    link: https://klout.com/s/developers/home
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/klout-logo-color-dark.png
+  - name: SmartBear
+    link: http://smartbear.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/Color-SmartBear_Logo.png
+  - name: Akana
+    link: https://www.akana.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/akana-logo.png
+  - name: Cloud Elements
+    link: http://cloud-elements.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/cloud-elements-logo.png
+  - name: NGINX
+    link: https://www.nginx.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/nginx-logo.png
+  - name: Microsoft
+    link: https://www.microsoft.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/microsoft-logo.png
+
+bronzesponsors:
+  - name: JustAPIs by AnyPresence
+    link: http://www.anypresence.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/jusapis-logo.pn
+  - name: Twitter
+    link: http://twitter.com
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/Twitter_logo_blue.png
+  - name: Dell
+    link: http://dell.com
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/dell-logo.png
+  - name: Iron.io
+    link: http://iron.io/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/ironio-logo.png
+  - name: Pusher
+    link: http://pusher.com
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/pusher-logo.png
 
 organizers:
   - name: 3Scale
