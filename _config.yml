@@ -48,7 +48,7 @@ featured_speakers:
     company_url: http://www.ibm.com/smarterplanet/us/en/ibmwatson/
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ashley-hathway.jpeg
     description: As part of a strong team she helps to prioritize, drive requirements, and realize the vision of a successful product for the IBM Watson Developer Cloud in Austin, Texas.
-    slug: /speakers/ashley-hathaway/
+    slug: ashley-hathaway
     twitter: https://twitter.com/ash_hathaway
 
 sponsors:
@@ -161,56 +161,47 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-      - name: Steve Willmott
+      - name: Kin Lane
+        company: API Evangelist
+        image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
+        slug: kin-lane
+      - name: Mark Boyd
         company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
+        slug: mark-boyd
   - time: 9:10 am - 9:35 am
     title: Keynote
     location: Main Stage
     speakers:
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
+      - name: Neha Sampat
+        company: Built.io
+        company_url: http://built.io
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/neha-sampat-headshot.jpeg
+        description: CEO of @Builtio | Co-founder of @raweng & @kurbkarma | Advocate for Women in Leadership
+        slug: neha-sampat
+        twitter: https://twitter.com/nehasf
   - time: 9:35 am - 10:00 am
     title: Keynote
     location: Main Stage
     speakers:
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
+      - name: Teresa Tung
+        company: Accenture
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/teresa-tung.jpg
+        slug: teresa-tung
   - time: 10:00 am - 10:25 am
     title: Keynote
     location: Main Stage
     speakers:
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-  - time: 10:00 am - 10:25 am
-    title: Keynote
-    location: Main Stage
-    speakers:
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-  - time: 10:25 am - 10:50 am
+      - name: Irakli Nadareishvili
+        company: API Academy @ CA Inc.
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/irakli-nadareishvili.jpeg
+        slug: irakli-nadareishvili
+  - time: 10:25 am - 11:00 am
     title: Coffee Break
     location: Break Area
     speakers:
-  - time: 10:50 am - 12:20 pm
-    title: Session
+  - time: 11:00 am - 12:15 pm
+    title: API Design
     location: Breakout One
     speakers:
       - name: Steve Willmott
@@ -229,8 +220,8 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 10:50 am - 12:20 pm
-    title: Session
+  - time: 11:00 am - 12:15 pm
+    title: Internet of Things
     location: Breakout Two
     speakers:
       - name: Steve Willmott
@@ -249,8 +240,8 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 10:50 am - 12:20 pm
-    title: Session
+  - time: 11:00 am - 12:15 pm
+    title: Marketing
     location: Breakout Three
     speakers:
       - name: Steve Willmott
@@ -269,12 +260,12 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 12:20 pm - 1:20 pm
+  - time: 12:15 pm - 1:20 pm
     title: Lunch
     location: Break Area
     speakers:
-  - time: 1:20 pm - 2:50 pm
-    title: Session
+  - time: 1:20 pm - 2:35 pm
+    title: API Definitions
     location: Breakout One
     speakers:
       - name: Steve Willmott
@@ -293,8 +284,8 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 1:20 pm - 2:50 pm
-    title: Session
+  - time: 1:20 pm - 2:35 pm
+    title: API Testing
     location: Breakout Two
     speakers:
       - name: Steve Willmott
@@ -313,8 +304,8 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 1:20 pm - 2:50 pm
-    title: Session
+  - time: 1:20 pm - 2:35 pm
+    title: Internal Innovation
     location: Breakout Three
     speakers:
       - name: Steve Willmott
@@ -333,50 +324,103 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 2:50 am - 3:20 pm
-    title: Coffee Break (Sponsored By Steve)
+  - time: 2:35 pm - 2:45
+    title: Switchover Time
     location: Break Area
     speakers:
-  - time: 3:20 pm - 3:45 pm
+  - time: 2:45 pm - 4:00 pm
+    title: Hypermedia
+    location: Breakout One
+    speakers:
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+  - time: 2:45 pm - 4:00 pm
+    title: Speedhack Lighting Talks
+    location: Breakout Two
+    speakers:
+  - time: 2:45 pm - 4:00 pm
+    title: Developer Experience
+    location: Breakout Three
+    speakers:
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+  - time: 4:00 pm - 4:20 pm
+    title: Coffee Break
+    location: Break Area
+    speakers:
+  - time: 4:20 pm - 4:45 pm
     title: Keynote
     location: Main Stage
     speakers:
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-  - time: 3:45 pm - 4:10 pm
+      - name: Lori MacVittie
+        company: F5 Networks
+        company_url: https://f5.com/
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorie-macvittie.jpg
+        description: Lori MacVittie is a subject matter expert on emerging technology responsible for education and evangelism across F5s entire product suite.
+        slug: lori-macvittie
+        twitter: https://twitter.com/lmacvittie
+  - time: 4:45 pm - 5:10 pm
     title: Keynote
     location: Main Stage
     speakers:
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-  - time: 4:10 pm - 4:35 pm
+      - name: Ashley Hathaway
+        company: IBM Watson Group
+        company_url: http://www.ibm.com/smarterplanet/us/en/ibmwatson/
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ashley-hathway.jpeg
+        description: As part of a strong team she helps to prioritize, drive requirements, and realize the vision of a successful product for the IBM Watson Developer Cloud in Austin, Texas.
+        slug: ashley-hathaway
+        twitter: https://twitter.com/ash_hathaway
+      - name: Elliot Turner
+        company: Chief Executive Officer of AlchemyAPI
+        company_url: http://alchemyapi.com
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/elliot-turner.png
+        description: Elliot Turner is the director of Alchemy Solutions at IBM Watson, formerly the founder and Chief Executive Officer of AlchemyAPI (acquired into Watson in early 2015). A serial software entrepreneur focused on solving the toughest data problems, Elliot started AlchemyAPI to give organizations access to deep learning capabilities that enable real-time analysis to derive true meaning from data.
+        slug: elliot-turner
+        twitter: https://twitter.com/eturner303
+  - time: 5:10 pm - 5:35 pm
+    title: Traffic and Weather
+    location: Main Stage
+    speakers:
+      - name: John Sheehan
+        company: Runscope
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-sheehan.jpeg
+        slug: john-sheehan
+      - name: Steve Marx
+        company: Dropbox
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-marx.jpg
+        slug: steve-marx
+  - time: 5:35 pm - 6:05 pm
     title: Fireside Chat
     location: Main Stage
     speakers:
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-  - time: 4:35 pm - 5:05 pm
-    title: Fireside Chat
-    location: Main Stage
-    speakers:
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
   - time: 5:05 pm - 5:15 pm
     title: Closing Remarks
     location: Main Stage
@@ -385,6 +429,14 @@ dayone:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
+      - name: Kin Lane
+        company: API Evangelist
+        image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
+        slug: kin-lane
+      - name: Mark Boyd
+        company: 3Scale
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
+        slug: mark-boyd
   - time: 5:15 pm - 7:00 pm
     title: Drinks Reception
     location: Break Area
@@ -403,18 +455,14 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-      - name: Steve Willmott
+      - name: Kin Lane
+        company: API Evangelist
+        image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
+        slug: kin-lane
+      - name: Mark Boyd
         company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
+        slug: mark-boyd
   - time: 9:10 am - 9:35 am
     title: Keynote
     location: Main Stage
@@ -515,7 +563,7 @@ daytwo:
     title: Lunch
     location: Break Area
     speakers:
-  - time: 1:20 pm - 2:50 pm
+  - time: 1:20 pm - 2:35 pm
     title: Session
     location: Breakout One
     speakers:
@@ -535,7 +583,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 1:20 pm - 2:50 pm
+  - time: 1:20 pm - 2:35 pm
     title: Session
     location: Breakout Two
     speakers:
@@ -555,7 +603,7 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
-  - time: 1:20 pm - 2:50 pm
+  - time: 1:20 pm - 2:35 pm
     title: Session
     location: Breakout Three
     speakers:
@@ -627,6 +675,14 @@ daytwo:
         company: 3Scale
         image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
         slug: steve-wilmott
+      - name: Kin Lane
+        company: API Evangelist
+        image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
+        slug: kin-lane
+      - name: Mark Boyd
+        company: 3Scale
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
+        slug: mark-boyd
   - time: 5:15 pm - 7:00 pm
     title: Drinks Reception
     location: Break Area
