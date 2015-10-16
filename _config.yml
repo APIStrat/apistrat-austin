@@ -251,7 +251,7 @@ daytwo:
     speakers:
       - name: Kurt Collins
         company: Built.io <br />(Session Chair)
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mandy-whaley.jpg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kurt-collins.jpg
         slug: kurt-collins
       - name: Mandy Whaley
         company: Cisco
