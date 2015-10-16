@@ -941,18 +941,10 @@ allspeakers:
     company: API Science
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
     slug: john-musser
-  - name: Gareth Jones
-    company: Microsoft
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gareth-jones.jpg
-    slug: gareth-jones
   - name: Shelby Switzer
     company: Notion
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpeg
     slug: shelby-switzer
-  - name: Thursday Bram
-    company: Urgency Inc.
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
-    slug: thursday-bram
   - name: Kin Lane
     company: API Evangelist
     image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
