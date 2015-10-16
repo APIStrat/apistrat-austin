@@ -760,7 +760,7 @@ h2 + .btn-header {
 .speakers .speaker .speaker-inner {
     position: relative;
     display: block;
-    padding: 40px 12px 15px;
+    padding: 40px 12px 12px;
     height: 300px;
     border-radius: 4px;
     text-align: center;
