@@ -453,7 +453,7 @@ daytwo:
     speakers:
   - time: 9:30 pm to late
     title: Meetup Bar
-    location: [To Be Determined]
+    location: (To Be Announced)
     speakers:
 
 daythree:
@@ -478,8 +478,8 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
         slug: mark-boyd
   - time: 9:10 am - 9:35 am
-    title: Keynote
-    location: Main Stage (To Be Announced)
+    title: Keynote (To Be Announced)
+    location: Main Stage
     speakers:
   - time: 9:35 am - 10:00 am
     title: Keynote
@@ -614,7 +614,7 @@ daythree:
       - name: Mark Boyd
         company: 3Scale
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
-        slug: mark-boyd        
+        slug: mark-boyd
   - time: 4:10 pm - 4:35 pm
     title: Panel
     location: Main Stage
