@@ -547,22 +547,22 @@ daytwo:
     title: API Discovery
     location: Breakout Two
     speakers:
-      - name: Steve Willmott
+      - name: Kin Lane
+        company: API Evangelist
+        image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
+        slug: kin-lane
+      - name: Nicolas Grenié
         company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/nicolas-grenie.jpg
+        slug: nicolas-grenie
+      - name: Jim Laredo
+        company: IBM
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jim-laredo.jpg
+        slug: jim-laredo
+      - name: Jérôme Louvel
+        company: Restlet
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jerome-louvel.jpg
+        slug: jerome-louvel
   - time: 2:00 pm - 3:15 pm
     title: SpeedHack
     location: Breakout Three
