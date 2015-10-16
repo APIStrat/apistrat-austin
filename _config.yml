@@ -354,6 +354,10 @@ daytwo:
         company: FoxyCart
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/luke-stokes.jpg
         slug: luke-stokes
+      - name: Mike Stowe
+        company: Mulesoft
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-stowe.jpg
+        slug: mike-stowe
   - time: 2:45 pm - 4:00 pm
     title: Speedhack Lighting Talks
     location: Breakout Two
