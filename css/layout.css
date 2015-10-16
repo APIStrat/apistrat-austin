@@ -1109,10 +1109,17 @@ h2 + .btn-header {
     text-align: left;
     overflow: inherit;
 }
+
+.sessions.list .session .speaker .speakerwrap {
+  display: inline-block;
+  border: 1px solid #000;
+  width: 33%;
+  }
+
 .sessions.list .session .speaker {
     display: block;
     float: left;
-    height: 54px; width: 20%;
+    height: 54px; width: 30%;
     margin: 6px 0; padding: 0 16px 0 1px;
     color: #242424;
     font-size: 14px; font-weight: 500;
@@ -1120,7 +1127,7 @@ h2 + .btn-header {
 }
 .sessions.list .session .speaker img {
     float: left;
-    width: 54px;
+    width: 70px;
 }
 .sessions.list .session .speaker .name {
     display: block;
