@@ -710,6 +710,249 @@ daythree:
         slug: mark-boyd
 
 allspeakers:
+  - name: Neha Sampat
+    company: Built.io
+    company_url: http://built.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/neha-sampat-headshot.jpeg
+    description: CEO of @Builtio | Co-founder of @raweng & @kurbkarma | Advocate for Women in Leadership
+    slug: neha-sampat
+    twitter: https://twitter.com/nehasf
+  - name: Teresa Tung
+    company: Accenture
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/teresa-tung.jpg
+    slug: teresa-tung
+  - name: Irakli Nadareishvili
+    company: API Academy @ CA Inc.
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/irakli-nadareishvili.jpeg
+    slug: irakli-nadareishvili
+  - name: Karen (Zellner) Cohen
+    company: Wix
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/karen-cohen.jpg
+    slug: karen-cohen
+  - name: James Higginbotham
+    company: Launch Any
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/james-higginbotham.jpg
+    slug: james-higginbotham
+  - name: Everett Toews
+    company: Rackspace
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/everett-toews.jpg
+    slug: everett-toews
+  - name: Mandy Whaley
+    company: Cisco
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mandy-whaley.jpg
+    slug: mandy-whaley
+  - name: Jessica Rampen
+    company: AnyPresence
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jessica-rampen.jpg
+    slug: jessica-rampen
+  - name: Thursday Bram
+    company: Urgency Inc.
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
+    slug: thursday-bram
+  - name: Matt Gordon
+    company: Expected Behavior
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/matt-gordon-expected-behavior.jpg
+    slug: matt-gordon
+  - name: Adam Duvander
+    company: Orchestrate.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/adam-duvander.jpg
+    slug: adam-duvander
+  - name: Kristen Womack
+    company: LeadPages
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kristen-womack.jpg
+    slug: kristen-womack
+  - name: Emmanuel Paraskakis
+    company: Apiary.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/emmanuel-araskakis.jpg
+    slug: emmanuel-paraskakis
+  - name: Jakub Nesetril
+    company: Apiary.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jakub-nesetril.jpg
+    slug: jakub-nesetril
+  - name: Anya Stettler
+    company: Avalara
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/anya-stettler.jpg
+    slug: anya-stettler
+  - name: Neil Mansilla
+    company: Runscope
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/neil-mansilla.png
+    slug: neil-mansilla
+  - name: Mike Stowe
+    company: Mulesoft
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-stowe.jpg
+    slug: mike-stowe
+  - name: Gareth Jones
+    company: Microsoft
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gareth-jones.jpg
+    slug: gareth-jones
+  - name: John Musser
+    company: API Science
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
+    slug: john-musser
+  - name: Alan Sill, PHD
+    company: Texas Tech University
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/alan-sill.jpg
+    slug: alan-sill
+  - name: Bonnie Mattson
+    company: Return Path
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bonnie-mattson.jpg
+    slug: bonnie-mattson
+  - name: Lorinda Brandon
+    company: Maps CU
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorinda-brandon.jpg
+    slug: lorinda-brandon
+  - name: Loren Paulsen
+    company: Maps CU
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/loren-paulsen.jpg
+    slug: loren-paulsen
+  - name: Bryce Barrand
+    company: Marriott
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bryce-barrand.jpg
+    slug: bryce-barrand
+  - name: Shelby Switzer
+    company: Notion
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpeg
+    slug: shelby-switzer
+  - name: Luke Stokes
+    company: FoxyCart
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/luke-stokes.jpg
+    slug: luke-stokes
+  - name: Kirsten Hunter
+    company: Akamai
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kirsten-hunter.jpg
+    slug: kirsten-hunter
+  - name: Taylor Barnett
+    company: Keen.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/taylor-barnett.jpg
+    slug: taylor-barnet
+  - name: Kelly Hitchcock
+    company: Writer
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kelly-hitchcock.jpg
+    slug: kelly-hitchcock
+  - name: Gregory Koberger
+    company: Readme.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gregory-koburger.jpg
+    slug: gregory-koberger
+  - name: Lori MacVittie
+    company: F5 Networks
+    company_url: https://f5.com/
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorie-macvittie.jpg
+    description: Lori MacVittie is a subject matter expert on emerging technology responsible for education and evangelism across F5s entire product suite.
+    slug: lori-macvittie
+    twitter: https://twitter.com/lmacvittie
+  - name: Ashley Hathaway
+    company: IBM Watson Group
+    company_url: http://www.ibm.com/smarterplanet/us/en/ibmwatson/
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ashley-hathway.jpeg
+    description: As part of a strong team she helps to prioritize, drive requirements, and realize the vision of a successful product for the IBM Watson Developer Cloud in Austin, Texas.
+    slug: ashley-hathaway
+    twitter: https://twitter.com/ash_hathaway
+  - name: Elliot Turner
+    company: Chief Executive Officer of AlchemyAPI
+    company_url: http://alchemyapi.com
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/elliot-turner.png
+    description: Elliot Turner is the director of Alchemy Solutions at IBM Watson, formerly the founder and Chief Executive Officer of AlchemyAPI (acquired into Watson in early 2015). A serial software entrepreneur focused on solving the toughest data problems, Elliot started AlchemyAPI to give organizations access to deep learning capabilities that enable real-time analysis to derive true meaning from data.
+    slug: elliot-turner
+    twitter: https://twitter.com/eturner303
+  - name: John Sheehan
+    company: Runscope
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-sheehan.jpeg
+    slug: john-sheehan
+  - name: Steve Marx
+    company: Dropbox
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-marx.jpg
+    slug: steve-marx
+  - name: Dion Hinchcliffe
+    company: 7Summits
+    company_url: http://www.7summitsinc.com/
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dion_hinchcliffe-headshot.jpg
+    description: Chief Strategy Officer, business strategist, enterprise architect, keynote speaker, author, & futurist.
+    slug: /speakers/dion-hinchcliffe/
+    twitter: https://twitter.com/dhinchcliffe
+  - name: Mark Geene
+    company: Cloud Elements
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-geene.jpg
+    slug: mark-geene
+  - name: Paul Katsen
+    company: Blockspring
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/paul-katsen-blockspring.jpg
+    slug: mark-geene
+  - name: Todd Sundsted
+    company: SumAll
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/todd-sunsted.jpg
+    slug: todd-sundsted
+  - name: Steve Willmott
+    company: 3Scale
+    image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+    slug: steve-wilmott
+  - name: Sandeep Dinesh
+    company: Google
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/sandeep-dinesh.jpg
+    slug: sandeep-dinesh
+  - name: Orlando Kalossakas
+    company: Evangelist
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/orlando-kalossakas.jpg
+    slug: orlando-kalossakas
+  - name: Rick Copeland
+    company: Synapp.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/rick-copeland.png
+    slug: orlando-kalossakas
+  - name: Manfred Bortenschlager
+    company: 3Scale
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/manfred-bortenschlager.jpg
+    slug: manfred-bortenschlager
+  - name: Tyler Singletary
+    company: Klout
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tyler-singletary.jpg
+    slug: tyler-singletary
+  - name: Paul O'Fallon
+    company: Cox Automotive
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/paul-ofallon.jpg
+    slug: steve-wilmott
+  - name: Justin Karneges
+    company: Fanout.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/justin-karneges.jpeg
+    slug: justin-karneges
+  - name: John Sheehan
+    company: runscope
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-sheehan.jpeg
+    slug: john-sheehan
+  - name: Kin Lane
+    company: API Evangelist
+    image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
+    slug: kin-lane
+  - name: Nicolas Grenié
+    company: 3Scale
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/nicolas-grenie.jpg
+    slug: nicolas-grenie
+  - name: Jim Laredo
+    company: IBM
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jim-laredo.jpg
+    slug: jim-laredo
+  - name: Jérôme Louvel
+    company: Restlet
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jerome-louvel.jpg
+    slug: jerome-louvel
+  - name: Leah Bannon
+    company: "18F"
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/leah-bannon-18f.jpg
+    slug: leah-bannon
+  - name: John Musser
+    company: API Science
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
+    slug: john-musser
+  - name: Gareth Jones
+    company: Microsoft
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gareth-jones.jpg
+    slug: gareth-jones
+  - name: Shelby Switzer
+    company: Notion
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpeg
+    slug: shelby-switzer
+  - name: Thursday Bram
+    company: Urgency Inc.
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
+    slug: thursday-bram
   - name: Kin Lane
     company: API Evangelist
     image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg

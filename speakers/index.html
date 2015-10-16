@@ -4,15 +4,21 @@ title: APIStrat Austin 2015 - Speakers
 ---
 <div class="heading">
   <div class="container">
-    <h1>Speakers - 1</h1>
+    <h1>Speakers - 2</h1>
   </div>
 </div>
 
 <div class="container">
   <div class="speakers">
 
-    {% for speaker in allspeakers %}
-        {{ speaker.name }}
+    {% for speaker in site.allspeakers %}
+      <a href="#" class="speaker-inner">
+        <span class="photo">
+          <img width="154" height="212" src="{{ speaker.image }}"  alt="{{ speaker.slug }}" title="{{ speaker.name }} {{ speaker.company }}" />
+        </span>
+        <span class="name"><span class="text-fit">{{ speaker.name }} {{ speaker.company }}</span></span>
+        <!--<span class="description">Co-Founder and Chief Revolutionary Officer @ Protonet</span>-->
+      </a>
     {% endfor %}
 
   </div>
