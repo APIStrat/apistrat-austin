@@ -641,14 +641,6 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
         slug: thursday-bram
   - time: 4:35 pm - 5:05 pm
-    title: Keynote
-    location: Main Stage
-    speakers:
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
-  - time: 5:05 pm - 5:15 pm
     title: Closing Remarks
     location: Main Stage
     speakers:
