@@ -422,6 +422,10 @@ dayone:
     title: Drinks Reception
     location: Break Area
     speakers:
+  - time: 9:30 pm to late
+    title: Meetup Bar
+    location: [To Be Determined]
+    speakers:
 
 daytwo:
   - time: 8:15 am - 9:00 am
@@ -639,7 +643,3 @@ daytwo:
         company: 3Scale
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
         slug: mark-boyd
-  - time: 5:15 pm - 7:00 pm
-    title: Drinks Reception
-    location: Break Area
-    speakers:
