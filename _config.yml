@@ -229,7 +229,7 @@ daytwo:
     title: API Design
     location: Breakout One
     speakers:
-      - name: Jason Harmon (Session Chair)
+      - name: Jason Harmon <br /> (Session Chair)
         company: Paypal
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jason-harmon.jpg
         slug: jason-harmon
@@ -249,6 +249,10 @@ daytwo:
     title: Internet of Things
     location: Breakout Two
     speakers:
+      - name: Kurt Collins <br />(Session Chair)
+        company: Built.io
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mandy-whaley.jpg
+        slug: kurt-collins
       - name: Mandy Whaley
         company: Cisco
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mandy-whaley.jpg
@@ -262,6 +266,10 @@ daytwo:
     title: Marketing
     location: Breakout Three
     speakers:
+      - name: Jennifer Lankford <br />(Session Chair)
+        company: Crowd Supply, Inc.
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jennifer-lankford.jpg
+        slug: jennifer-lankford
       - name: Thursday Bram
         company: Urgency Inc.
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
@@ -350,7 +358,7 @@ daytwo:
     title: Hypermedia
     location: Breakout One
     speakers:
-      - name: Mike Amundsen (Session Chair)
+      - name: Mike Amundsen <br /> (Session Chair)
         company: API Academy @ CA Inc.
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-amundsen.jpg
         slug: mike-amundsen
