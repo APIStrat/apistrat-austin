@@ -229,6 +229,10 @@ daytwo:
     title: API Design
     location: Breakout One
     speakers:
+      - name: Jason Harmon (Session Chair)
+        company: Paypal
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jason-harmon.jpg
+        slug: jason-harmon
       - name: Karen (Zellner) Cohen
         company: Wix
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/karen-cohen.jpg
@@ -346,6 +350,10 @@ daytwo:
     title: Hypermedia
     location: Breakout One
     speakers:
+      - name: Mike Amundsen (Session Chair)
+        company: API Academy @ CA Inc.
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-amundsen.jpg
+        slug: mike-amundsen
       - name: Shelby Switzer
         company: Notion
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpeg

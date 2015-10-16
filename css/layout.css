@@ -1114,7 +1114,7 @@ h2 + .btn-header {
 }
 .sessions.list .session .speaker .name {
     display: block;
-    margin: 5px 0 0 80px;
+    margin: 10px 0 0 80px;
     padding: 0;
     height: 100%;
 }
