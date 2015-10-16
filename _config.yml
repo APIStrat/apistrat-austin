@@ -505,13 +505,8 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/todd-sunsted.jpg
         slug: todd-sundsted
   - time: 10:25 am - 11:00 am
-    title: Keynote
+    title: Keynote (To Be Announced)
     location: Main Stage
-    speakers:
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
   - time: 11:00 am - 11:30 am
     title: Coffee Break
     location: Break Area
