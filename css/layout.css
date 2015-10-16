@@ -997,7 +997,7 @@ h2 + .btn-header {
     display: inline-block;
     margin: 2px 1px; padding: 0;
     border: 2px solid #000;
-    width: 350px;
+    width: 450px;
 }
 .sessions .session .speaker img {
     max-width: 100%;
