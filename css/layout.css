@@ -996,7 +996,7 @@ h2 + .btn-header {
 .sessions .session .speakerwrap {
   display: inline-block;
   border: 1px solid #000;
-  width: 25px;
+  width: 25%;
   }
 
 .sessions .session .speaker {
