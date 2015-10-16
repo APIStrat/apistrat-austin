@@ -1004,7 +1004,14 @@ h2 + .btn-header {
     margin: 2px 2px;
     padding: 0;
 }
-.sessions .session .speaker img {
+
+.sessions .session .speaker .speakerwrap {
+  display: inline-block;
+  border: 1px solid #000;
+  width: 33%;
+  }
+
+.sessions .session .speaker .speakerwrap img {
     max-width: 100%;
     border-radius: 180px;
     /*border: 1px solid #157eab;*/
