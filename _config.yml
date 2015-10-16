@@ -226,7 +226,7 @@ dayone:
         slug: mandy-whaley
       - name: Jessica Rampen
         company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jessica-rampen.jpg
         slug: jessica-rampen
 
   - time: 11:00 am - 12:15 pm
@@ -245,6 +245,10 @@ dayone:
         company: Orchestrate.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/adam-duvander.jpg
         slug: adam-duvander
+      - name: Kristen Womack
+        company: LeadPages
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kristen-womack.jpg
+        slug: kristen-womack
   - time: 12:15 pm - 1:20 pm
     title: Lunch
     location: Break Area
@@ -269,6 +273,10 @@ dayone:
         company: Runscope
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/neil-mansilla.png
         slug: neil-mansilla
+      - name: Mike Stowe
+        company: Mulesoft
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-stowe.jpg
+        slug: mike-stowe
   - time: 1:20 pm - 2:35 pm
     title: API Testing
     location: Breakout Two
@@ -277,10 +285,22 @@ dayone:
         company: API Science
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
         slug: john-musser
+      - name: Alan Sill, PHD
+        company: Texas Tech University
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/alan-sill.jpg
+        slug: alan-sill
+      - name: Bonnie Mattson
+        company: Return Path
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bonnie-mattson.jpg
+        slug: bonnie-mattson
   - time: 1:20 pm - 2:35 pm
     title: Internal Innovation
     location: Breakout Three
     speakers:
+      - name: Lorinda Brandon
+        company: Maps CU
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorinda-brandon.jpg
+        slug: lorinda-brandon
       - name: Loren Paulsen
         company: Maps CU
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/loren-paulsen.jpg
@@ -299,8 +319,12 @@ dayone:
     speakers:
       - name: Shelby Switzer
         company: Notion
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpeg
         slug: shelby-switzer
+      - name: Luke Stokes
+        company: FoxyCart
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/luke-stokes.jpg
+        slug: luke-stokes
   - time: 2:45 pm - 4:00 pm
     title: Speedhack Lighting Talks
     location: Breakout Two
@@ -313,6 +337,18 @@ dayone:
         company: Akamai
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kirsten-hunter.jpg
         slug: kirsten-hunter
+      - name: Taylor Barnett
+        company: Keen.io
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/taylor-barnett.jpg
+        slug: taylor-barnet
+      - name: Kelly Hitchcock
+        company: Writer
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kelly-hitchcock.jpg
+        slug: kelly-hitchcock
+      - name: Gregory Koberger
+        company: Readme.io
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gregory-koburger.jpg
+        slug: gregory-koberger
   - time: 4:00 pm - 4:20 pm
     title: Coffee Break
     location: Break Area
@@ -427,6 +463,10 @@ daytwo:
         company: Blockspring
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/paul-katsen-blockspring.jpg
         slug: mark-geene
+      - name: Todd Sundsted
+        company: SumAll
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/todd-sunsted.jpg
+        slug: todd-sundsted
   - time: 10:00 am - 10:25 am
     title: Keynote
     location: Main Stage
@@ -461,7 +501,7 @@ daytwo:
         slug: orlando-kalossakas
       - name: Rick Copeland
         company: Synapp.io
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/rick-copeland.jpg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/rick-copeland.png
         slug: orlando-kalossakas
   - time: 11:30 am - 12:45 pm
     title: Business Models
@@ -493,7 +533,7 @@ daytwo:
         slug: steve-wilmott
       - name: Justin Karneges
         company: Fanout.io
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/justin-karneges.jpg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/justin-karneges.jpeg
         slug: justin-karneges
       - name: John Sheehan
         company: runscope
