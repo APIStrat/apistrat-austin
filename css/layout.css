@@ -751,6 +751,7 @@ h2 + .btn-header {
     display: inline-block;
     padding: 0 25px;
     margin: 15px -1.5px;
+    width: 33.33333%;
     white-space: normal;
     /* safari inline-block fix */
     display: -moz-inline-stack;
@@ -783,7 +784,7 @@ h2 + .btn-header {
 }
 .speakers .photo {
     display: block;
-    width: 250px; max-width: 100%;
+    width: 212px; max-width: 100%;
     margin: 0 auto 10px;
     z-index: 20;
     position: relative;
@@ -992,26 +993,13 @@ h2 + .btn-header {
     position: relative;
     float: left;
 }
-
-.speakerwrap {
-  display: inline-block;
-  border: 1px solid #000;
-  width: 25%;
-  }
-
 .sessions .session .speaker {
+    position: relative;
     display: inline-block;
-    margin: 2px 2px;
-    padding: 0;
+    width: 64px; height: 64px;
+    margin: 2px 1px; padding: 0;
 }
-
-.sessions .session .speaker .speakerwrap {
-  display: inline-block;
-  border: 1px solid #000;
-  width: 33%;
-  }
-
-.sessions .session .speaker .speakerwrap img {
+.sessions .session .speaker img {
     max-width: 100%;
     border-radius: 180px;
     /*border: 1px solid #157eab;*/
@@ -1109,25 +1097,20 @@ h2 + .btn-header {
     text-align: left;
     overflow: inherit;
 }
-
-.sessions.list .session .speaker .speakerwrap {
-  display: inline-block;
-  border: 1px solid #000;
-  width: 33%;
-  }
-
 .sessions.list .session .speaker {
     display: block;
     float: left;
-    height: 54px; width: 33%;
-    margin: 6px 0; padding: 0 16px 0 1px;
+    height: 75px;
+    width: 33%;
+    margin: 6px 0;
+    padding: 0 16px 0 1px;
     color: #242424;
     font-size: 14px; font-weight: 500;
     text-decoration: none;
 }
 .sessions.list .session .speaker img {
     float: left;
-    width: 54px;
+    width: 75px;
 }
 .sessions.list .session .speaker .name {
     display: block;
@@ -1138,7 +1121,7 @@ h2 + .btn-header {
     display: table-cell;
     position: relative;
     vertical-align: middle;
-    height: 54px; max-height: 54px;
+    height: 75px; max-height: 54px;
 }
 .sessions.list .more {
     top: 0; right: 0; left: auto; bottom: auto;
