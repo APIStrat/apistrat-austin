@@ -996,7 +996,6 @@ h2 + .btn-header {
 .sessions .session .speaker {
     position: relative;
     display: inline-block;
-    width: 75px; height: 64px;
     margin: 2px 1px; padding: 0;
 }
 .sessions .session .speaker img {
