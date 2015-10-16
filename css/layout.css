@@ -783,7 +783,7 @@ h2 + .btn-header {
 }
 .speakers .photo {
     display: block;
-    width: 212px; max-width: 100%;
+    width: 250px; max-width: 100%;
     margin: 0 auto 10px;
     z-index: 20;
     position: relative;
@@ -991,11 +991,12 @@ h2 + .btn-header {
     z-index: 20;
     position: relative;
     float: left;
+    border: 1px solid #000;
 }
 .sessions .session .speaker {
     position: relative;
     display: inline-block;
-    width: 64px; height: 64px;
+    width: 75px; height: 64px;
     margin: 2px 1px; padding: 0;
 }
 .sessions .session .speaker img {
