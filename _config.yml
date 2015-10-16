@@ -937,10 +937,6 @@ allspeakers:
     company: API Science
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
     slug: john-musser
-  - name: Kin Lane
-    company: API Evangelist
-    image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
-    slug: kin-lane
   - name: Mark Boyd
     company: 3Scale
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
