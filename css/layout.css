@@ -751,7 +751,6 @@ h2 + .btn-header {
     display: inline-block;
     padding: 0 25px;
     margin: 15px -1.5px;
-    width: 33.33333%;
     white-space: normal;
     /* safari inline-block fix */
     display: -moz-inline-stack;
