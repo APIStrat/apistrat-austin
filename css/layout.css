@@ -993,7 +993,6 @@ h2 + .btn-header {
     float: left;
 }
 .sessions .session .speaker {
-    position: relative;
     display: inline-block;
     margin: 2px 1px;
     padding: 0;
