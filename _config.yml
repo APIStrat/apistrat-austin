@@ -229,8 +229,8 @@ daytwo:
     title: API Design Impacting The API Lifecycle
     location: Breakout One
     speakers:
-      - name: Jason Harmon <br /> (Session Chair)
-        company: Paypal
+      - name: Jason Harmon
+        company: Paypal <br /> (Session Chair)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jason-harmon.jpg
         slug: jason-harmon
       - name: Karen (Zellner) Cohen
@@ -249,8 +249,8 @@ daytwo:
     title: Internet of Things, Gateways, and Next Generation of APIs
     location: Breakout Two
     speakers:
-      - name: Kurt Collins <br />(Session Chair)
-        company: Built.io
+      - name: Kurt Collins
+        company: Built.io <br />(Session Chair)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mandy-whaley.jpg
         slug: kurt-collins
       - name: Mandy Whaley
@@ -266,8 +266,8 @@ daytwo:
     title: Marketing In API Space
     location: Breakout Three
     speakers:
-      - name: Jennifer Lankford <br />(Session Chair)
-        company: Crowd Supply, Inc.
+      - name: Jennifer Lankford
+        company: Crowd Supply, Inc. <br />(Session Chair)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jennifer-lankford.jpg
         slug: jennifer-lankford
       - name: Thursday Bram
@@ -358,8 +358,8 @@ daytwo:
     title: Hypermedia APIs
     location: Breakout One
     speakers:
-      - name: Mike Amundsen <br /> (Session Chair)
-        company: API Academy @ CA Inc.
+      - name: Mike Amundsen
+        company: API Academy @ CA Inc. <br /> (Session Chair)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-amundsen.jpg
         slug: mike-amundsen
       - name: Shelby Switzer
@@ -535,6 +535,10 @@ daythree:
     title: Microservices
     location: Breakout One
     speakers:
+      - name: Joyce Stack
+        company: Mendeley <br />(Session Chair)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/joyce-stack.jpg
+        slug: joyce-stack
       - name: Sandeep Dinesh
         company: Google
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/sandeep-dinesh.jpg
@@ -551,6 +555,10 @@ daythree:
     title: API Business Models
     location: Breakout Two
     speakers:
+      - name: John Musser
+        company: API Science<br />(Session Chair)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
+        slug: john-musser
       - name: Manfred Bortenschlager
         company: 3Scale
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/manfred-bortenschlager.jpg
@@ -571,6 +579,10 @@ daythree:
     title: A Post HTTP World
     location: Breakout One
     speakers:
+      - name: Phil Leggetter
+        company: Pusher<br />(Session Chair)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/phil-leggetter.jpg
+        slug: phil-leggetter
       - name: Paul O'Fallon
         company: Cox Automotive
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/paul-ofallon.jpg
@@ -587,6 +599,10 @@ daythree:
     title: API Discovery, Hubs, and IDEs
     location: Breakout Two
     speakers:
+      - name: Natalie Kerns
+        company: Cloud Elements<br />(Session Chair)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/natalie-kerns.jpg
+        slug: natalie-kerns
       - name: Kin Lane
         company: API Evangelist
         image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
