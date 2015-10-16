@@ -20,15 +20,32 @@ title: APIDays Berlin and APIStrat Europe 2015 - Schedule
                 </div>
             </div>
 
-            <div class="session">
+            {% for entry in site.dayone %}
+              <div class="session">
 
-                <span class="time">1:00 pm - 6:00 pm</span>
+                  <span class="time">{{ entry.time }}</span>
 
-                <div class="session-inner">
-                    Workshops (coming soon)
-                </div>
+                  <div class="session-inner">
 
-            </div>
+                      <a class="title" href="#"><span>{{ entry.title }}</span></a>
+                      <span class="location">{{ entry.location }}</span>
+
+                      <span class="speakers-thumbs">
+                      {% for speaker in entry.speakers %}
+                          <a class="speaker" href="#">
+                            <img alt="{{ speaker.name }} ({{ speaker.company }})" height="54" src="{{ speaker.image }}" width="60">
+                            <span class="name">
+                              {{ speaker.name }} ({{ speaker.company }})
+                            </span>
+                          </a>
+                      {% endfor %}
+                      </span>
+
+                      <!--<a class="more" href="">More info <i class="icon-angle-right"></i></a>-->
+
+                  </div>
+              </div>
+            {% endfor %}
 
             <div class="followWrap" style="height: 60px;">
                 <div class="day-floating">
@@ -36,7 +53,7 @@ title: APIDays Berlin and APIStrat Europe 2015 - Schedule
                 </div>
             </div>
 
-            {% for entry in site.dayone %}
+            {% for entry in site.daytwo %}
               <div class="session">
 
                   <span class="time">{{ entry.time }}</span>
@@ -69,7 +86,7 @@ title: APIDays Berlin and APIStrat Europe 2015 - Schedule
                 </div>
             </div>
 
-            {% for entry in site.daytwo %}
+            {% for entry in site.daythree %}
               <div class="session">
 
                   <span class="time">{{ entry.time }}</span>

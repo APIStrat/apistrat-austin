@@ -149,6 +149,36 @@ organizers:
     logo: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2014/11/api-evangelist-logo1.png
 
 dayone:
+  - time: 12:00 pm - 5:00 pm
+    title: Registration
+    location: Break Area
+    speakers:
+  - time: 1:30 pm - 3:00 pm
+    title: First Workshop Block (coming soon)
+    location: Breakout One / Two / Three
+    speakers:
+  - time: 3:00 pm - 3:30 pm
+    title: Coffee Break
+    location: Break Area
+    speakers:
+  - time: 3:30 pm - 5:00 pm
+    title: Second Workshop Block (coming soon)
+    location: Breakout One / Two / Three
+    speakers:
+  - time: 5:30 pm - 7:00 pm
+    title: Birds of a Feather
+    location: Sheraton
+    speakers:
+  - time: 7:30 pm - 9:00 pm
+    title: Speakers Dinner
+    location: [coming soon]
+    speakers:
+  - time: 9:30 pm - Late
+    title: Meetup Bar
+    location: [coming soon]
+    speakers:
+
+daytwo:
   - time: 8:15 am - 9:00 am
     title: Registration and Coffee
     location: Break Area
@@ -427,7 +457,7 @@ dayone:
     location: [To Be Determined]
     speakers:
 
-daytwo:
+daythree:
   - time: 8:15 am - 9:00 am
     title: Registration and Coffee
     location: Break Area
