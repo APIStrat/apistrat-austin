@@ -475,12 +475,8 @@ daythree:
         slug: mark-boyd
   - time: 9:10 am - 9:35 am
     title: Keynote
-    location: Main Stage
+    location: Main Stage (To Be Announced)
     speakers:
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
   - time: 9:35 am - 10:00 am
     title: Keynote
     location: Main Stage
