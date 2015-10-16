@@ -277,6 +277,10 @@ dayone:
         company: Mulesoft
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-stowe.jpg
         slug: mike-stowe
+      - name: Gareth Jones
+        company: Microsoft
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gareth-jones.jpg
+        slug: gareth-jones
   - time: 1:20 pm - 2:35 pm
     title: API Testing
     location: Breakout Two
@@ -583,14 +587,34 @@ daytwo:
         company: 18F
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/leah-bannon-18f.jpg
         slug: leah-bannon
+      - name: College Scorecard
+        company: Dept of Education
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/college-scorecard.jpg
+        slug: college-scorecard
   - time: 4:10 pm - 4:35 pm
     title: Panel
     location: Main Stage
     speakers:
+      - name: Mark Boyd
+        company: 3Scale
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
+        slug: mark-boyd
       - name: John Musser
         company: API Science
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
         slug: john-musser
+      - name: Gareth Jones
+        company: Microsoft
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gareth-jones.jpg
+        slug: gareth-jones
+      - name: Shelby Switzer
+        company: Notion
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpeg
+        slug: shelby-switzer
+      - name: Thursday Bram
+        company: 3Scale
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
+        slug: thursday-bram
   - time: 4:35 pm - 5:05 pm
     title: Keynote
     location: Main Stage
