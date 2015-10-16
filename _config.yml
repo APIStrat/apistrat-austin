@@ -913,10 +913,6 @@ allspeakers:
     company: Fanout.io
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/justin-karneges.jpeg
     slug: justin-karneges
-  - name: John Sheehan
-    company: runscope
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-sheehan.jpeg
-    slug: john-sheehan
   - name: Kin Lane
     company: API Evangelist
     image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
@@ -941,10 +937,6 @@ allspeakers:
     company: API Science
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
     slug: john-musser
-  - name: Shelby Switzer
-    company: Notion
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpeg
-    slug: shelby-switzer
   - name: Kin Lane
     company: API Evangelist
     image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
