@@ -993,7 +993,7 @@ h2 + .btn-header {
     float: left;
 }
 
-.sessions .session .speakerwrap {
+.speakerwrap {
   display: inline-block;
   border: 1px solid #000;
   width: 25%;
