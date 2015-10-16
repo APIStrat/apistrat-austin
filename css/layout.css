@@ -991,12 +991,13 @@ h2 + .btn-header {
     z-index: 20;
     position: relative;
     float: left;
-    border: 1px solid #000;
 }
 .sessions .session .speaker {
     position: relative;
     display: inline-block;
     margin: 2px 1px; padding: 0;
+    border: 1px solid #000;
+    width: 25%;
 }
 .sessions .session .speaker img {
     max-width: 100%;
