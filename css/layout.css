@@ -992,12 +992,17 @@ h2 + .btn-header {
     position: relative;
     float: left;
 }
+
+.sessions .session .speakerwrap {
+  display: inline-block;
+  border: 1px solid #000;
+  width: 25px;
+  }
+
 .sessions .session .speaker {
     display: inline-block;
     margin: 2px 2px;
     padding: 0;
-    border: 1px solid #000;
-    width: 25%;
 }
 .sessions .session .speaker img {
     max-width: 100%;

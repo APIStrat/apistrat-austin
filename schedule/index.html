@@ -32,12 +32,14 @@ title: APIStrat Austin 2015 - Schedule
 
                       <span class="speakers-thumbs">
                       {% for speaker in entry.speakers %}
+                        <div class="speakerwrap">
                           <a class="speaker" href="#">
                             <img alt="{{ speaker.name }} ({{ speaker.company }})" height="54" src="{{ speaker.image }}" width="60">
                             <span class="name">
                               {{ speaker.name }} ({{ speaker.company }})
                             </span>
                           </a>
+                        </div>
                       {% endfor %}
                       </span>
 
