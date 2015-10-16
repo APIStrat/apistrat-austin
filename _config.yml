@@ -226,7 +226,7 @@ daytwo:
     location: Break Area
     speakers:
   - time: 11:00 am - 12:15 pm
-    title: API Design
+    title: API Design Impacting The API Lifecycle
     location: Breakout One
     speakers:
       - name: Jason Harmon <br /> (Session Chair)
@@ -246,7 +246,7 @@ daytwo:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/everett-toews.jpg
         slug: everett-toews
   - time: 11:00 am - 12:15 pm
-    title: Internet of Things
+    title: Internet of Things, Gateways, and Next Generation of APIs
     location: Breakout Two
     speakers:
       - name: Kurt Collins <br />(Session Chair)
@@ -263,7 +263,7 @@ daytwo:
         slug: jessica-rampen
 
   - time: 11:00 am - 12:15 pm
-    title: Marketing
+    title: Marketing In API Space
     location: Breakout Three
     speakers:
       - name: Jennifer Lankford <br />(Session Chair)
@@ -291,7 +291,7 @@ daytwo:
     location: Break Area
     speakers:
   - time: 1:20 pm - 2:35 pm
-    title: API Definitions
+    title: Talking API Definitions
     location: Breakout One
     speakers:
       - name: Emmanuel Paraskakis
@@ -319,7 +319,7 @@ daytwo:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gareth-jones.jpg
         slug: gareth-jones
   - time: 1:20 pm - 2:35 pm
-    title: API Testing
+    title: API Testing And Monitoring
     location: Breakout Two
     speakers:
       - name: John Musser
@@ -335,7 +335,7 @@ daytwo:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bonnie-mattson.jpg
         slug: bonnie-mattson
   - time: 1:20 pm - 2:35 pm
-    title: Internal Innovation
+    title: Internal Innovation With APIs
     location: Breakout Three
     speakers:
       - name: Lorinda Brandon
@@ -355,7 +355,7 @@ daytwo:
     location: Break Area
     speakers:
   - time: 2:45 pm - 4:00 pm
-    title: Hypermedia
+    title: Hypermedia APIs
     location: Breakout One
     speakers:
       - name: Mike Amundsen <br /> (Session Chair)
@@ -379,7 +379,7 @@ daytwo:
     location: Breakout Two
     speakers:
   - time: 2:45 pm - 4:00 pm
-    title: Developer Experience
+    title: The Developer Experience
     location: Breakout Three
     speakers:
       - name: Kirsten Hunter
@@ -548,7 +548,7 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/rick-copeland.png
         slug: orlando-kalossakas
   - time: 11:30 am - 12:45 pm
-    title: Business Models
+    title: API Business Models
     location: Breakout Two
     speakers:
       - name: Manfred Bortenschlager
@@ -568,7 +568,7 @@ daythree:
     location: Break Area
     speakers:
   - time: 2:00 pm - 3:15 pm
-    title: Post HTTP
+    title: A Post HTTP World
     location: Breakout One
     speakers:
       - name: Paul O'Fallon
@@ -584,7 +584,7 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-sheehan.jpeg
         slug: john-sheehan
   - time: 2:00 pm - 3:15 pm
-    title: API Discovery
+    title: API Discovery, Hubs, and IDEs
     location: Breakout Two
     speakers:
       - name: Kin Lane
