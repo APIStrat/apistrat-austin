@@ -994,8 +994,10 @@ h2 + .btn-header {
 }
 .sessions .session .speaker {
     display: inline-block;
-    margin: 2px 1px;
+    margin: 2px 2px;
     padding: 0;
+    border: 1px solid #000;
+    width: 25%;
 }
 .sessions .session .speaker img {
     max-width: 100%;
