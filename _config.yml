@@ -934,7 +934,7 @@ allspeakers:
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jerome-louvel.jpg
     slug: jerome-louvel
   - name: Leah Bannon
-    company: 18F
+    company: "18F"
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/leah-bannon-18f.jpg
     slug: leah-bannon
   - name: John Musser
