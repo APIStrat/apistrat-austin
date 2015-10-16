@@ -688,7 +688,7 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
         slug: mark-boyd
 
-speakers:
+allspeakers:
   - name: Neha Sampat
     company: Built.io
     company_url: http://built.io

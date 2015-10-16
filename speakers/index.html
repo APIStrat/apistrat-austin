@@ -4,18 +4,18 @@ title: APIStrat Austin 2015 - Speakers
 ---
 <div class="heading">
   <div class="container">
-    <h1>Speakers</h1>
+    <h1>Speakers - 1</h1>
   </div>
 </div>
 
 <div class="container">
   <div class="speakers">
 
-    {% for speaker in speakers %}
+    {% for speaker in allspeakers %}
       <div class="speaker " style="width: 500px;">
-        <a href="http://apidaysberlin2015.apistrat.com/speakers/ali-jelveh/" class="speaker-inner">
+        <a href="#" class="speaker-inner">
           <span class="photo">
-            <img width="154" height="212" src="{{ speaker.image }}" class="attachment-tyler-speaker wp-post-image" alt="{{ speaker.slug }}" title="{{ speaker.name }} {{ speaker.company }}" />
+            <img width="154" height="212" src="{{ speaker.image }}"  alt="{{ speaker.slug }}" title="{{ speaker.name }} {{ speaker.company }}" />
           </span>
           <span class="name"><span class="text-fit">{{ speaker.name }} {{ speaker.company }}</span></span>
           <!--<span class="description">Co-Founder and Chief Revolutionary Officer @ Protonet</span>-->
