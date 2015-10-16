@@ -211,9 +211,8 @@ daytwo:
         slug: neha-sampat
         twitter: https://twitter.com/nehasf
   - time: 9:35 am - 10:00 am
-    title: Keynote
+    title: Keynote (To Be Announced)
     location: Main Stage
-    speakers:
   - time: 10:00 am - 10:25 am
     title: Keynote
     location: Main Stage
@@ -425,7 +424,7 @@ daytwo:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-marx.jpg
         slug: steve-marx
   - time: 5:35 pm - 6:05 pm
-    title: Fireside Chat
+    title: Diversity Panel (To Be Announced)
     location: Main Stage
     speakers:
   - time: 5:05 pm - 5:15 pm
@@ -478,6 +477,14 @@ daythree:
     title: Keynote
     location: Main Stage
     speakers:
+      - name: Steve Willmott
+        company: 3Scale
+        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        slug: steve-wilmott
+  - time: 9:35 am - 10:00 am
+    title: Keynote
+    location: Main Stage
+    speakers:
       - name: Dion Hinchcliffe
         company: 7Summits
         company_url: http://www.7summitsinc.com/
@@ -485,7 +492,7 @@ daythree:
         description: Chief Strategy Officer, business strategist, enterprise architect, keynote speaker, author, & futurist.
         slug: /speakers/dion-hinchcliffe/
         twitter: https://twitter.com/dhinchcliffe
-  - time: 9:35 am - 10:00 am
+  - time: 10:00 am - 10:25 am
     title: API Consumption Panel
     location: Main Stage
     speakers:
@@ -501,14 +508,6 @@ daythree:
         company: SumAll
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/todd-sunsted.jpg
         slug: todd-sundsted
-  - time: 10:00 am - 10:25 am
-    title: Keynote
-    location: Main Stage
-    speakers:
-      - name: Steve Willmott
-        company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-        slug: steve-wilmott
   - time: 10:25 am - 11:00 am
     title: Keynote
     location: Main Stage
