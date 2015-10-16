@@ -983,8 +983,8 @@ h2 + .btn-header {
 }
 .sessions .session .speakers-thumbs {
     display: block;
-    margin: 16px -7px;
-    width: 450px;
+    margin: 16px 5px 5px 5px;
+    width: 100%;
     height: 135px;
     text-align: center;
     overflow: hidden;
