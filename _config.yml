@@ -196,7 +196,7 @@ daytwo:
         image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
         slug: kin-lane
       - name: Mark Boyd
-        company: 3Scale
+        company: Conference Chair
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
         slug: mark-boyd
   - time: 9:10 am - 9:35 am
@@ -250,7 +250,7 @@ daytwo:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mandy-whaley.jpg
         slug: mandy-whaley
       - name: Jessica Rampen
-        company: 3Scale
+        company: AnyPresence
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jessica-rampen.jpg
         slug: jessica-rampen
 
@@ -259,7 +259,7 @@ daytwo:
     location: Breakout Three
     speakers:
       - name: Thursday Bram
-        company: 3Scale
+        company: Urgency Inc.
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
         slug: thursday-bram
       - name: Matt Gordon
@@ -327,7 +327,7 @@ daytwo:
     location: Breakout Three
     speakers:
       - name: Lorinda Brandon
-        company: Maps CU
+        company: SmartBear
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorinda-brandon.jpg
         slug: lorinda-brandon
       - name: Loren Paulsen
@@ -444,7 +444,7 @@ daytwo:
         image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
         slug: kin-lane
       - name: Mark Boyd
-        company: 3Scale
+        company: Conference Chair
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
         slug: mark-boyd
   - time: 5:15 pm - 7:00 pm
@@ -474,7 +474,7 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
         slug: kin-lane
       - name: Mark Boyd
-        company: 3Scale
+        company: Conference Chair
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
         slug: mark-boyd
   - time: 9:10 am - 9:35 am
@@ -612,7 +612,7 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/leah-bannon-18f.jpg
         slug: leah-bannon
       - name: Mark Boyd
-        company: 3Scale
+        company: Conference Chair
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
         slug: mark-boyd
   - time: 4:10 pm - 4:35 pm
@@ -620,7 +620,7 @@ daythree:
     location: Main Stage
     speakers:
       - name: Mark Boyd
-        company: 3Scale
+        company: Conference Chair
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
         slug: mark-boyd
       - name: John Musser
@@ -636,7 +636,7 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpeg
         slug: shelby-switzer
       - name: Thursday Bram
-        company: 3Scale
+        company: Urgency Inc.
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
         slug: thursday-bram
   - time: 4:35 pm - 5:05 pm
@@ -652,7 +652,7 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
         slug: kin-lane
       - name: Mark Boyd
-        company: 3Scale
+        company: Conference Chair
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
         slug: mark-boyd
 
@@ -689,11 +689,11 @@ speakers:
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mandy-whaley.jpg
     slug: mandy-whaley
   - name: Jessica Rampen
-    company: 3Scale
+    company: AnyPresence
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jessica-rampen.jpg
     slug: jessica-rampen
   - name: Thursday Bram
-    company: 3Scale
+    company: Urgency Inc.
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
     slug: thursday-bram
   - name: Matt Gordon
@@ -832,10 +832,6 @@ speakers:
     company: 3Scale
     image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
     slug: steve-wilmott
-  - name: Steve Willmott
-    company: 3Scale
-    image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-    slug: steve-wilmott
   - name: Sandeep Dinesh
     company: Google
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/sandeep-dinesh.jpg
@@ -901,13 +897,9 @@ speakers:
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpeg
     slug: shelby-switzer
   - name: Thursday Bram
-    company: 3Scale
+    company: Urgency Inc.
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
     slug: thursday-bram
-  - name: Steve Willmott
-    company: 3Scale
-    image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
-    slug: steve-wilmott
   - name: Kin Lane
     company: API Evangelist
     image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
