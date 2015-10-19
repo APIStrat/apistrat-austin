@@ -717,10 +717,6 @@ allspeakers:
     description: CEO of @Builtio | Co-founder of @raweng & @kurbkarma | Advocate for Women in Leadership
     slug: neha-sampat
     twitter: https://twitter.com/nehasf
-  - name: Teresa Tung
-    company: Accenture
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/teresa-tung.jpg
-    slug: teresa-tung
   - name: Irakli Nadareishvili
     company: API Academy @ CA Inc.
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/irakli-nadareishvili.jpeg
