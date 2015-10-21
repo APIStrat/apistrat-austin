@@ -274,10 +274,10 @@ daytwo:
         company: Cisco
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mandy-whaley.jpg
         slug: mandy-whaley
-      - name: Jessica Rampen
+      - name: Vivek Gupta
         company: AnyPresence
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jessica-rampen.jpg
-        slug: jessica-rampen
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/vivek-gupta.jpeg
+        slug: vivek-gupta
 
   - time: 11:00 am - 12:15 pm
     title: Marketing In The API Space
@@ -933,3 +933,7 @@ allspeakers:
     company: 3Scale
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
     slug: mark-boyd
+  - name: Vivek Gupta
+    company: AnyPresence
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/vivek-gupta.jpeg
+    slug: vivek-gupta
