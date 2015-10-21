@@ -367,6 +367,10 @@ daytwo:
         company: Marriott
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bryce-barrand.jpg
         slug: bryce-barrand
+      - name: Laura (Olson) Heritage
+        company: Akana
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/laura-heritage.jpg
+        slug: laura-heritage
   - time: 2:35 pm - 2:45
     title: Switchover Time
     location: Break Area
@@ -925,6 +929,10 @@ allspeakers:
     company: API Science
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
     slug: john-musser
+  - name: Laura (Olson) Heritage
+    company: Akana
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/laura-heritage.jpg
+    slug: laura-heritage
   - name: Mark Boyd
     company: 3Scale
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
