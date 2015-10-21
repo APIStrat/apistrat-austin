@@ -278,7 +278,10 @@ daytwo:
         company: AnyPresence
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/vivek-gupta.jpeg
         slug: vivek-gupta
-
+      - name: Reza Naghibi
+        company: Varnish Software
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/reza-naghibi.jpg
+        slug: reza-naghibi
   - time: 11:00 am - 12:15 pm
     title: Marketing In The API Space
     location: Breakout Three
@@ -905,6 +908,10 @@ allspeakers:
     company: API Evangelist
     image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
     slug: kin-lane
+  - name: Reza Naghibi
+    company: Varnish Software
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/reza-naghibi.jpg
+    slug: reza-naghibi
   - name: Nicolas Grenié
     company: 3Scale
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/nicolas-grenie.jpg
