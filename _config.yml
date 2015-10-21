@@ -777,10 +777,6 @@ allspeakers:
     company: Microsoft
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gareth-jones.jpg
     slug: gareth-jones
-  - name: John Musser
-    company: API Science
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
-    slug: john-musser
   - name: Alan Sill, PHD
     company: Texas Tech University
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/alan-sill.jpg
