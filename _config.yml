@@ -71,6 +71,13 @@ featured_speakers:
     description: Kin Lane is a unique blend of information technology, data, programming, product development, business development, sales and marketing--also known as an evangelist.  He spends his days studying the business and  and politics of APIs, sharing insights on his blog, apievangelist.com.
     slug: kin-lane
     twitter: kinlane
+  - name: Teresa Tung
+    company: Accenture
+    company_url: https://www.accenture.com
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/teresa-tung.jpg
+    description:
+    slug: teresa-tung
+    twitter:
 
 sponsors:
   - name: 3Scale
