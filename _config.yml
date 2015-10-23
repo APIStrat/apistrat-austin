@@ -210,7 +210,7 @@ daytwo:
     speakers:
       - name: Steve Willmott
         company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-willmott.png
         slug: steve-wilmott
       - name: Kin Lane
         company: API Evangelist
@@ -477,7 +477,7 @@ daytwo:
     speakers:
       - name: Steve Willmott
         company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-willmott.png
         slug: steve-wilmott
       - name: Kin Lane
         company: API Evangelist
@@ -507,7 +507,7 @@ daythree:
     speakers:
       - name: Steve Willmott
         company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-willmott.png
         slug: steve-wilmott
       - name: Kin Lane
         company: API Evangelist
@@ -701,7 +701,7 @@ daythree:
     speakers:
       - name: Steve Willmott
         company: 3Scale
-        image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-willmott.png
         slug: steve-wilmott
       - name: Kin Lane
         company: API Evangelist
@@ -736,10 +736,6 @@ allspeakers:
     company: Cisco
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mandy-whaley.jpg
     slug: mandy-whaley
-  - name: Jessica Rampen
-    company: AnyPresence
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jessica-rampen.jpg
-    slug: jessica-rampen
   - name: Thursday Bram
     company: Urgency Inc.
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
@@ -874,7 +870,7 @@ allspeakers:
     slug: todd-sundsted
   - name: Steve Willmott
     company: 3Scale
-    image: http://apidaysberlin2015.apistrat.com/wp-content/uploads/2015/03/steve-willmott.jpg
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-willmott.png
     slug: steve-wilmott
   - name: Sandeep Dinesh
     company: Google
