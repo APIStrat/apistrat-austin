@@ -112,6 +112,9 @@ sponsors:
   - name: Runscope
     link: http://runscope.com
     logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/runscope-logo.png
+  - name: Microsoft
+    link: https://www.microsoft.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/microsoft-logo.png
 
 goldsponsors:
   - name: 3Scale
