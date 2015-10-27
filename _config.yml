@@ -122,7 +122,10 @@ sponsors:
   - name: Microsoft
     link: https://www.microsoft.com/
     logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/microsoft-logo.png
-
+  - name: Dell
+    link: http://dell.com
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/dell-logo.png
+    
 goldsponsors:
   - name: 3Scale
     link: http://www.3scale.net/
