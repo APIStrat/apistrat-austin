@@ -295,6 +295,10 @@ daytwo:
         company: Varnish Software
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/reza-naghibi.jpg
         slug: reza-naghibi
+      - name: Jeanine Swatton
+        company: YODLEE Interactive
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jeanine-swatton.png
+        slug: jeanine-swatton
   - time: 11:00 am - 12:15 pm
     title: Marketing In The API Space
     location: Breakout Three
@@ -953,3 +957,7 @@ allspeakers:
     company: AnyPresence
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/vivek-gupta.jpeg
     slug: vivek-gupta
+  - name: Jeanine Swatton
+    company: YODLEE Interactive
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jeanine-swatton.png
+    slug: jeanine-swatton
