@@ -125,7 +125,7 @@ sponsors:
   - name: Dell
     link: http://dell.com
     logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/dell-logo.png
-    
+
 goldsponsors:
   - name: 3Scale
     link: http://www.3scale.net/
@@ -946,7 +946,7 @@ allspeakers:
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/laura-heritage.jpg
     slug: laura-heritage
   - name: Mark Boyd
-    company: 3Scale
+    company: Conference Chair
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
     slug: mark-boyd
   - name: Vivek Gupta
