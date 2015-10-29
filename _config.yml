@@ -75,7 +75,7 @@ featured_speakers:
     company: Accenture
     company_url: https://www.accenture.com
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/teresa-tung.jpg
-    description: Teresa Tung is a senior manager at Accenture Technology Labs responsible for taking the best-of-breed next-generation software architecture solutions from industry, start-ups, and academia, and for evaluating their impact on Accenture's clients through building experimental prototypes and delivering pioneering pilot engagements. Recently Teresa leads R&D on platform architecture for Internet of Things working on real-time streaming analytics, semantic modeling, data virtualization, and APIs for Accenture’s industry platforms like Accenture Connected Products as a Service Platform and Accenture Analytics Insights Platform. Teresa is the author of Accenture’s API Maturity Model.Teresa holds a Ph.D. in Electrical Engineering and Computer Science from the University of California at Berkeley.  
+    description: Teresa Tung is a senior manager at Accenture Technology Labs responsible for taking the best-of-breed next-generation software architecture solutions from industry, start-ups, and academia, and for evaluating their impact on Accenture's clients through building experimental prototypes and delivering pioneering pilot engagements. Recently Teresa leads R&D on platform architecture for Internet of Things working on real-time streaming analytics, semantic modeling, data virtualization, and APIs for Accenture’s industry platforms like Accenture Connected Products as a Service Platform and Accenture Analytics Insights Platform. Teresa is the author of Accenture’s API Maturity Model.Teresa holds a Ph.D. in Electrical Engineering and Computer Science from the University of California at Berkeley.
     slug: teresa-tung
     twitter:
 
@@ -359,10 +359,6 @@ daytwo:
     title: API Testing And Monitoring
     location: Breakout Two
     speakers:
-      - name: John Musser
-        company: API Science
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
-        slug: john-musser
       - name: Alan Sill, PHD
         company: Texas Tech University
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/alan-sill.jpg
@@ -540,8 +536,8 @@ daythree:
     speakers:
       - name: Teresa Tung
         company: Accenture
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/teresa-tung.jpg 
-        description: Teresa Tung is a senior manager at Accenture Technology Labs responsible for taking the best-of-breed next-generation software architecture solutions from industry, start-ups, and academia, and for evaluating their impact on Accenture's clients through building experimental prototypes and delivering pioneering pilot engagements. Recently Teresa leads R&D on platform architecture for Internet of Things working on real-time streaming analytics, semantic modeling, data virtualization, and APIs for Accenture’s industry platforms like Accenture Connected Products as a Service Platform and Accenture Analytics Insights Platform. Teresa is the author of Accenture’s API Maturity Model.Teresa holds a Ph.D. in Electrical Engineering and Computer Science from the University of California at Berkeley.  
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/teresa-tung.jpg
+        description: Teresa Tung is a senior manager at Accenture Technology Labs responsible for taking the best-of-breed next-generation software architecture solutions from industry, start-ups, and academia, and for evaluating their impact on Accenture's clients through building experimental prototypes and delivering pioneering pilot engagements. Recently Teresa leads R&D on platform architecture for Internet of Things working on real-time streaming analytics, semantic modeling, data virtualization, and APIs for Accenture’s industry platforms like Accenture Connected Products as a Service Platform and Accenture Analytics Insights Platform. Teresa is the author of Accenture’s API Maturity Model.Teresa holds a Ph.D. in Electrical Engineering and Computer Science from the University of California at Berkeley.
         slug: /speakers/teresa-tung/
   - time: 9:35 am - 10:00 am
     title: Keynote
@@ -596,7 +592,11 @@ daythree:
       - name: Rick Copeland
         company: Synapp.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/rick-copeland.png
-        slug: orlando-kalossakas
+        slug: rick-copeland
+      - name: Ivan Dwyer
+        company: Iron.io
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ivan-dwyer.jpg
+        slug: ivan-dwyer
   - time: 11:30 am - 12:45 pm
     title: API Business Models
     location: Breakout Two
@@ -752,7 +752,7 @@ allspeakers:
     slug: james-higginbotham
   - name: Teresa Tung
     company: Accenture
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/teresa-tung.jpg 
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/teresa-tung.jpg
     slug: /speakers/teresa-tung/
   - name: Everett Toews
     company: Rackspace
@@ -977,3 +977,7 @@ allspeakers:
     description:
     slug: teresa-tung
     twitter:
+  - name: Ivan Dwyer
+    company: Iron.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ivan-dwyer.jpg
+    slug: ivan-dwyer
