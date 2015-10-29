@@ -566,6 +566,10 @@ daythree:
         company: SumAll
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/todd-sunsted.jpg
         slug: todd-sundsted
+      - name: Noam Schwartz
+        company: SimilarWeb
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/noam-schwartz.jpg
+        slug: noam-schwartz
   - time: 10:25 am - 11:00 am
     title: Keynote (To Be Announced)
     location: Main Stage
@@ -981,3 +985,7 @@ allspeakers:
     company: Iron.io
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ivan-dwyer.jpg
     slug: ivan-dwyer
+  - name: Noam Schwartz
+    company: SimilarWeb
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/noam-schwartz.jpg
+    slug: noam-schwartz
