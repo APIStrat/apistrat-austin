@@ -1,6 +1,8 @@
 ---
 layout: none
 ---
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
 <sponsors>
   {% for data in site.sponsors limit:1000 %}
   <sponsor>{{ data.name }}</sponsor>
@@ -11,7 +13,6 @@ layout: none
   <speaker>{{ data.name }}</speaker>
   {% endfor %}
 </speakers>
-
 <sessions>
   <session>API Design</session>
   <session>Internet of Things</session>
@@ -28,3 +29,4 @@ layout: none
   <session>API Discovery</session>
   <session>Diversity</session>
 </sessions>
+</event>
