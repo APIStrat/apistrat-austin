@@ -4,14 +4,10 @@ layout: none
 <?xml version="1.0" encoding="UTF-8"?>
 <event>
 <sponsors>
-  {% for data in site.sponsors limit:1000 %}
-  <sponsor>{{ data.name }}</sponsor>
-  {% endfor %}
+  {% for data in site.sponsors limit:1000 %}<sponsor>{{ data.name }}</sponsor>{% endfor %}
 </sponsors>
 <speakers>
-  {% for data in site.allspeakers limit:1000 %}
-  <speaker>{{ data.name }}</speaker>
-  {% endfor %}
+  {% for data in site.allspeakers limit:1000 %}<speaker>{{ data.name }}</speaker>{% endfor %}
 </speakers>
 <sessions>
   <session>API Design</session>
