@@ -970,3 +970,10 @@ allspeakers:
     company: YODLEE Interactive
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jeanine-swatton.png
     slug: jeanine-swatton
+  - name: Teresa Tung
+    company: Accenture
+    company_url: https://www.accenture.com
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/teresa-tung.jpg
+    description:
+    slug: teresa-tung
+    twitter:
