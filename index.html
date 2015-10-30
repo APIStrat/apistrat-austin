@@ -63,7 +63,7 @@ title: APIStrat Austin 2015
             <span class="name">
               {{ speaker.name }}<br />({{ speaker.company }})
             </span>
-            <!--<span class="description" style="color: #FFF;">{{ speaker.description }}</span><br />-->
+            <span class="description" style="color: #FFF;">{{ speaker.description }}</span><br />
             </a>
          </div>
          {% endfor %}
@@ -83,14 +83,16 @@ title: APIStrat Austin 2015
 <div id="tile_sponsors" class="container widget">
 
   <h2>Sponsors</h2>
-  <!--<a href="" class="btn btn-primary btn-header pull-right hidden-xs">Sponsors</a>-->
+  <a href="/sponsors/" class="btn btn-primary btn-header pull-right hidden-xs">Sponsors</a>
   <h3>Thank you to our kind sponsors!</h3>
   <br/>
+
+  <h3 class="sponsor"><span>Gold Sponsors</span></h3>
   <div class="sponsors sponsors-lg">
 
     <div class="item active">
 
-      {% for oranizer in site.sponsors %}
+      {% for oranizer in site.goldsponsors %}
           <div class="sponsor">
             <a href="{{ oranizer.link }}" title="{{ oranizer.name }}" target="_blank">
               <img align="center" src="{{ oranizer.logo }}" alt="{{ oranizer.name }}" />
@@ -100,6 +102,39 @@ title: APIStrat Austin 2015
 
     </div>
   </div>
+
+  <h3 class="sponsor"><span>Silver Sponsors</span></h3>
+  <div class="sponsors sponsors-md">
+
+    <div class="item active">
+
+      {% for oranizer in site.silversponsors %}
+          <div class="sponsor">
+            <a href="{{ oranizer.link }}" title="{{ oranizer.name }}" target="_blank">
+              <img align="center" src="{{ oranizer.logo }}" alt="{{ oranizer.name }}" />
+            </a>
+          </div>
+      {% endfor %}
+
+    </div>
+  </div>
+
+  <h3 class="sponsor"><span>Bronze Sponsors</span></h3>
+  <div class="sponsors sponsors-sm">
+
+    <div class="item active">
+
+      {% for oranizer in site.bronzesponsors %}
+          <div class="sponsor">
+            <a href="{{ oranizer.link }}" title="{{ oranizer.name }}" target="_blank">
+              <img align="center" src="{{ oranizer.logo }}" alt="{{ oranizer.name }}" />
+            </a>
+          </div>
+      {% endfor %}
+
+    </div>
+  </div>
+
 </div>
 
 <div id="tile_sponsors" class="container widget">
