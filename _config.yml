@@ -270,11 +270,11 @@ daytwo:
         slug: everett-toews
       - name: Darrel Miller
         company: Microsoft
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpeg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpg
         slug: darrel-miller
       - name: Jennifer Rondeau
         company: Symantec
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpeg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jennifer-rondeau.jpg
         slug: jennifer-rondeau
   - time: 11:00 am - 12:15 pm
     title: Internet of Things, Gateways, and Next Generation of APIs
@@ -997,9 +997,9 @@ allspeakers:
     slug: noam-schwartz
   - name: Darrel Miller
     company: Microsoft
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpeg
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpg
     slug: darrel-miller
   - name: Jennifer Rondeau
     company: Symantec
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpeg
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jennifer-rondeau.jpg
     slug: jennifer-rondeau
