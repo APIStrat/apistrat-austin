@@ -268,6 +268,10 @@ daytwo:
         company: Rackspace
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/everett-toews.jpg
         slug: everett-toews
+      - name: Darrel Miller
+        company: Microsoft
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpeg
+        slug: darrel-miller
   - time: 11:00 am - 12:15 pm
     title: Internet of Things, Gateways, and Next Generation of APIs
     location: Breakout Two
@@ -987,3 +991,7 @@ allspeakers:
     company: SimilarWeb
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/noam-schwartz.jpg
     slug: noam-schwartz
+  - name: Darrel Miller
+    company: Microsoft
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpeg
+    slug: darrel-miller
