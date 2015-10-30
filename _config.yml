@@ -245,13 +245,9 @@ daytwo:
     title: Keynote (To Be Announced)
     location: Main Stage
   - time: 10:00 am - 10:25 am
-    title: Keynote
+    title: Keynote (To Be Announced)
     location: Main Stage
     speakers:
-      - name: Irakli Nadareishvili
-        company: API Academy @ CA Inc.
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/irakli-nadareishvili.jpeg
-        slug: irakli-nadareishvili
   - time: 10:25 am - 11:00 am
     title: Coffee Break
     location: Break Area
@@ -568,8 +564,13 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/noam-schwartz.jpg
         slug: noam-schwartz
   - time: 10:25 am - 11:00 am
-    title: Keynote (To Be Announced)
+    title: Keynote
     location: Main Stage
+    speakers:
+      - name: Irakli Nadareishvili
+        company: API Academy @ CA Inc.
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/irakli-nadareishvili.jpeg
+        slug: irakli-nadareishvili
   - time: 11:00 am - 11:30 am
     title: Coffee Break
     location: Break Area
