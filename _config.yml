@@ -155,7 +155,7 @@ silversponsors:
     logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/microsoft-logo.png
   - name: Runscope
     link: http://runscope.com
-    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/runscope-logo.png    
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/runscope-logo.png
 
 bronzesponsors:
   - name: JustAPIs by AnyPresence
@@ -276,7 +276,7 @@ daytwo:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpg
         slug: darrel-miller
       - name: Jennifer Rondeau
-        company: Symantec
+        company: Capital One
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jennifer-rondeau.jpg
         slug: jennifer-rondeau
   - time: 11:00 am - 12:15 pm
@@ -1003,6 +1003,6 @@ allspeakers:
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpg
     slug: darrel-miller
   - name: Jennifer Rondeau
-    company: Symantec
+    company: Capital One
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jennifer-rondeau.jpg
     slug: jennifer-rondeau
