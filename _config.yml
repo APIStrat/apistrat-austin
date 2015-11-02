@@ -699,7 +699,7 @@ daythree:
     location: Main Stage
     speakers:
       - name: Leah Bannon
-        company: 18F
+        company: Tech Lady Hackathons
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/leah-bannon-18f.jpg
         slug: leah-bannon
       - name: Mark Boyd
@@ -960,7 +960,7 @@ allspeakers:
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jerome-louvel.jpg
     slug: jerome-louvel
   - name: Leah Bannon
-    company: "18F"
+    company: Tech Lady Hackathons
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/leah-bannon-18f.jpg
     slug: leah-bannon
   - name: John Musser
