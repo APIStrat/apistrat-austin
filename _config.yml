@@ -383,6 +383,10 @@ daytwo:
         company: Return Path
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bonnie-mattson.jpg
         slug: bonnie-mattson
+      - name: David O'Neill
+        company: APImetrics
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dave-oneill.jpg
+        slug: david-oneill
   - time: 1:20 pm - 2:35 pm
     title: Internal Innovation With APIs
     location: Breakout Three
