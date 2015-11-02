@@ -173,6 +173,18 @@ bronzesponsors:
   - name: Pusher
     link: http://pusher.com
     logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/pusher-logo.png
+  - name: Apiary
+    link: https://apiary.io/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/apiary-logo.png
+  - name: Swagger
+    link: http://swagger.io/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/swagger-logo.png
+  - name: Red Hat
+    link: http://www.redhat.com
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/red-hat-logo.png
+  - name: Verizon
+    link: http://www.verizonwireless.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/verizon-logo.png
 
 organizers:
   - name: 3Scale
