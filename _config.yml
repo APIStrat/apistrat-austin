@@ -185,6 +185,10 @@ bronzesponsors:
   - name: Verizon
     link: http://www.verizonwireless.com/
     logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/verizon-logo.png
+  - name: RAML
+    link: http://raml.org/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/raml-logo.png
+
 
 organizers:
   - name: 3Scale
