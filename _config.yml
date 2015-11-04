@@ -266,12 +266,27 @@ daytwo:
         slug: neha-sampat
         twitter: https://twitter.com/nehasf
   - time: 9:35 am - 10:00 am
-    title: Keynote (To Be Announced)
-    location: Main Stage
-  - time: 10:00 am - 10:25 am
-    title: Keynote (To Be Announced)
+    title: Keynote
     location: Main Stage
     speakers:
+      - name: Rion Dooley
+        company: Texas Advanced Computing Center (TACC)
+        company_url: https://www.tacc.utexas.edu
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/rion-dooley.jpg
+        description:
+        slug: rion-dooley
+        twitter:
+  - time: 10:00 am - 10:25 am
+    title: Keynote
+    location: Main Stage
+    speakers:
+      - name: Lori MacVittie
+        company: F5 Networks
+        company_url: https://f5.com/
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorie-macvittie.jpg
+        description: Lori MacVittie is a subject matter expert on emerging technology responsible for education and evangelism across F5s entire product suite.
+        slug: lori-macvittie
+        twitter: https://twitter.com/lmacvittie
   - time: 10:25 am - 11:00 am
     title: Coffee Break
     location: Break Area
@@ -472,17 +487,6 @@ daytwo:
     title: Keynote
     location: Main Stage
     speakers:
-      - name: Lori MacVittie
-        company: F5 Networks
-        company_url: https://f5.com/
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorie-macvittie.jpg
-        description: Lori MacVittie is a subject matter expert on emerging technology responsible for education and evangelism across F5s entire product suite.
-        slug: lori-macvittie
-        twitter: https://twitter.com/lmacvittie
-  - time: 4:45 pm - 5:10 pm
-    title: Keynote
-    location: Main Stage
-    speakers:
       - name: Ashley Hathaway
         company: IBM Watson Group
         company_url: http://www.ibm.com/smarterplanet/us/en/ibmwatson/
@@ -497,6 +501,14 @@ daytwo:
         description: Elliot Turner is the director of Alchemy Solutions at IBM Watson, formerly the founder and Chief Executive Officer of AlchemyAPI (acquired into Watson in early 2015). A serial software entrepreneur focused on solving the toughest data problems, Elliot started AlchemyAPI to give organizations access to deep learning capabilities that enable real-time analysis to derive true meaning from data.
         slug: elliot-turner
         twitter: https://twitter.com/eturner303
+  - time: 4:45 pm - 5:10 pm
+    title: Keynote
+    location: Main Stage
+    speakers:
+      - name: Irakli Nadareishvili
+        company: API Academy @ CA Inc.
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/irakli-nadareishvili.jpeg
+        slug: irakli-nadareishvili
   - time: 5:10 pm - 5:35 pm
     title: Traffic and Weather
     location: Main Stage
@@ -609,12 +621,7 @@ daythree:
         slug: taylor-barnet
   - time: 10:25 am - 11:00 am
     title: Keynote
-    location: Main Stage
-    speakers:
-      - name: Irakli Nadareishvili
-        company: API Academy @ CA Inc.
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/irakli-nadareishvili.jpeg
-        slug: irakli-nadareishvili
+    location: Main Stage (To Be Announced)
   - time: 11:00 am - 11:30 am
     title: Coffee Break
     location: Break Area
@@ -719,13 +726,24 @@ daythree:
     title: APIs in the Enterprise
     location: Breakout Two
     speakers:
-      - name: Natalie Kerns
-        company: Cloud Elements<br />(Session Chair)
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/natalie-kerns.jpg
-        slug: natalie-kerns
-
+      - name: Steven Fonseca
+        company: Intuit
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-fonseca.jpg
+        slug: steven-fonseca
+      - name: Drew Schweinfurth
+        company: Walgreens
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/drew-schweinfurth.jpg
+        slug: drew-schweinfurth
+      - name: C.K. Kumar
+        company: Datafiniti
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ck-kumar.jpg
+        slug: ck-kumar
+      - name: Victor Olex
+        company: Datafiniti
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-olex.png
+        slug: ck-kumar
   - time: 2:00 pm - 3:15 pm
-    title: SpeedHack
+    title: API Clinic (Speakers Coming Soon)
     location: Breakout Three
     speakers:
   - time: 3:15 pm - 3:45 pm
