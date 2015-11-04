@@ -646,10 +646,6 @@ daythree:
         company: Synapp.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/rick-copeland.png
         slug: rick-copeland
-      - name: Ivan Dwyer
-        company: Iron.io
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ivan-dwyer.jpg
-        slug: ivan-dwyer
       - name: Michael Coté
         company: Pivotal Software
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/michael-cote.jpg
@@ -722,6 +718,10 @@ daythree:
         company: runscope
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-sheehan.jpeg
         slug: john-sheehan
+      - name: Ivan Dwyer
+        company: Iron.io
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ivan-dwyer.jpg
+        slug: ivan-dwyer
   - time: 2:00 pm - 3:15 pm
     title: APIs in the Enterprise
     location: Breakout Two
@@ -739,7 +739,7 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ck-kumar.jpg
         slug: ck-kumar
       - name: Victor Olex
-        company: Datafiniti
+        company: SlashDB
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-olex.png
         slug: ck-kumar
   - time: 2:00 pm - 3:15 pm
