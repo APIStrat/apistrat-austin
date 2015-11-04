@@ -188,7 +188,9 @@ bronzesponsors:
   - name: RAML
     link: http://raml.org/
     logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/raml-logo.png
-
+  - name: Form.io
+    link: http://www.form.io/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/form-io-logo.png
 
 organizers:
   - name: 3Scale
