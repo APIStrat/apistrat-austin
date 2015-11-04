@@ -191,6 +191,9 @@ bronzesponsors:
   - name: Form.io
     link: http://www.form.io/
     logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/form-io-logo.png
+  - name: Clarify
+    link: http://Clarify.io
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/clarify-logo.png
 
 organizers:
   - name: 3Scale
@@ -664,10 +667,30 @@ daythree:
         company: Klout
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tyler-singletary.jpg
         slug: tyler-singletary
-  - time: 10:50 am - 12:20 pm
-    title: SpeedHack
+  - time: 11:30 am - 12:45 pm
+    title: API Discovery, Hubs, and IDEs
     location: Breakout Three
     speakers:
+      - name: Natalie Kerns
+        company: Cloud Elements<br />(Session Chair)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/natalie-kerns.jpg
+        slug: natalie-kerns
+      - name: Kin Lane
+        company: API Evangelist
+        image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
+        slug: kin-lane
+      - name: Nicolas Grenié
+        company: 3Scale
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/nicolas-grenie.jpg
+        slug: nicolas-grenie
+      - name: Jim Laredo
+        company: IBM
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jim-laredo.jpg
+        slug: jim-laredo
+      - name: Jérôme Louvel
+        company: Restlet
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jerome-louvel.jpg
+        slug: jerome-louvel
   - time: 12:45 pm - 2:00 pm
     title: Lunch
     location: Break Area
@@ -693,29 +716,14 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-sheehan.jpeg
         slug: john-sheehan
   - time: 2:00 pm - 3:15 pm
-    title: API Discovery, Hubs, and IDEs
+    title: APIs in the Enterprise
     location: Breakout Two
     speakers:
       - name: Natalie Kerns
         company: Cloud Elements<br />(Session Chair)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/natalie-kerns.jpg
         slug: natalie-kerns
-      - name: Kin Lane
-        company: API Evangelist
-        image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
-        slug: kin-lane
-      - name: Nicolas Grenié
-        company: 3Scale
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/nicolas-grenie.jpg
-        slug: nicolas-grenie
-      - name: Jim Laredo
-        company: IBM
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jim-laredo.jpg
-        slug: jim-laredo
-      - name: Jérôme Louvel
-        company: Restlet
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jerome-louvel.jpg
-        slug: jerome-louvel
+
   - time: 2:00 pm - 3:15 pm
     title: SpeedHack
     location: Breakout Three
