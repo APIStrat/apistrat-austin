@@ -594,6 +594,14 @@ daythree:
         company: SimilarWeb
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/noam-schwartz.jpg
         slug: noam-schwartz
+      - name: Kirsten Hunter
+        company: Akamai Technologies
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kirsten-hunter.jpg
+        slug: kirsten-hunter
+      - name: Taylor Barnett
+        company: Keen.io
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/taylor-barnett.jpg
+        slug: taylor-barnet
   - time: 10:25 am - 11:00 am
     title: Keynote
     location: Main Stage
@@ -864,7 +872,7 @@ allspeakers:
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/luke-stokes.jpg
     slug: luke-stokes
   - name: Kirsten Hunter
-    company: Akamai
+    company: Akamai Technologies
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kirsten-hunter.jpg
     slug: kirsten-hunter
   - name: Taylor Barnett
