@@ -650,10 +650,6 @@ daythree:
         company: Pivotal Software
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/michael-cote.jpg
         slug: michael-cote
-      - name: Brendan McAdams
-        company: BoldRadius
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/brendan-mcadams.jpg
-        slug: brendan-mcadams
   - time: 11:30 am - 12:45 pm
     title: API Business Models
     location: Breakout Two
@@ -1106,7 +1102,3 @@ allspeakers:
     company: Pivotal Software
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/michael-cote.jpg
     slug: michael-cote
-  - name: Brendan McAdams
-    company: BoldRadius
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/brendan-mcadams.jpg
-    slug: brendan-mcadams
