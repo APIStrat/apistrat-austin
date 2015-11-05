@@ -410,8 +410,8 @@ daytwo:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/alan-sill.jpg
         slug: alan-sill
       - name: Bonnie Mattson
-        company: Return Path
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bonnie-mattson.jpg
+        company: Context.io
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bonnie-mattson.png
         slug: bonnie-mattson
       - name: David O'Neill
         company: APImetrics
@@ -918,8 +918,8 @@ allspeakers:
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/alan-sill.jpg
     slug: alan-sill
   - name: Bonnie Mattson
-    company: Return Path
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bonnie-mattson.jpg
+    company: Context.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bonnie-mattson.png
     slug: bonnie-mattson
   - name: Lorinda Brandon
     company: Maps CU
