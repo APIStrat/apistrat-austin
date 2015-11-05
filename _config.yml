@@ -743,9 +743,41 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-olex.png
         slug: ck-kumar
   - time: 2:00 pm - 3:15 pm
-    title: API Clinic (Speakers Coming Soon)
+    title: API Clinic - Bring Your API Questions!
     location: Breakout Three
     speakers:
+      - name: Manfred Bortenschlager (Business Models)
+        company: 3Scale <br /> (Business Models)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/manfred-bortenschlager.jpg
+        slug: manfred-bortenschlager
+      - name: Tyler Singletary
+        company: Klout <br /> (Business Models)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tyler-singletary.jpg
+        slug: tyler-singletary
+      - name: Jason Harmon
+        company: Paypal <br /> (API Design / Definitions)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jason-harmon.jpg
+        slug: jason-harmon
+      - name: Darrel Miller
+        company: Microsoft <br /> (API Design / Definitions)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpg
+        slug: darrel-miller
+      - name: Kirsten Hunter
+        company: Akamai Technologies <br /> (Marking / Dev Relations)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kirsten-hunter.jpg
+        slug: kirsten-hunter
+      - name: Mike Amundsen
+        company: API Academy @ CA Inc. <br /> (Hypermedia)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-amundsen.jpg
+        slug: mike-amundsen
+      - name: Shelby Switzer
+        company: Notion <br /> (Hypermedia)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpeg
+        slug: shelby-switzer
+      - name: Orlando Kalossakas
+        company: Evangelist <br /> (Microservices)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/orlando-kalossakas.jpg
+        slug: orlando-kalossakas
   - time: 3:15 pm - 3:45 pm
     title: Coffee Break
     location: Break Area
