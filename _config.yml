@@ -156,6 +156,12 @@ silversponsors:
   - name: Runscope
     link: http://runscope.com
     logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/runscope-logo.png
+  - name: Mulesoft
+    link: https://www.mulesoft.com/
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/mulesoft-logo.jpg
+  - name: NGINX
+    link: https://www.nginx.com
+    logo: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/sponsors/nginx-logo.png
 
 bronzesponsors:
   - name: JustAPIs by AnyPresence
