@@ -228,16 +228,28 @@ dayone:
         company: API Evangelist
         image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
         slug: kin-lane
-        title: A Modern API Lifecycle
+        title: A Modern API Lifecycle Workshop
         abstract: The API industry has significantly evolved since its early days, moving well beyond just deploying and managing APIs. Many API providers are getting sophisticated in how they approach everything from API design, to addressing monitoring, testing, and security. Join Kin Lane, the API Evangelist for a walk through the 30 most common areas top API providers are working on, across the entire lifecycle of their APIs. Bring your laptops, as this workshop will give you a wealth of resources you can explore across the modern API lifecycle.
   - time: 3:00 pm - 3:30 pm
     title: Coffee Break
     location: Break Area
     speakers:
   - time: 3:30 pm - 5:00 pm
-    title: Second Workshop Block (coming soon)
-    location: Breakout One / Two / Three
+    title: Second Workshop Block
+    location: Breakout One / Two
     speakers:
+      - name: Tony Tam
+        company: SmartBear
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tony-tam.jpg
+        slug: tony-tam
+        title: Focus on API Workflow Workshop
+        abstract: APIs are core to your business but are often treated more like artifacts of code rather than first class citizens in the development stack.  In this talk, we’ll focus on the API-First process with Swagger and how open-source tools can speed things up and can make a more cohesive process for the entire development team.
+      - name: Mark Cheshire
+        company: 3Scale
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-cheshire.jpeg
+        slug: mark-cheshire
+        title: Crash Course – Practical API Management Workshop
+        abstract: Learn how to get the most out of your API in 2 hours with 3scale. We’ll take you through the necessary steps to set up the infrastructure to secure and monitor traffic to your API with an API Gateway implemented using 3scale and Nginx. We’ll share some best practices, tricks and tools you can use to help you test, debug and monitor your API.
   - time: 5:30 pm - 7:00 pm
     title: Birds of a Feather
     location: Sheraton
