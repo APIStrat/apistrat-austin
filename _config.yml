@@ -1104,3 +1104,7 @@ allspeakers:
     company: Pivotal Software
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/michael-cote.jpg
     slug: michael-cote
+  - name: Robert Read
+    company: Public Invention For All Humanity
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/robert-read.png
+    slug: robert-read
