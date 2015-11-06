@@ -462,9 +462,21 @@ daytwo:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-stowe.jpg
         slug: mike-stowe
   - time: 2:45 pm - 4:00 pm
-    title: API Giants (Speakers Coming Soon!)
+    title: API Giants
     location: Breakout Two
     speakers:
+      - name: Ryan Choi
+        company: Twitter
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ryan-choi.png
+        slug: ryan-choi
+      - name: Tony Blank
+        company: SendGrid
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tony-blank.png
+        slug: tony-blank
+      - name: John Burry
+        company: Amazon
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-burry.png
+        slug: john-burry
   - time: 2:45 pm - 4:00 pm
     title: The Developer Experience
     location: Breakout Three
@@ -1116,3 +1128,15 @@ allspeakers:
     company: Clarify
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/paul-murphy.jpg
     slug: paul-murphy
+  - name: Ryan Choi
+    company: Twitter
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ryan-choi.png
+    slug: ryan-choi
+  - name: Tony Blank
+    company: SendGrid
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tony-blank.png
+    slug: tony-blank
+  - name: John Burry
+    company: Amazon
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-burry.png
+    slug: john-burry
