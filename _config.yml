@@ -1112,3 +1112,7 @@ allspeakers:
     company: Public Invention For All Humanity
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/robert-read.png
     slug: robert-read
+  - name: Paul Murphy
+    company: Clarify
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/paul-murphy.jpg
+    slug: paul-murphy
