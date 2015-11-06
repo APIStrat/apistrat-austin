@@ -672,6 +672,10 @@ daythree:
         company: Klout
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tyler-singletary.jpg
         slug: tyler-singletary
+      - name: Paul Murphy
+        company: Clarify
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/paul-murphy.jpg
+        slug: paul-murphy
   - time: 11:30 am - 12:45 pm
     title: API Discovery, Hubs, and IDEs
     location: Breakout Three
