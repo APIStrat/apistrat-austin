@@ -215,9 +215,21 @@ dayone:
     location: Break Area
     speakers:
   - time: 1:30 pm - 3:00 pm
-    title: First Workshop Block (coming soon)
-    location: Breakout One / Two / Three
+    title: First Workshop Block
+    location: Breakout One / Two
     speakers:
+      - name: Kirsten Hunter
+        company: Akamai
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kirsten-hunter.jpg
+        slug: kirsten-hunter
+        title: API Speaker Workshop - Telling your Story
+        abstract: Welcome to API Strategy and Practice!  This session is designed to help new speakers (and experienced speakers as well) feel comfortable and confident during your presentation.  The idea of presenting at conferences is frequently daunting to non-speakers. When I got started giving talks, I was terrified of being called out on areas I wasn’t an expert in. I finally realized that there are different ways to present information.
+      - name: Kin Lane
+        company: API Evangelist
+        image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
+        slug: kin-lane
+        title: A Modern API Lifecycle
+        abstract: The API industry has significantly evolved since its early days, moving well beyond just deploying and managing APIs. Many API providers are getting sophisticated in how they approach everything from API design, to addressing monitoring, testing, and security. Join Kin Lane, the API Evangelist for a walk through the 30 most common areas top API providers are working on, across the entire lifecycle of their APIs. Bring your laptops, as this workshop will give you a wealth of resources you can explore across the modern API lifecycle.
   - time: 3:00 pm - 3:30 pm
     title: Coffee Break
     location: Break Area
