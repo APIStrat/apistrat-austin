@@ -450,7 +450,7 @@ daytwo:
     location: Breakout Three
     speakers:
       - name: Lorinda Brandon
-        company: SmartBear
+        company: Capital One
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorinda-brandon.jpg
         slug: lorinda-brandon
       - name: Loren Paulsen
@@ -962,7 +962,7 @@ allspeakers:
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bonnie-mattson.png
     slug: bonnie-mattson
   - name: Lorinda Brandon
-    company: Maps CU
+    company: Capital One
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorinda-brandon.jpg
     slug: lorinda-brandon
   - name: Loren Paulsen
