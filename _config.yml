@@ -217,6 +217,7 @@ dayone:
   - time: 1:30 pm - 3:00 pm
     title: API Speaker Workshop - Telling your Story
     abstract: Welcome to API Strategy and Practice!  This session is designed to help new speakers (and experienced speakers as well) feel comfortable and confident during your presentation.  The idea of presenting at conferences is frequently daunting to non-speakers. When I got started giving talks, I was terrified of being called out on areas I wasn’t an expert in. I finally realized that there are different ways to present information.
+    registration: http://austin2015.apistrat.com/workshops/api-speaker-workshop-telling-your-story.html
     location: Breakout One
     speakers:
       - name: Kirsten Hunter
@@ -226,6 +227,7 @@ dayone:
   - time: 1:30 pm - 3:00 pm
     title: A Modern API Lifecycle Workshop
     abstract: The API industry has significantly evolved since its early days, moving well beyond just deploying and managing APIs. Many API providers are getting sophisticated in how they approach everything from API design, to addressing monitoring, testing, and security. Join Kin Lane, the API Evangelist for a walk through the 30 most common areas top API providers are working on, across the entire lifecycle of their APIs. Bring your laptops, as this workshop will give you a wealth of resources you can explore across the modern API lifecycle.
+    registration: http://austin2015.apistrat.com/workshops/a-modern-api-lifecycle-workshop.html
     location: Breakout Two
     speakers:
       - name: Kin Lane
@@ -239,6 +241,7 @@ dayone:
   - time: 3:30 pm - 5:00 pm
     title: Focus on API Workflow Workshop
     abstract: APIs are core to your business but are often treated more like artifacts of code rather than first class citizens in the development stack.  In this talk, we’ll focus on the API-First process with Swagger and how open-source tools can speed things up and can make a more cohesive process for the entire development team.
+    registration: http://austin2015.apistrat.com/workshops/focus-on-api-workflow-workshop.html
     location: Breakout One
     speakers:
       - name: Tony Tam
@@ -248,6 +251,7 @@ dayone:
   - time: 3:30 pm - 5:00 pm
     title: Crash Course – Practical API Management Workshop
     abstract: Learn how to get the most out of your API in 2 hours with 3scale. We’ll take you through the necessary steps to set up the infrastructure to secure and monitor traffic to your API with an API Gateway implemented using 3scale and Nginx. We’ll share some best practices, tricks and tools you can use to help you test, debug and monitor your API.
+    registration: http://austin2015.apistrat.com/workshops/crash-course-practical-api-management-workshop.html
     location: Breakout Two
     speakers:
       - name: Mark Cheshire
