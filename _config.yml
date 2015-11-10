@@ -525,6 +525,10 @@ daytwo:
         company: Readme.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gregory-koburger.jpg
         slug: gregory-koberger
+      - name: Carlo Longino
+        company: WIP
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/carlo-longino.jpg
+        slug: carlo-longino
   - time: 4:00 pm - 4:20 pm
     title: Coffee Break
     location: Break Area
@@ -1168,3 +1172,7 @@ allspeakers:
     company: Amazon
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-burry.png
     slug: john-burry
+  - name: Carlo Longino
+    company: WIP
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/carlo-longino.jpg
+    slug: carlo-longino
