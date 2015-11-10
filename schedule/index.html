@@ -28,7 +28,7 @@ title: APIStrat Austin 2015 - Schedule
                   <div class="session-inner">
 
                       <a class="title" href="#" onclick="return false;"><span>{{ entry.title }}</span></a>
-                      <a class="title" href="{{ entry.registration }}" style="color:#FF0000;">REGISTER FOR WORKSHOP!</a>
+                      {% if entry.registration != null %}(<a class="title" href="{{ entry.registration }}" style="color:#FF0000;">REGISTER FOR WORKSHOP!</a>){% endif %}
                       <span class="location">{{ entry.abstract }}</span>
                       <span class="location">{{ entry.location }}</span>
 
