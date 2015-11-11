@@ -276,7 +276,7 @@ daytwo:
     title: Registration and Coffee
     location: Break Area
     speakers:
-  - time: 9:00 am - 9:10 am
+  - time: 9:00 am - 9:15 am
     title: Opening Remarks
     location: Main Stage
     speakers:
@@ -292,7 +292,7 @@ daytwo:
         company: Conference Chair
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
         slug: mark-boyd
-  - time: 9:10 am - 9:35 am
+  - time: 9:15 am - 9:40 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -303,7 +303,7 @@ daytwo:
         description: CEO of @Builtio | Co-founder of @raweng & @kurbkarma | Advocate for Women in Leadership
         slug: neha-sampat
         twitter: https://twitter.com/nehasf
-  - time: 9:35 am - 10:00 am
+  - time: 9:40 am - 10:05 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -314,7 +314,7 @@ daytwo:
         description:
         slug: rion-dooley
         twitter:
-  - time: 10:00 am - 10:25 am
+  - time: 10:05 am - 10:30 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -325,11 +325,11 @@ daytwo:
         description: Lori MacVittie is a subject matter expert on emerging technology responsible for education and evangelism across F5s entire product suite.
         slug: lori-macvittie
         twitter: https://twitter.com/lmacvittie
-  - time: 10:25 am - 11:00 am
+  - time: 10:30 am - 11:00 am
     title: Coffee Break
     location: Break Area
     speakers:
-  - time: 11:00 am - 12:15 pm
+  - time: 11:00 am - 12:30 pm
     title: API Design Impacting The API Lifecycle
     location: Breakout One
     speakers:
@@ -353,7 +353,7 @@ daytwo:
         company: Capital One
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jennifer-rondeau.jpg
         slug: jennifer-rondeau
-  - time: 11:00 am - 12:15 pm
+  - time: 11:00 am - 12:30 pm
     title: Internet of Things, Gateways, and Next Generation of APIs
     location: Breakout Two
     speakers:
@@ -377,7 +377,7 @@ daytwo:
         company: YODLEE Interactive
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jeanine-swatton.png
         slug: jeanine-swatton
-  - time: 11:00 am - 12:15 pm
+  - time: 11:00 am - 12:30 pm
     title: Marketing In The API Space
     location: Breakout Three
     speakers:
@@ -401,11 +401,11 @@ daytwo:
         company: LeadPages
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kristen-womack.jpg
         slug: kristen-womack
-  - time: 12:15 pm - 1:20 pm
+  - time: 12:30 pm - 1:30 pm
     title: Lunch
     location: Break Area
     speakers:
-  - time: 1:20 pm - 2:35 pm
+  - time: 1:30 pm - 3:00 pm
     title: Talking API Definitions
     location: Breakout One
     speakers:
@@ -433,7 +433,7 @@ daytwo:
         company: Microsoft
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gareth-jones.jpg
         slug: gareth-jones
-  - time: 1:20 pm - 2:35 pm
+  - time: 1:30 pm - 3:00 pm
     title: API Testing And Monitoring
     location: Breakout Two
     speakers:
@@ -449,7 +449,7 @@ daytwo:
         company: APImetrics
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dave-oneill.jpg
         slug: david-oneill
-  - time: 1:20 pm - 2:35 pm
+  - time: 1:30 pm - 3:00 pm
     title: Internal Innovation With APIs
     location: Breakout Three
     speakers:
@@ -469,11 +469,11 @@ daytwo:
         company: Akana
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/laura-heritage.jpg
         slug: laura-heritage
-  - time: 2:35 pm - 2:45
+  - time: 3:00 pm - 3:05 pm
     title: Switchover Time
     location: Break Area
     speakers:
-  - time: 2:45 pm - 4:00 pm
+  - time: 3:05 pm - 4:35 pm
     title: Hypermedia APIs
     location: Breakout One
     speakers:
@@ -493,7 +493,7 @@ daytwo:
         company: Mulesoft
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-stowe.jpg
         slug: mike-stowe
-  - time: 2:45 pm - 4:00 pm
+  - time: 3:05 pm - 4:35 pm
     title: API Giants
     location: Breakout Two
     speakers:
@@ -509,7 +509,7 @@ daytwo:
         company: Amazon
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-burry.png
         slug: john-burry
-  - time: 2:45 pm - 4:00 pm
+  - time: 3:05 pm - 4:35 pm
     title: The Developer Experience
     location: Breakout Three
     speakers:
@@ -533,11 +533,11 @@ daytwo:
         company: WIP
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/carlo-longino.jpg
         slug: carlo-longino
-  - time: 4:00 pm - 4:20 pm
+  - time: 4:35 pm - 5:00 pm
     title: Coffee Break
     location: Break Area
     speakers:
-  - time: 4:20 pm - 4:45 pm
+  - time: 5:00 pm - 5:25 pm
     title: Keynote
     location: Main Stage
     speakers:
@@ -555,15 +555,7 @@ daytwo:
         description: Elliot Turner is the director of Alchemy Solutions at IBM Watson, formerly the founder and Chief Executive Officer of AlchemyAPI (acquired into Watson in early 2015). A serial software entrepreneur focused on solving the toughest data problems, Elliot started AlchemyAPI to give organizations access to deep learning capabilities that enable real-time analysis to derive true meaning from data.
         slug: elliot-turner
         twitter: https://twitter.com/eturner303
-  - time: 4:45 pm - 5:10 pm
-    title: Keynote
-    location: Main Stage
-    speakers:
-      - name: Irakli Nadareishvili
-        company: API Academy @ CA Inc.
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/irakli-nadareishvili.jpeg
-        slug: irakli-nadareishvili
-  - time: 5:10 pm - 5:35 pm
+  - time: 5:25 pm - 5:50 pm
     title: Traffic and Weather
     location: Main Stage
     speakers:
@@ -575,11 +567,11 @@ daytwo:
         company: Dropbox
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-marx.jpg
         slug: steve-marx
-  - time: 5:35 pm - 6:05 pm
+  - time: 5:50 pm - 6:20 pm
     title: Diversity Panel (To Be Announced)
     location: Main Stage
     speakers:
-  - time: 5:05 pm - 5:15 pm
+  - time: 6:20 pm - 6:30 pm
     title: Closing Remarks
     location: Main Stage
     speakers:
@@ -595,7 +587,7 @@ daytwo:
         company: Conference Chair
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
         slug: mark-boyd
-  - time: 5:15 pm - 7:00 pm
+  - time: 6:45 pm - 7:45 pm
     title: Drinks Reception
     location: Break Area
     speakers:
@@ -609,7 +601,7 @@ daythree:
     title: Registration and Coffee
     location: Break Area
     speakers:
-  - time: 9:00 am - 9:10 am
+  - time: 9:00 am - 9:05 am
     title: Opening Remarks
     location: Main Stage
     speakers:
@@ -625,7 +617,15 @@ daythree:
         company: Conference Chair
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
         slug: mark-boyd
-  - time: 9:10 am - 9:35 am
+  - time: 9:05 am - 9:30 am
+    title: Keynote
+    location: Main Stage
+    speakers:
+      - name: Irakli Nadareishvili
+        company: API Academy @ CA Inc.
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/irakli-nadareishvili.jpeg
+        slug: irakli-nadareishvili
+  - time: 9:30 am - 9:55 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -634,7 +634,7 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/teresa-tung.jpg
         description: Teresa Tung is a senior manager at Accenture Technology Labs responsible for taking the best-of-breed next-generation software architecture solutions from industry, start-ups, and academia, and for evaluating their impact on Accenture's clients through building experimental prototypes and delivering pioneering pilot engagements. Recently Teresa leads R&D on platform architecture for Internet of Things working on real-time streaming analytics, semantic modeling, data virtualization, and APIs for Accenture’s industry platforms like Accenture Connected Products as a Service Platform and Accenture Analytics Insights Platform. Teresa is the author of Accenture’s API Maturity Model.Teresa holds a Ph.D. in Electrical Engineering and Computer Science from the University of California at Berkeley.
         slug: /speakers/teresa-tung/
-  - time: 9:35 am - 10:00 am
+  - time: 9:55 am - 10:20 am
     title: Keynote
     location: Main Stage
     speakers:
@@ -645,7 +645,7 @@ daythree:
         description: Chief Strategy Officer, business strategist, enterprise architect, keynote speaker, author, & futurist.
         slug: /speakers/dion-hinchcliffe/
         twitter: https://twitter.com/dhinchcliffe
-  - time: 10:00 am - 10:25 am
+  - time: 10:20 am - 10:50 am
     title: API Consumption Panel
     location: Main Stage
     speakers:
@@ -673,14 +673,11 @@ daythree:
         company: Keen.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/taylor-barnett.jpg
         slug: taylor-barnet
-  - time: 10:25 am - 11:00 am
-    title: Keynote
-    location: Main Stage (To Be Announced)
-  - time: 11:00 am - 11:30 am
+  - time: 10:50 am - 11:15 am
     title: Coffee Break
     location: Break Area
     speakers:
-  - time: 11:30 am - 12:45 pm
+  - time: 11:15 am - 12:45 pm
     title: Microservices
     location: Breakout One
     speakers:
@@ -704,7 +701,7 @@ daythree:
         company: Pivotal Software
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/michael-cote.jpg
         slug: michael-cote
-  - time: 11:30 am - 12:45 pm
+  - time: 11:15 am - 12:45 pm
     title: APIs in the Enterprise
     location: Breakout Two
     speakers:
@@ -724,7 +721,7 @@ daythree:
         company: Capital One
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dave-goldberg.png
         slug: dave-goldberg
-  - time: 11:30 am - 12:45 pm
+  - time: 11:15 am - 12:45 pm
     title: API Discovery, Hubs, and IDEs
     location: Breakout Three
     speakers:
@@ -752,7 +749,7 @@ daythree:
     title: Lunch
     location: Break Area
     speakers:
-  - time: 2:00 pm - 3:15 pm
+  - time: 2:00 pm - 3:30 pm
     title: A Post HTTP World
     location: Breakout One
     speakers:
@@ -776,7 +773,7 @@ daythree:
         company: Iron.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ivan-dwyer.jpg
         slug: ivan-dwyer
-  - time: 2:00 pm - 3:15 pm
+  - time: 2:00 pm - 3:30 pm
     title: API Business Models
     location: Breakout Two
     speakers:
@@ -800,7 +797,7 @@ daythree:
         company: ​Form.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gary-wetzel.jpg
         slug: gary-wetzel
-  - time: 2:00 pm - 3:15 pm
+  - time: 2:00 pm - 3:30 pm
     title: API Clinic - Bring Your API Questions!
     location: Breakout Three
     speakers:
@@ -836,11 +833,11 @@ daythree:
         company: Evangelist <br /> (Microservices)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/orlando-kalossakas.jpg
         slug: orlando-kalossakas
-  - time: 3:15 pm - 3:45 pm
+  - time: 3:30 pm - 3:45 pm
     title: Coffee Break
     location: Break Area
     speakers:
-  - time: 3:20 pm - 3:45 pm
+  - time: 3:45 pm - 4:10 pm
     title: Keynote
     location: Main Stage
     speakers:
@@ -848,7 +845,7 @@ daythree:
         company: API Evangelist
         image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
         slug: kin-lane
-  - time: 3:45 pm - 4:10 pm
+  - time: 4:10 pm - 4:40 pm
     title: Fireside Chat
     location: Main Stage
     speakers:
@@ -860,7 +857,7 @@ daythree:
         company: Public Invention For All Humanity
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/robert-read.png
         slug: robert-read
-  - time: 4:10 pm - 4:35 pm
+  - time: 4:40 pm - 5:10 pm
     title: Panel
     location: Main Stage
     speakers:
@@ -884,7 +881,7 @@ daythree:
         company: Urgency Inc.
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
         slug: thursday-bram
-  - time: 4:35 pm - 5:05 pm
+  - time: 5:10 pm - 5:20 pm
     title: Closing Remarks
     location: Main Stage
     speakers:
