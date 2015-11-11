@@ -509,6 +509,10 @@ daytwo:
         company: Amazon
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-burry.png
         slug: john-burry
+      - name: David Zack
+        company: Oxford University Press
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/david-zack.jpg
+        slug: david-zack
   - time: 3:05 pm - 4:35 pm
     title: The Developer Experience
     location: Breakout Three
@@ -1193,3 +1197,7 @@ allspeakers:
     company: ​Form.io
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gary-wetzel.jpg
     slug: gary-wetzel
+  - name: David Zack
+    company: Oxford University Press
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/david-zack.jpg
+    slug: david-zack
