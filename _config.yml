@@ -791,7 +791,11 @@ daythree:
       - name: Victor Olex
         company: SlashDB
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-olex.png
-        slug: ck-kumar
+        slug: victor-olex
+      - name: Dave Goldberg
+        company: Capital One
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dave-goldberg.png
+        slug: dave-goldberg
   - time: 2:00 pm - 3:15 pm
     title: API Clinic - Bring Your API Questions!
     location: Breakout Three
@@ -1180,3 +1184,7 @@ allspeakers:
     company: WIP
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/carlo-longino.jpg
     slug: carlo-longino
+  - name: Dave Goldberg
+    company: Capital One
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dave-goldberg.png
+    slug: dave-goldberg
