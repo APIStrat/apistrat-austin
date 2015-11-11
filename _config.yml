@@ -705,25 +705,25 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/michael-cote.jpg
         slug: michael-cote
   - time: 11:30 am - 12:45 pm
-    title: API Business Models
+    title: APIs in the Enterprise
     location: Breakout Two
     speakers:
-      - name: John Musser
-        company: API Science<br />(Session Chair)
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
-        slug: john-musser
-      - name: Manfred Bortenschlager
-        company: 3Scale
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/manfred-bortenschlager.jpg
-        slug: manfred-bortenschlager
-      - name: Tyler Singletary
-        company: Klout
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tyler-singletary.jpg
-        slug: tyler-singletary
-      - name: Paul Murphy
-        company: Clarify
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/paul-murphy.jpg
-        slug: paul-murphy
+      - name: Steven Fonseca
+        company: Intuit
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-fonseca.jpg
+        slug: steven-fonseca
+      - name: Drew Schweinfurth
+        company: Walgreens
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/drew-schweinfurth.jpg
+        slug: drew-schweinfurth
+      - name: Victor Olex
+        company: SlashDB
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-olex.png
+        slug: victor-olex
+      - name: Dave Goldberg
+        company: Capital One
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dave-goldberg.png
+        slug: dave-goldberg
   - time: 11:30 am - 12:45 pm
     title: API Discovery, Hubs, and IDEs
     location: Breakout Three
@@ -777,25 +777,29 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ivan-dwyer.jpg
         slug: ivan-dwyer
   - time: 2:00 pm - 3:15 pm
-    title: APIs in the Enterprise
+    title: API Business Models
     location: Breakout Two
     speakers:
-      - name: Steven Fonseca
-        company: Intuit
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-fonseca.jpg
-        slug: steven-fonseca
-      - name: Drew Schweinfurth
-        company: Walgreens
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/drew-schweinfurth.jpg
-        slug: drew-schweinfurth
-      - name: Victor Olex
-        company: SlashDB
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-olex.png
-        slug: victor-olex
-      - name: Dave Goldberg
-        company: Capital One
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dave-goldberg.png
-        slug: dave-goldberg
+      - name: John Musser
+        company: API Science<br />(Session Chair)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-musser.jpg
+        slug: john-musser
+      - name: Manfred Bortenschlager
+        company: 3Scale
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/manfred-bortenschlager.jpg
+        slug: manfred-bortenschlager
+      - name: Tyler Singletary
+        company: Klout
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tyler-singletary.jpg
+        slug: tyler-singletary
+      - name: Paul Murphy
+        company: Clarify
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/paul-murphy.jpg
+        slug: paul-murphy
+      - name: Gary Wetzel
+        company: ​Form.io
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gary-wetzel.jpg
+        slug: gary-wetzel
   - time: 2:00 pm - 3:15 pm
     title: API Clinic - Bring Your API Questions!
     location: Breakout Three
@@ -1188,3 +1192,7 @@ allspeakers:
     company: Capital One
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dave-goldberg.png
     slug: dave-goldberg
+  - name: Gary Wetzel
+    company: ​Form.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gary-wetzel.jpg
+    slug: gary-wetzel
