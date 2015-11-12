@@ -44,14 +44,14 @@ featured_speakers:
     slug: /speakers/lori-macvittie/
     twitter: https://twitter.com/lmacvittie
   - name: Ashley Hathaway
-    company: IBM Watson Group
+    company: IBM Watson
     company_url: http://www.ibm.com/smarterplanet/us/en/ibmwatson/
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ashley-hathway.jpeg
     description: As part of a strong team she helps to prioritize, drive requirements, and realize the vision of a successful product for the IBM Watson Developer Cloud in Austin, Texas.
     slug: ashley-hathaway
     twitter: https://twitter.com/ash_hathaway
   - name: Elliot Turner
-    company: AlchemyAPI
+    company: IBM Watson
     company_url: http://alchemyapi.com
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/elliot-turner.png
     description: Elliot Turner is the director of Alchemy Solutions at IBM Watson, formerly the founder and Chief Executive Officer of AlchemyAPI (acquired into Watson in early 2015). A serial software entrepreneur focused on solving the toughest data problems, Elliot started AlchemyAPI to give organizations access to deep learning capabilities that enable real-time analysis to derive true meaning from data.
@@ -546,14 +546,14 @@ daytwo:
     location: Main Stage
     speakers:
       - name: Ashley Hathaway
-        company: IBM Watson Group
+        company: IBM Watson
         company_url: http://www.ibm.com/smarterplanet/us/en/ibmwatson/
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ashley-hathway.jpeg
         description: As part of a strong team she helps to prioritize, drive requirements, and realize the vision of a successful product for the IBM Watson Developer Cloud in Austin, Texas.
         slug: ashley-hathaway
         twitter: https://twitter.com/ash_hathaway
       - name: Elliot Turner
-        company: AlchemyAPI
+        company: IBM Watson
         company_url: http://alchemyapi.com
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/elliot-turner.png
         description: Elliot Turner is the director of Alchemy Solutions at IBM Watson, formerly the founder and Chief Executive Officer of AlchemyAPI (acquired into Watson in early 2015). A serial software entrepreneur focused on solving the toughest data problems, Elliot started AlchemyAPI to give organizations access to deep learning capabilities that enable real-time analysis to derive true meaning from data.
