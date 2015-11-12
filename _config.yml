@@ -663,7 +663,7 @@ daythree:
         slug: mark-geene
       - name: Todd Sundsted
         company: SumAll
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/todd-sunsted.jpg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/todd-sundsted.jpg
         slug: todd-sundsted
       - name: Noam Schwartz
         company: SimilarWeb
@@ -1060,7 +1060,7 @@ allspeakers:
     slug: mark-geene
   - name: Todd Sundsted
     company: SumAll
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/todd-sunsted.jpg
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/todd-sundsted.jpg
     slug: todd-sundsted
   - name: Steve Willmott
     company: 3Scale
