@@ -814,7 +814,7 @@ daythree:
     location: Breakout Three
     speakers:
       - name: Mark Cheshire
-        company: 3Scale
+        company: 3Scale <br /> (Business Models)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-cheshire.jpeg
         slug: mark-cheshire
       - name: Tyler Singletary
@@ -842,9 +842,13 @@ daythree:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpeg
         slug: shelby-switzer
       - name: Orlando Kalossakas
-        company: Evangelist <br /> (Microservices)
+        company: Evangelist <br /> (Deployment)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/orlando-kalossakas.jpg
         slug: orlando-kalossakas
+      - name: Travis Tidwell
+        company: Form.io <br /> (Deployment)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/travis-tidwell.jpg
+        slug: travis-tidwell
   - time: 3:30 pm - 3:45 pm
     title: Coffee Break
     location: Break Area
@@ -1217,3 +1221,7 @@ allspeakers:
     company: Appery.io
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/max-katz.jpg
     slug: max-katz
+  - name: Travis Tidwell
+    company: Form.io <br /> (Deployment)
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/travis-tidwell.jpg
+    slug: travis-tidwell
