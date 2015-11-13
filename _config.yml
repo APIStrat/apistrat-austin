@@ -817,10 +817,10 @@ daythree:
         company: 3Scale <br /> (Business Models)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-cheshire.jpeg
         slug: mark-cheshire
-      - name: Tyler Singletary
-        company: Klout <br /> (Business Models)
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tyler-singletary.jpg
-        slug: tyler-singletary
+      - name: Kin Lane
+        company: API Evangelist<br />(Business Models)
+        image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg
+        slug: kin-lane
       - name: Jason Harmon
         company: Paypal <br /> (API Design / Definitions)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jason-harmon.jpg
