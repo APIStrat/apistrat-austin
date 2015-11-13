@@ -31,7 +31,7 @@ title: APIStrat Austin 2015 - Schedule
                       {% if entry.location != 'Break Area' %}
                       {% if entry.location != 'Sheraton' %}
                       {% if entry.location != '[coming soon]' %}
-                      <a class="title" href="{{ entry.registration }}" style="color:#FF0000;">(REGISTER FOR WORKSHOP!)</a>
+                        <a class="title" href="{{ entry.registration }}" style="color:#FF0000;">(REGISTER FOR WORKSHOP!)</a>
                       {% endif %}
                       {% endif %}
                       {% endif %}
@@ -68,12 +68,12 @@ title: APIStrat Austin 2015 - Schedule
 
                   <div class="session-inner">
 
-                      <a class="title" href="#" onclick="return false;"><span>{{ entry.title }}</span></a>
+                      <a class="title" {% if entry.detailpage != '' %}href="{{ entry.detailpage }}"{% else %}href="#" onclick="return false;"{% endif %}><span>{{ entry.title }}</span></a>
                       <span class="location">{{ entry.location }}</span>
 
                       <span class="speakers-thumbs">
                       {% for speaker in entry.speakers %}
-                          <a class="speaker" href="#" onclick="return false;">
+                          <a class="speaker" {% if speaker.detailpage != '' %}href="{{ speaker.detailpage }}"{% else %}href="#" onclick="return false;"{% endif %}>
                             <img alt="{{ speaker.name }} {{ speaker.company }}" height="54" src="{{ speaker.image }}" width="60">
                             <span class="name">
                               {{ speaker.name }}<br />{{ speaker.company }}
@@ -101,17 +101,15 @@ title: APIStrat Austin 2015 - Schedule
 
                   <div class="session-inner">
 
-                      <a class="title" href="#" onclick="return false;"><span>{{ entry.title }}</span></a>
+                      <a class="title" {% if entry.detail != '' %}href="{{ entry.detailpage }}"{% else %}href="#" onclick="return false;"{% endif %}><span>{{ entry.title }}</span></a>
                       <span class="location">{{ entry.location }}</span>
 
                       <span class="speakers-thumbs">
                       {% for speaker in entry.speakers %}
-                          <a class="speaker" href="#" onclick="return false;">
-                            <img alt="{{ speaker.name }} {{ speaker.company }}" class="attachment-54x54 wp-post-image" height="54" src="{{ speaker.image }}" width="47">
+                          <a class="speaker" {% if speaker.detail != '' %}href="{{ speaker.detailpage }}"{% else %}href="#" onclick="return false;"{% endif %}>
+                            <img alt="{{ speaker.name }} {{ speaker.company }}" height="54" src="{{ speaker.image }}" width="60">
                             <span class="name">
-                              <span class="text-fit">
-                                <span class="text-fit-inner" style="display: block; font-size: 0.95em;">{{ speaker.name }}<br />{{ speaker.company }}</span>
-                              </span>
+                              {{ speaker.name }}<br />{{ speaker.company }}
                             </span>
                           </a>
                       {% endfor %}

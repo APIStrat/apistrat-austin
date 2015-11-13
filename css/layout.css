@@ -1889,14 +1889,3 @@ MEDIA CUSTOMIZATION
     display: block;
 	font-size: 150px;
 }
-
-#banner {
-    background-color: #FF0000;
-    width: 100%;
-  }
-#banner-content {
-    width: 100%;
-    margin: 0 auto;
-    padding: 10px;
-    border: 1px solid #000;
-  }
