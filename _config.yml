@@ -250,7 +250,7 @@ dayone:
         slug: tony-tam
   - time: 3:30 pm - 5:00 pm
     title: Crash Course – Practical API Management Workshop
-    abstract: Learn hands-on how to open, secure and manage an API. We’ll zip you through steps to deploy a live API and then secure and monitor traffic with an API Gateway implemented using 3scale and Nginx. We’ll share some best practices, tricks and tools you can use to help you debug and monitor your API. With the live API we will then build, test and run a mobile app using Appery. Pre-requisites: 1) Access to laptop with MacOSX or Ubuntu (VM is fine), 2) Heroku account.
+    abstract: Learn hands-on how to open, secure and manage an API. We’ll zip you through steps to deploy a live API and then secure and monitor traffic with an API Gateway implemented using 3scale and Nginx. We’ll share some best practices, tricks and tools you can use to help you debug and monitor your API. With the live API we will then build, test and run a mobile app using Appery. Pre-requisites are 1) Access to laptop with MacOSX or Ubuntu 2) Heroku account.
     registration: http://austin2015.apistrat.com/workshops/crash-course-practical-api-management-workshop.html
     location: Breakout Two
     speakers:
