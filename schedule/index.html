@@ -68,7 +68,7 @@ title: APIStrat Austin 2015 - Schedule
 
                   <div class="session-inner">
 
-                      <a class="title" {% if entry.detail != 'none' %}href="{{ entry.detail }}"{% else %}href="#" onclick="return false;"{% endif %}><span>{{ entry.title }}</span></a>
+                      <a class="title" {% if entry.detail == 'none' %} href="#"onclick="return false;"{% else %}href="{{ entry.detail }}"{% endif %}><span>{{ entry.title }}</span></a>
                       <span class="location">{{ entry.location }}</span>
 
                       <span class="speakers-thumbs">
