@@ -348,7 +348,7 @@ daytwo:
       - name: James Higginbotham
         company: Launch Any
         url: http://launchany.com/
-        url: @launchany
+        url: launchany
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/james-higginbotham.jpg
         slug: james-higginbotham
         detail: james-hgginbotham-public-apis-are-forever-taming-api-complexity.html
