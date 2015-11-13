@@ -505,6 +505,10 @@ daytwo:
     title: API Giants
     location: Breakout Two
     speakers:
+      - name: Chris Stevens
+        company: Traxo <br /> (Session Chair)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/chris-stevens.jpg
+        slug: chris-stevens
       - name: Ryan Choi
         company: Twitter
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ryan-choi.png
