@@ -345,6 +345,9 @@ daytwo:
         company: Paypal <br /> (Session Chair)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jason-harmon.jpg
         slug: jason-harmon
+        detail: none
+        title:
+        abstract:        
       - name: James Higginbotham
         company: Launch Any
         url: http://launchany.com/
