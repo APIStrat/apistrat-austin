@@ -1209,3 +1209,11 @@ allspeakers:
     company: Oxford University Press
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/david-zack.jpg
     slug: david-zack
+  - name: Victor Delgado
+    company: 3Scale
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-delgado.jpg
+    slug: victor-delgado
+  - name: Max Katz
+    company: Appery.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/max-katz.jpg
+    slug: max-katz
