@@ -833,6 +833,10 @@ daythree:
         company: Akamai Technologies <br /> (Marking / Dev Relations)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kirsten-hunter.jpg
         slug: kirsten-hunter
+      - name: Nicolas Grenié
+        company: 3Scale <br /> (Marking / Dev Relations)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/nicolas-grenie.jpg
+        slug: nicolas-grenie
       - name: Mike Amundsen
         company: API Academy @ CA Inc. <br /> (Hypermedia)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-amundsen.jpg
