@@ -17,6 +17,9 @@ slug: james-higginbotham
         <img alt="{{ speaker.name }} {{ speaker.company }}" src="{{ speaker.image }}" width="120" align="left" style="padding: 15px;">
         <p><strong>{{ speaker.name }}</strong> (<a href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a>) of <a href="{{ speaker.url }}"><strong>{{ speaker.company }}</strong></a></p>
         <p>{{ speaker.abstract }}</p>
+        {% if speaker.bio != '' %}
+        <p><strong>About{{ speaker.name }}</strong><br />{{ speaker.bio }}
+        {% endif %}
         {% endif %}
     {% endfor %}
   {% endfor %}
