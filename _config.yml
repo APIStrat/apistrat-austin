@@ -260,7 +260,7 @@ dayone:
         slug: manfred-bortenschlager
       - name: Victor Delgado
         company: 3Scale
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-delgado.jpg
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-delgado.png
         slug: victor-delgado
       - name: Max Katz
         company: Appery.io
@@ -1211,7 +1211,7 @@ allspeakers:
     slug: david-zack
   - name: Victor Delgado
     company: 3Scale
-    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-delgado.jpg
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-delgado.png
     slug: victor-delgado
   - name: Max Katz
     company: Appery.io
