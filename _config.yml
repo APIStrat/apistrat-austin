@@ -250,14 +250,22 @@ dayone:
         slug: tony-tam
   - time: 3:30 pm - 5:00 pm
     title: Crash Course – Practical API Management Workshop
-    abstract: Learn how to get the most out of your API in 2 hours with 3scale. We’ll take you through the necessary steps to set up the infrastructure to secure and monitor traffic to your API with an API Gateway implemented using 3scale and Nginx. We’ll share some best practices, tricks and tools you can use to help you test, debug and monitor your API.
+    abstract: Learn hands-on how to open, secure and manage an API. We’ll zip you through steps to deploy a live API and then secure and monitor traffic with an API Gateway implemented using 3scale and Nginx. We’ll share some best practices, tricks and tools you can use to help you debug and monitor your API. With the live API we will then build, test and run a mobile app using Appery. Pre-requisites: 1) Access to laptop with MacOSX or Ubuntu (VM is fine), 2) Heroku account.
     registration: http://austin2015.apistrat.com/workshops/crash-course-practical-api-management-workshop.html
     location: Breakout Two
     speakers:
-      - name: Mark Cheshire
+      - name: Manfred Bortenschlager
         company: 3Scale
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-cheshire.jpeg
-        slug: mark-cheshire
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/manfred-bortenschlager.jpg
+        slug: manfred-bortenschlager
+      - name: Victor Delgado
+        company: 3Scale
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-delgado.jpg
+        slug: victor-delgado
+      - name: Max Katz
+        company: Appery.io
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/max-katz.jpg
+        slug: max-katz
   - time: 5:30 pm - 7:00 pm
     title: Birds of a Feather
     location: Sheraton
@@ -805,10 +813,10 @@ daythree:
     title: API Clinic - Bring Your API Questions!
     location: Breakout Three
     speakers:
-      - name: Manfred Bortenschlager (Business Models)
-        company: 3Scale <br /> (Business Models)
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/manfred-bortenschlager.jpg
-        slug: manfred-bortenschlager
+      - name: Mark Cheshire
+        company: 3Scale
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-cheshire.jpeg
+        slug: mark-cheshire
       - name: Tyler Singletary
         company: Klout <br /> (Business Models)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tyler-singletary.jpg
