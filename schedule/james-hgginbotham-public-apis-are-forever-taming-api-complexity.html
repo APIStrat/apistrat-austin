@@ -14,7 +14,7 @@ slug: james-higginbotham
     {% for speaker in entry.speakers %}
       {% if speaker.slug == page.slug %}
         <h2>{{ speaker.title }}</h2>
-        <img alt="{{ speaker.name }} {{ speaker.company }}" height="54" src="{{ speaker.image }}" width="60" align="left">
+        <img alt="{{ speaker.name }} {{ speaker.company }}" src="{{ speaker.image }}" width="120" align="left" style="padding: 15px;">
         <p><strong>{{ speaker.name }}</strong> (<a href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a>) of <a href="{{ speaker.url }}"><strong>{{ speaker.company }}</strong></a></p>
         <p>{{ speaker.abstract }}</p>
         {% endif %}
@@ -24,7 +24,7 @@ slug: james-higginbotham
     {% for speaker in entry.speakers %}
       {% if speaker.slug == page.slug %}
         <h2>{{ speaker.title }}</h2>
-        <img alt="{{ speaker.name }} {{ speaker.company }}" height="54" src="{{ speaker.image }}" width="60" align="left">
+        <img alt="{{ speaker.name }} {{ speaker.company }}" src="{{ speaker.image }}" width="120" align="left" style="padding: 15px;">
         <p><strong>{{ speaker.name }}</strong> (<a href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a>) of <a href="{{ speaker.url }}"><strong>{{ speaker.company }}</strong></a></p>
         <p>{{ speaker.abstract }}</p>
       {% endif %}
