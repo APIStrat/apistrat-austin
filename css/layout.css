@@ -1891,10 +1891,7 @@ MEDIA CUSTOMIZATION
 }
 
 #banner {
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: #DDEEEE;
+    background-color: #FF0000;
     width: 100%;
   }
 #banner-content {
