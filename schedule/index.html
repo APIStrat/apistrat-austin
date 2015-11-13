@@ -68,12 +68,12 @@ title: APIStrat Austin 2015 - Schedule
 
                   <div class="session-inner">
 
-                      <a class="title" {% if entry.detail != '' %}href="{{ entry.detail }}"{% else %}href="#" onclick="return false;"{% endif %}><span>{{ entry.title }}</span></a>
+                      <a class="title" {% if entry.detail != 'none' %}href="{{ entry.detail }}"{% else %}href="#" onclick="return false;"{% endif %}><span>{{ entry.title }}</span></a>
                       <span class="location">{{ entry.location }}</span>
 
                       <span class="speakers-thumbs">
                       {% for speaker in entry.speakers %}
-                          <a class="speaker" {% if speaker.detail != '' %}href="{{ speaker.detail }}"{% else %}href="#" onclick="return false;"{% endif %}>
+                          <a class="speaker" {% if speaker.detail != 'none' %}href="{{ speaker.detail }}"{% else %}href="#" onclick="return false;"{% endif %}>
                             <img alt="{{ speaker.name }} {{ speaker.company }}" height="54" src="{{ speaker.image }}" width="60">
                             <span class="name">
                               {{ speaker.name }}<br />{{ speaker.company }}
@@ -101,12 +101,12 @@ title: APIStrat Austin 2015 - Schedule
 
                   <div class="session-inner">
 
-                      <a class="title" {% if entry.detail != '' %}href="{{ entry.detail }}"{% else %}href="#" onclick="return false;"{% endif %}><span>{{ entry.title }}</span></a>
+                      <a class="title" {% if entry.detail != 'none' %}href="{{ entry.detail }}"{% else %}href="#" onclick="return false;"{% endif %}><span>{{ entry.title }}</span></a>
                       <span class="location">{{ entry.location }}</span>
 
                       <span class="speakers-thumbs">
                       {% for speaker in entry.speakers %}
-                          <a class="speaker" {% if speaker.detail != '' %}href="{{ speaker.detail }}"{% else %}href="#" onclick="return false;"{% endif %}>
+                          <a class="speaker" {% if speaker.detail != 'none' %}href="{{ speaker.detail }}"{% else %}href="#" onclick="return false;"{% endif %}>
                             <img alt="{{ speaker.name }} {{ speaker.company }}" height="54" src="{{ speaker.image }}" width="60">
                             <span class="name">
                               {{ speaker.name }}<br />{{ speaker.company }}

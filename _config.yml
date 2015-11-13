@@ -358,14 +358,23 @@ daytwo:
         company: Rackspace
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/everett-toews.jpg
         slug: everett-toews
+        detail: none
+        title:
+        abstract:
       - name: Darrel Miller
         company: Microsoft
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpg
         slug: darrel-miller
+        detail: none
+        title:
+        abstract:
       - name: Jennifer Rondeau
         company: Capital One
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jennifer-rondeau.jpg
         slug: jennifer-rondeau
+        detail: none
+        title:
+        abstract:
   - time: 11:00 am - 12:30 pm
     title: Internet of Things, Gateways, and Next Generation of APIs
     location: Breakout Two
@@ -374,22 +383,37 @@ daytwo:
         company: Built.io <br />(Session Chair)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kurt-collins.jpg
         slug: kurt-collins
+        detail: none
+        title:
+        abstract:
       - name: Mandy Whaley
         company: Cisco
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mandy-whaley.jpg
         slug: mandy-whaley
+        detail: none
+        title:
+        abstract:
       - name: Vivek Gupta
         company: AnyPresence
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/vivek-gupta.jpeg
         slug: vivek-gupta
+        detail: none
+        title:
+        abstract:
       - name: Reza Naghibi
         company: Varnish Software
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/reza-naghibi.jpg
         slug: reza-naghibi
+        detail: none
+        title:
+        abstract:
       - name: Jeanine Swatton
         company: YODLEE Interactive
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jeanine-swatton.png
         slug: jeanine-swatton
+        detail: none
+        title:
+        abstract:
   - time: 11:00 am - 12:30 pm
     title: Marketing In The API Space
     location: Breakout Three
@@ -398,22 +422,37 @@ daytwo:
         company: Crowd Supply, Inc. <br />(Session Chair)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jennifer-lankford.jpg
         slug: jennifer-lankford
+        detail: none
+        title:
+        abstract:
       - name: Thursday Bram
         company: Urgency Inc.
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
         slug: thursday-bram
+        detail: none
+        title:
+        abstract:
       - name: Matt Gordon
         company: Expected Behavior
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/matt-gordon-expected-behavior.jpg
         slug: matt-gordon
+        detail: none
+        title:
+        abstract:
       - name: Adam Duvander
         company: Orchestrate.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/adam-duvander.jpg
         slug: adam-duvander
+        detail: none
+        title:
+        abstract:
       - name: Kristen Womack
         company: LeadPages
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kristen-womack.jpg
         slug: kristen-womack
+        detail: none
+        title:
+        abstract:
   - time: 12:30 pm - 1:30 pm
     title: Lunch
     location: Break Area
@@ -426,26 +465,44 @@ daytwo:
         company: Apiary.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/emmanuel-araskakis.jpg
         slug: emmanuel-paraskakis
+        detail: none
+        title:
+        abstract:
       - name: Jakub Nesetril
         company: Apiary.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jakub-nesetril.jpg
         slug: jakub-nesetril
+        detail: none
+        title:
+        abstract:
       - name: Anya Stettler
         company: Avalara
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/anya-stettler.jpg
         slug: anya-stettler
+        detail: none
+        title:
+        abstract:
       - name: Neil Mansilla
         company: Runscope
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/neil-mansilla.png
         slug: neil-mansilla
+        detail: none
+        title:
+        abstract:
       - name: Mike Stowe
         company: Mulesoft
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-stowe.jpg
         slug: mike-stowe
+        detail: none
+        title:
+        abstract:
       - name: Gareth Jones
         company: Microsoft
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gareth-jones.jpg
         slug: gareth-jones
+        detail: none
+        title:
+        abstract:
   - time: 1:30 pm - 3:00 pm
     title: API Testing And Monitoring
     location: Breakout Two
@@ -454,14 +511,23 @@ daytwo:
         company: Texas Tech University
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/alan-sill.jpg
         slug: alan-sill
+        detail: none
+        title:
+        abstract:
       - name: Bonnie Mattson
         company: Context.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bonnie-mattson.png
         slug: bonnie-mattson
+        detail: none
+        title:
+        abstract:
       - name: David O'Neill
         company: APImetrics
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dave-oneill.jpg
         slug: david-oneill
+        detail: none
+        title:
+        abstract:
   - time: 1:30 pm - 3:00 pm
     title: Internal Innovation With APIs
     location: Breakout Three
@@ -470,18 +536,30 @@ daytwo:
         company: Capital One
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorinda-brandon.jpg
         slug: lorinda-brandon
+        detail: none
+        title:
+        abstract:
       - name: Loren Paulsen
         company: Maps CU
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/loren-paulsen.jpg
         slug: loren-paulsen
+        detail: none
+        title:
+        abstract:
       - name: Bryce Barrand
         company: Marriott
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bryce-barrand.jpg
         slug: bryce-barrand
+        detail: none
+        title:
+        abstract:
       - name: Laura (Olson) Heritage
         company: Akana
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/laura-heritage.jpg
         slug: laura-heritage
+        detail: none
+        title:
+        abstract:
   - time: 3:00 pm - 3:05 pm
     title: Switchover Time
     location: Break Area
@@ -494,18 +572,30 @@ daytwo:
         company: API Academy @ CA Inc. <br /> (Session Chair)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-amundsen.jpg
         slug: mike-amundsen
+        detail: none
+        title:
+        abstract:
       - name: Shelby Switzer
         company: Notion
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shelby-switzer.jpeg
         slug: shelby-switzer
+        detail: none
+        title:
+        abstract:
       - name: Luke Stokes
         company: FoxyCart
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/luke-stokes.jpg
         slug: luke-stokes
+        detail: none
+        title:
+        abstract:
       - name: Mike Stowe
         company: Mulesoft
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-stowe.jpg
         slug: mike-stowe
+        detail: none
+        title:
+        abstract:
   - time: 3:05 pm - 4:35 pm
     title: API Giants
     location: Breakout Two
@@ -514,22 +604,37 @@ daytwo:
         company: Traxo <br /> (Session Chair)
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/chris-stevens.jpg
         slug: chris-stevens
+        detail: none
+        title:
+        abstract:
       - name: Ryan Choi
         company: Twitter
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/ryan-choi.png
         slug: ryan-choi
+        detail: none
+        title:
+        abstract:
       - name: Tony Blank
         company: SendGrid
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tony-blank.png
         slug: tony-blank
+        detail: none
+        title:
+        abstract:
       - name: John Burry
         company: Amazon
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/john-burry.png
         slug: john-burry
+        detail: none
+        title:
+        abstract:
       - name: David Zack
         company: Oxford University Press
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/david-zack.jpg
         slug: david-zack
+        detail: none
+        title:
+        abstract:
   - time: 3:05 pm - 4:35 pm
     title: The Developer Experience
     location: Breakout Three
@@ -538,22 +643,37 @@ daytwo:
         company: Akamai
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kirsten-hunter.jpg
         slug: kirsten-hunter
+        detail: none
+        title:
+        abstract:
       - name: Taylor Barnett
         company: Keen.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/taylor-barnett.jpg
         slug: taylor-barnet
+        detail: none
+        title:
+        abstract:
       - name: Kelly Hitchcock
         company: Writer
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kelly-hitchcock.jpg
         slug: kelly-hitchcock
+        detail: none
+        title:
+        abstract:
       - name: Gregory Koberger
         company: Readme.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gregory-koburger.jpg
         slug: gregory-koberger
+        detail: none
+        title:
+        abstract:
       - name: Carlo Longino
         company: WIP
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/carlo-longino.jpg
         slug: carlo-longino
+        detail: none
+        title:
+        abstract:
   - time: 4:35 pm - 5:00 pm
     title: Coffee Break
     location: Break Area
