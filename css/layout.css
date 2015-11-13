@@ -663,7 +663,7 @@ h2 + .btn-header {
     color: #fff;
     background: transparent;
     border-radius: 0;
-    height: 752px;
+    height: 500px;
     font-size: 30px;
 }
 .landing h1 {
@@ -674,7 +674,7 @@ h2 + .btn-header {
     text-transform: uppercase;
     padding: 89px 0 0 15px;
     margin: 0 0 20px 15px;
-    height: 150px;
+    height: 245px;
 }
 .landing h1 > span {
     display: block;
