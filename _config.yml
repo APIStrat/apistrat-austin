@@ -452,25 +452,34 @@ daytwo:
         abstract:
       - name: Thursday Bram
         company: Urgency Inc.
+        url: http://www.thursdaybram.com/
+        twitter: thursdayb
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/thursday-bram.jpeg
         slug: thursday-bram
-        detail: none
-        title:
-        abstract:
+        detail: thursday-bram-is-your-api-part-of-your-marketing-plan.html
+        title: Is Your API Part of Your Marketing Plan? Is Marketing Part of Your API Plan?
+        abstract: APIs occupy an interesting place in the technical marketing world even when your company makes an API available to outside developers just as a marketing strategy, you have to market that API. If offering an API is part of your business model, marketing your API is even more critical. This talk will cover different marketing approaches for APIs and how they have played out in the real world (including developer evangelism, hackathons, and documentation-based strategies). We'll also go over how APIs can be useful in marketing your company as a whole. Thursday Bram is an expert in technical content marketing and the cofounder of Urgency Inc. She has spoken at Open Source Bridge, co-organized PyLadies PDX, and written about technical topics for publications ranging from Smashing Magazine to CNET.
+        bio: Thursday Bram is the co-founder of Urgency, Inc, a technical content marketing consultancy. She's an organizer of PyDXConf and PyLadies PDX. Her work has appeared on CNET, GigaOM, and dozens of other websites.
       - name: Matt Gordon
         company: Expected Behavior
+        url: http://www.expectedbehavior.com/
+        twitter: esquivalient
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/matt-gordon-expected-behavior.jpg
         slug: matt-gordon
-        detail: none
-        title:
-        abstract:
+        detail: matt-gordon-practical-measurement-of-api-success.html
+        title: Practical Measurement of API Success
+        abstract: You watched all the best practice videos, read all the blog posts, and looked at every paper before designing your API. You wanted it to be simple, intuitive, consistent, and loved by developers. Now it’s out in the world. Did you accomplish your goal or silently fail? What’s great about your API? Where did you miss the mark?    Let’s talk about specific, practical ways that cutting edge monitoring technology let's us measure API quality, interpret the results, and improve remarkably fast.
+        bio: Matt Gordon is CEO of Expected Behavior. He uses the word "experiment" a lot, enjoys exercise more than is reasonable, and takes any opportunity to be outside.
       - name: Adam Duvander
         company: Orchestrate.io
+        url: https://orchestrate.io/
+        twitter: adamd
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/adam-duvander.jpg
         slug: adam-duvander
-        detail: none
-        title:
-        abstract:
+        detail: adam-duvander-content-marketing-for-apis.html
+        title: Content Marketing for APIs
+        abstract: We all know APIs need great documentation, but that’s only one piece of a complete content strategy to support your API. You need sample applications, tutorials, blog posts, and other types of content published on a regular basis. And you likely need it from a developer’s perspective, so you can help them learn, trust your company, and hopefully use your API.<br /><br />In this talk you’ll see.<br /><br /><ul><li>How to build a successful blogging engine, including what topics to cover and who will write them.</li><li>How to decide if whitepapers and eBooks make sense for your audience (it depends whether they’re technical).</li><li>How to approach tutorials and sample apps so you’re teaching developers, not marketing to them.</li><li>How to staff your content team, including options for tiny, small, medium, and large companies.</li></up>If content marketing, especially for technical topics, isn’t a natural competency, it’s easy to focus on other things. Unfortunately, that leaves your API lacking some foundational support. There are simple steps to get started now that will pay dividends in the future. API veteran Adam DuVander shares stories of success from stints at developer-focused companies, as well as while Editor of ProgrammableWeb.
+        bio: A developer communicator and accidental marketer. I write and speak about technology, especially APIs, infrastructure, mapping and location. I have an interest in how technology solves problems, impacts business and connects people. I bring developers together, help them find new technologies, share their creativity and help others join their ranks. Previously I wrote for some of the web's most respected publications, including Wired and Webmonkey. I spent three years as the editor of ProgrammableWeb, the journal of the API economy.
       - name: Kristen Womack
         company: LeadPages
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kristen-womack.jpg
