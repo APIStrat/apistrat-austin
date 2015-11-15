@@ -401,32 +401,44 @@ daytwo:
         abstract:
       - name: Mandy Whaley
         company: Cisco
+        url: http://www.cisco.com/
+        twitter: mandywhaley
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mandy-whaley.jpg
         slug: mandy-whaley
-        detail: none
-        title:
-        abstract:
+        detail: mandy-whaley-when-its-not-all-in-the-cloud.html
+        title: When it's not all in the cloud - Building a developer community for APIs + hardware
+        abstract: IoT, wearables, network programmability — Many of the newest developer opportunities require hardware and infrastructure. Building a developer community around APIs that are tied to hardware presents some unique challenges. How do you create a fast “time to first hello world” when you need hardware? How do devices and infrastructure affect your events and hackathons? Let’s talk about the challenges and lessons learned in applying DevX best practices to hardware related APIs and how to encourage an API focused product approach for both software and hardware products.
+        bio: Amanda Whaley is the Developer Experience Lead for Cisco DevNet. She spends most of her time thinking about how developers use Cisco APIs, and about how to make their job easier. She also leads a team of developer evangelists who work with Cisco partners and developers in many technology areas including IoT, Collaboration, and Software Defined Networking. Amanda has a background in application development and engineering, and she is interested in all things that help developers build cool stuff - tools, APIs, docs, frameworks.
       - name: Vivek Gupta
         company: AnyPresence
+        url: http://www.anypresence.com/
+        twitter: none
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/vivek-gupta.jpeg
         slug: vivek-gupta
-        detail: none
-        title:
-        abstract:
+        detail: vivek-gupta-rapid-api-development-with-micro-gateways.html
+        title: Rapid API Development with Micro Gateways - A Case Study
+        abstract: One thing is for sure rapid API building and deployment is a core competency that all modern developers can benefit from. But currently, there are limited options for developers looking to build APIs quickly they can do it themselves, use an MBaaS solution or an API management platform. But all of these options can take a lot of time to understand and can be challenging for developers to scale and manage APIs quickly. To support the Citi Mobile Challenge, Citibank launched a set of virtual APIs to support the event. These APIs gave developers an opportunity to create solutions that could function with existing Citi technology. Citi needed to mimic their production environment, but in a way that developers could still build meaningful mobile apps, without the immediate security and privacy concerns that are present when working with live systems. AnyPresence CTO, Rakesh Rao can speak to this case study. He can explain how Citi was used to quickly create APIs that mimic production APIs and augment them with sample data and responses using API Gateway tool, JustAPIs. Unlike other gateway tools, sandbox environments are a default function of JustAPIs. The JustAPIs server is deployed on IBM SoftLayer cloud infrastructure, and runs behind IBM’s API Management gateway for scaling and throttling as needed.
+        bio: Vivek Gupta is the VP of Product Management at AnyPresence, a software platform company that reduces the time and cost of building APIs and enterprise mobile apps. Prior to AnyPresence Vivek has held several key positions at BlackBerry (RIM), Alcatel-Lucent and other startups in various roles ranging from product management to operations and R&D. Vivek holds a Master of Science in Electrical Engineering from University of Texas.
       - name: Reza Naghibi
         company: Varnish Software
+        url: https://www.varnish-software.com/
+        twitter: none
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/reza-naghibi.jpg
         slug: reza-naghibi
-        detail: none
-        title:
-        abstract:
+        detail: reza-naghibi-is-api-management-the-weak-link-for-the-internet-of-things.html
+        title: Is API Management the weak link for the Internet of Things?
+        abstract: APIs have become the glue that connects the “things” to the Internet. Companies access (or give access to) these things and the data they generate – both of which are growing at an astounding rate. Yet most of the API management tools in use today were developed up to 20 years ago—when  the numbers of API calls were often measured in hours.<br /><br />The well-known rule that a chain can never be stronger than its weakest link certainly applies to complex and layered Internet of Things (IoT) systems. Even at their most basic, they all have sensors, connectivity and applications. Whereas new technologies have found their place in the IoT universe (RFID, IPv6, big data, RESTful APIs), one critical piece – API management – has been left out, and risks turning into the weakest link.<br /><br />This oversight can pose huge risks for businesses operating in the IoT space. Today, organizations continue to live with outdated performance standards of 200 API calls per second, but most IoT businesses and use cases require much higher throughput—especially in scenarios where API call performance is mission critical.<br /><br />As IoT devices and services continue to grow in usage, so will the number of API calls to the devices. Exceeding the API call limit will slow down services and result in a bad user experience. To prevent users from turning to faster alternatives, performance should be planned from the outset.<br /><br />This presentation will offer tips and advice for future-proofing your IoT investment with high-performance API management—beyond the simple (and expensive) solution of adding more hardware. Explore five core infrastructure upgrades to prepare your business for the Internet of Things–and learn how better performance can bring your IoT implementations a competitive advantage!
+        bio: Reza Naghibi has over 10 years experience building large scale enterprise systems. Reza is particularly focused on maximizing system performance, efficiency, response time, and uptime. Reza is currently a senior software engineer at Varnish Software.
       - name: Jeanine Swatton
         company: YODLEE Interactive
+        url: http://interactive.yodlee.com/
+        twitter: jswatton
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jeanine-swatton.png
         slug: jeanine-swatton
         detail: none
         title:
         abstract:
+        bio: Jeanine Swatton is the Director of Developer Evangelism at Yodlee Interactive. Jeanine holds a Master's Degree in Computer Science from Boston University and a Graduate Certificate in Cybersecurity. Jeanine has more than 15 years of engineering experience in the government and surveillance space as well as startup sectors. For the last 5 years, her main focus has been on mobile app development which includes helping companies define a mobile strategy as well as developing native iOS apps. Jeanine taught iOS Development and Ruby on Rails at a few Universities. She is also an technical mentor/advisor for TechStars Barclay's Accelerator as well as at Technovation. Jeanine speaks at several events/conferences on Fintech, entrepreneurship and app development.
   - time: 11:00 am - 12:30 pm
     title: Marketing In The API Space
     location: Breakout Three
