@@ -1,0 +1,13 @@
+---
+layout: none
+---
+[
+  {% for sponsors in site.goldsponsors limit:500 %}
+    {
+    "type": "gold",
+    "name": "{{ speakers.name }}",
+    "link": "{{ speakers.link }}",
+    "logo": "{{ speakers.logo }}"
+    }{% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
+]
