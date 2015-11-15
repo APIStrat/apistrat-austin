@@ -554,27 +554,36 @@ daytwo:
     title: API Testing And Monitoring
     location: Breakout Two
     speakers:
-      - name: Alan Sill, PHD
-        company: Texas Tech University
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/alan-sill.jpg
-        slug: alan-sill
-        detail: none
-        title:
-        abstract:
       - name: Bonnie Mattson
         company: Context.io
+        url: https://context.io/
+        twitter: BonMatts
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bonnie-mattson.png
         slug: bonnie-mattson
-        detail: none
-        title:
-        abstract:
+        detail: bonnie-mattson-break-your-api.html
+        title: Break your API
+        abstract: While a few tools exist to test API endpoints, many rely on the traditional paradigm of a QA engineer laboriously setting up test cases according to a test plan, and do not allow for the setting of complex state. One solution I have used it to adapt unit testing framework to build the meanest, angriest, most-likely-to-break-your-api client you can imagine. In this talk, I will discuss the merits of a programatic approach to api integration teasing, as well as compare several testing frameworks I have personally used, including RestEasy (Junit, Java), Frisby.js (Jasmine, Javascript), and Rspec(Ruby).
+        bio: After programming as a hobby and academically for nearly a decade, Bonnie decided to switch her career focus from computational chemistry to software engineering in 2013. She now spends most of her time building microservices at Context.io or training as an aerialist at Sky Candy Austin. Bonnie is deeply passionate about API design theory, diversity, mentoring new developers, combating biases, building maintainable codebases, and preventing groupthink.
       - name: David O'Neill
         company: APImetrics
+        url: http://apimetrics.io/
+        twitter: daveon
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dave-oneill.jpg
         slug: david-oneill
         detail: none
         title:
         abstract:
+        bio:
+      - name: Paul Bruce
+        company: SmartBear Software
+        url: http://smartbear.com/
+        twitter: paulsbruce
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/dave-oneill.jpg
+        slug: paul-bruce
+        detail: paul-bruce-test-and-other-4-letter-words-in-devops.html
+        title: Test and other 4 letter words in DevOps
+        abstract: If you already have awesome developers and production monitoring, why have a testing phase at all?Not coincidentally, “test” and many other four letter words have been uttered by DevOps teams who chuck quality out with lengthy time-to-market. This trade-off leads to poor developer, customer, and partner experiences, and ultimately damages trust in your brand. In an agile SDLC, the testing phase must be both sleek and comprehensive; the good news is that testing can be both. This session will discuss ways you can re-introduce appropriate amounts of testing back in to your sprints. We’ll see how other organizations have thinned down their continuous integration and testing processes to speed up while at the same time increasing coverage and overall quality. We’ll also discuss how testing fits in to other processes (like issue reporting and real-time reporting) that support the delivery of fantastic software that doesn’t fall over at go time.
+        bio: Dedicated to excellence and professionalism in technology, presentation, and strategic operations. Likes to deliver solutions on time and on budget. Always seeking to improve, develop, and refine personal skills and business resources. Lots of technical experience, now expanding into support for sales and marketing processes. Content generation, speaker at technical events, writing for blogs, and product ownership advising.
   - time: 1:30 pm - 3:00 pm
     title: Internal Innovation With APIs
     location: Breakout Three
