@@ -9,6 +9,7 @@ slug: everett-toews
     </div>
 </div>
 
+
 <div class="container">
   {% for entry in site.daytwo %}
     {% for speaker in entry.speakers %}
@@ -17,10 +18,10 @@ slug: everett-toews
         <img alt="{{ speaker.name }} {{ speaker.company }}" src="{{ speaker.image }}" width="120" align="left" style="padding: 15px;">
         <p><strong>{{ speaker.name }}</strong> (<a href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a>) of <a href="{{ speaker.url }}"><strong>{{ speaker.company }}</strong></a></p>
         <p>{{ speaker.abstract }}</p>
-        {% if speaker.bio != '' %}
+        {% if speaker.bio != 'none' %}
         <p><strong>About{{ speaker.name }}</strong><br />{{ speaker.bio }}
         {% endif %}
-        {% endif %}
+      {% endif %}
     {% endfor %}
   {% endfor %}
   {% for entry in site.daythree %}
@@ -30,6 +31,9 @@ slug: everett-toews
         <img alt="{{ speaker.name }} {{ speaker.company }}" src="{{ speaker.image }}" width="120" align="left" style="padding: 15px;">
         <p><strong>{{ speaker.name }}</strong> (<a href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a>) of <a href="{{ speaker.url }}"><strong>{{ speaker.company }}</strong></a></p>
         <p>{{ speaker.abstract }}</p>
+        {% if speaker.bio != 'none' %}
+        <p><strong>About{{ speaker.name }}</strong><br />{{ speaker.bio }}
+        {% endif %}
       {% endif %}
     {% endfor %}
   {% endfor %}
