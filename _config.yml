@@ -482,11 +482,14 @@ daytwo:
         bio: A developer communicator and accidental marketer. I write and speak about technology, especially APIs, infrastructure, mapping and location. I have an interest in how technology solves problems, impacts business and connects people. I bring developers together, help them find new technologies, share their creativity and help others join their ranks. Previously I wrote for some of the web's most respected publications, including Wired and Webmonkey. I spent three years as the editor of ProgrammableWeb, the journal of the API economy.
       - name: Kristen Womack
         company: LeadPages
+        url: http://www.leadpages.net/
+        twitter: kristen_womack
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/kristen-womack.jpg
         slug: kristen-womack
-        detail: none
-        title:
-        abstract:
+        detail: kristen-womack-personas-for-apis-a-product-approach.html
+        title: Personas for APIs - A Product Approach
+        abstract: Personas are a powerful tool for understanding your customer, and often used in marketing, sales or product development. They are equally important for building an external API or breathing new life into a stale API program.<br /><br />In this talk, I’ll demonstrate how powerful personas can be for your API program and show you how to create one, as well as give you tools to measure if you're on the right track.<br /><br />This talk is for you if you want help navigating your organizational challenges with new communication tools. Depending on what environmental context you are in, your API program may live in Engineering, Marketing, or Business Development. It's confusing because it's actually a product that serves all three. Most organizations don't understand that. Using personas can help you guide your organization to understand the value of an API, with proper funding, a dedicated team and real results. Your API program isn’t just a spec, there are real users to think about.
+        bio: Kristen Womack is Director of Product at LeadPages. Previously, she was the head of the Developer Program and open APIs at Best Buy. Kristen is a leader in the Minneapolis tech, startup and advertising communities, co-leading the Twin Cities Geekettes, co-founder of HackTheGap.MN, and sponsorship chair on the board of Mpls MadWomen. She is a lethal combination of people leader, product nerd and technical “get it” factor.
   - time: 12:30 pm - 1:30 pm
     title: Lunch
     location: Break Area
