@@ -41,7 +41,7 @@
       "get": {
         "summary": "pulls schedule for day one",
         "description": "pulls schedule for day one",
-        "operationId": "getScheduleDayOne",
+        "operationId": "getScheduleDayTwo",
         "parameters": [],
         "responses": {
           "200": {
@@ -63,7 +63,7 @@
       "get": {
         "summary": "pulls schedule for day one",
         "description": "pulls schedule for day one",
-        "operationId": "getScheduleDayOne",
+        "operationId": "getScheduleDayThree",
         "parameters": [],
         "responses": {
           "200": {
@@ -241,7 +241,86 @@
     "schedule": {
       "properties": {
         "name": {
-          "description": "name of entry",
+          "description": "name of session",
+          "type": "string"
+        },
+        "location": {
+          "description": "location of session",
+          "type": "string"
+        },
+        "start_time": {
+          "description": "start time for session",
+          "type": "string"
+        },
+        "end_time": {
+          "description": "end time for session",
+          "type": "string"
+        },
+        "speakers": {
+          "description": "speakers for session",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/sponsors"
+          }
+        }
+      }
+    },
+    "speakers": {
+      "properties": {
+        "name": {
+          "description": "name for speaker",
+          "type": "string"
+        },
+        "company": {
+          "description": "company for speaker",
+          "type": "string"
+        },
+        "url": {
+          "description": "url for speaker",
+          "type": "string"
+        },
+        "twitter": {
+          "description": "twitter for speaker",
+          "type": "string"
+        },
+        "image": {
+          "description": "image for speaker",
+          "type": "string"
+        },
+        "slug": {
+          "description": "slug for speaker",
+          "type": "string"
+        },
+        "detail": {
+          "description": "detail page for speaker",
+          "type": "string"
+        },
+        "title": {
+          "description": "title of talk for speaker",
+          "type": "string"
+        },
+        "abstract": {
+          "description": "abstract for speaker",
+          "type": "string"
+        },
+        "bio": {
+          "description": "bio for speaker",
+          "type": "string"
+        }
+      }
+    },
+    "sponsors": {
+      "properties": {
+        "name": {
+          "description": "name of sponsor",
+          "type": "string"
+        },
+        "link": {
+          "description": "link of sponsor",
+          "type": "string"
+        },
+        "logo": {
+          "description": "name of sponsor",
           "type": "string"
         }
       }

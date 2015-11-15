@@ -10,7 +10,7 @@
   "created": "2015-11-15",
   "modified": "2015-11-15",
   "url": "http://austin2015.apistrat.com/api/",
-  "SpecificationVersion": "0.14",
+  "specificationVersion": "0.14",
   "apis": [
     {
       "name": "APIStrat API",
