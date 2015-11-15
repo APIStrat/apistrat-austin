@@ -1,0 +1,250 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "APIStrat Austin",
+    "description": "This is the API for the API Strategy & Practice conference in Austin, TX, providing programmatic access to the schedule, speakers, and sponsors",
+    "termsOfService": "http://austin2015.apistrat.com//terms-of-service/",
+    "version": "v1"
+  },
+  "host": "api.austin2015.apistrat.com",
+  "basePath": "/",
+  "schemes": [
+    "http"
+  ],
+  "produces": [
+    "application/json"
+  ],
+  "paths": {
+    "/schedule/day/one/": {
+      "get": {
+        "summary": "pulls schedule for day one",
+        "description": "pulls schedule for day one",
+        "operationId": "getScheduleDayOne",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "schedule response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/schedule"
+              }
+            }
+          }
+        },
+        "tags": [
+          "APIStrat"
+        ]
+      }
+    },
+    "/schedule/day/two/": {
+      "get": {
+        "summary": "pulls schedule for day one",
+        "description": "pulls schedule for day one",
+        "operationId": "getScheduleDayOne",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "schedule response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/schedule"
+              }
+            }
+          }
+        },
+        "tags": [
+          "APIStrat"
+        ]
+      }
+    },
+    "/schedule/day/three/": {
+      "get": {
+        "summary": "pulls schedule for day one",
+        "description": "pulls schedule for day one",
+        "operationId": "getScheduleDayOne",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "schedule response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/schedule"
+              }
+            }
+          }
+        },
+        "tags": [
+          "APIStrat"
+        ]
+      }
+    },
+    "/schedule/now/": {
+      "get": {
+        "summary": "pulls what is happending now on schedule",
+        "description": "pulls what is happending now on schedule",
+        "operationId": "getScheduleNow",
+        "parameters": [
+          {
+            "name": "day",
+            "in": "query",
+            "description": "a day number to override 18,19, or 20",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "name": "time",
+            "in": "query",
+            "description": "a time to overrirde now mm/dd/yyyy AM/PM",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "schedule response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/schedule"
+              }
+            }
+          }
+        },
+        "tags": [
+          "APIStrat"
+        ]
+      }
+    },
+    "/schedule/search/": {
+      "get": {
+        "summary": "searches the schedule",
+        "description": "searches the schedule",
+        "operationId": "searchSchedule",
+        "parameters": [
+          {
+            "name": "query",
+            "in": "query",
+            "description": "a text query to search across schedule",
+            "required": false,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "schedule response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/schedule"
+              }
+            }
+          }
+        },
+        "tags": [
+          "APIStrat"
+        ]
+      }
+    },
+    "/speakers/": {
+      "get": {
+        "summary": "pulls all speakers",
+        "description": "pulls all speakers",
+        "operationId": "getSpeakers",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "speakers response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/speakers"
+              }
+            }
+          }
+        },
+        "tags": [
+          "APIStrat"
+        ]
+      }
+    },
+    "/sponsors/gold/": {
+      "get": {
+        "summary": "pulls gold sponsors",
+        "description": "pulls gold sponsors",
+        "operationId": "getGoldSponsors",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "sponsors response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/sponsors"
+              }
+            }
+          }
+        },
+        "tags": [
+          "APIStrat"
+        ]
+      }
+    },
+    "/sponsors/silver/": {
+      "get": {
+        "summary": "pulls silver sponsors",
+        "description": "pulls silver sponsors",
+        "operationId": "getSilverSponsors",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "sponsors response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/sponsors"
+              }
+            }
+          }
+        },
+        "tags": [
+          "APIStrat"
+        ]
+      }
+    },
+    "/sponsors/bronze/": {
+      "get": {
+        "summary": "pulls bronze sponsors",
+        "description": "pulls bronze sponsors",
+        "operationId": "getBronzeSponsors",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "sponsors response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/sponsors"
+              }
+            }
+          }
+        },
+        "tags": [
+          "APIStrat"
+        ]
+      }
+    }
+  },
+  "definitions": {
+    "schedule": {
+      "properties": {
+        "name": {
+          "description": "name of entry",
+          "type": "string"
+        }
+      }
+    }
+  }
+}
