@@ -274,7 +274,7 @@ dayone:
     title: Speakers Dinner
     location: [coming soon]
     speakers:
-  - time: 9:30 pm - Late
+  - time: 9:30 pm - 12:00 am
     title: Meetup Bar
     location: [coming soon]
     speakers:
@@ -788,7 +788,7 @@ daytwo:
     title: Drinks Reception
     location: Break Area
     speakers:
-  - time: 9:30 pm to late
+  - time: 9:30 pm - 12:00 am
     title: Meetup Bar
     location: (To Be Announced)
     speakers:
