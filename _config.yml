@@ -468,8 +468,8 @@ daytwo:
         slug: matt-gordon
         detail: matt-gordon-practical-measurement-of-api-success.html
         title: Practical Measurement of API Success
-        abstract: You watched all the best practice videos, read all the blog posts, and looked at every paper before designing your API. You wanted it to be simple, intuitive, consistent, and loved by developers. Now it’s out in the world. Did you accomplish your goal or silently fail? What’s great about your API? Where did you miss the mark?    Let’s talk about specific, practical ways that cutting edge monitoring technology let's us measure API quality, interpret the results, and improve remarkably fast.
-        bio: Matt Gordon is CEO of Expected Behavior. He uses the word "experiment" a lot, enjoys exercise more than is reasonable, and takes any opportunity to be outside.
+        abstract: You watched all the best practice videos, read all the blog posts, and looked at every paper before designing your API. You wanted it to be simple, intuitive, consistent, and loved by developers. Now it’s out in the world. Did you accomplish your goal or silently fail? What’s great about your API? Where did you miss the mark? Let’s talk about specific, practical ways that cutting edge monitoring technology let's us measure API quality, interpret the results, and improve remarkably fast.
+        bio: Matt Gordon is CEO of Expected Behavior. He uses the word experiment a lot, enjoys exercise more than is reasonable, and takes any opportunity to be outside.
       - name: Adam Duvander
         company: Orchestrate.io
         url: https://orchestrate.io/
