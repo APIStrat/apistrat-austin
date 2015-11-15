@@ -360,6 +360,8 @@ daytwo:
         bio: James is an API consultant with experience in architecting, building, and deploying APIs and cloud native architectures. As an API consultant, he enjoys helping businesses balance great API design and product needs. He also creates and delivers API and cloud native architecture training with the goal of equipping cross-functional teams to integrate their talents toward building first-class APIs for their product or enterprise systems.
       - name: Everett Toews
         company: Rackspace
+        url: http://www.rackspace.com/
+        twitter: everett_toews
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/everett-toews.jpg
         slug: everett-toews
         detail: everett-toews-paving-the-path-to-better-openstack-apis.html
@@ -368,6 +370,8 @@ daytwo:
         bio: none
       - name: Darrel Miller
         company: Microsoft
+        url: http://www.microsoft.com
+        twitter: darrel_miller
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/darrel-miller.jpg
         slug: darrel-miller
         detail: none
@@ -376,6 +380,8 @@ daytwo:
         bio: none
       - name: Jennifer Rondeau
         company: Capital One
+        url: https://www.capitalone.com/
+        twitter: bradamante
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/jennifer-rondeau.jpg
         slug: jennifer-rondeau
         detail: jennifer-rondeau-api-documentation-bringing-writers-to-the-table.html
