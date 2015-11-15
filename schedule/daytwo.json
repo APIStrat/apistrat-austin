@@ -22,7 +22,7 @@ layout: none
         "bio": "{{ speakers.bio }}"
         }{% if forloop.last %}{% else %},{% endif %}
       {% endfor %}
-    ],
-  }
+    ]
+  }{% if forloop.last %}{% else %},{% endif %}
 {% endfor %}
 ]
