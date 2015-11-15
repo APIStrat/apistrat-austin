@@ -514,25 +514,34 @@ daytwo:
         abstract:
       - name: Anya Stettler
         company: Avalara
+        url: http://www.avalara.com/
+        twitter: anyarms
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/anya-stettler.jpg
         slug: anya-stettler
-        detail: none
-        title:
-        abstract:
+        detail: anya-stettler-api-description-to-developer-portal.html
+        title: API Description to Developer Portal - Tools and Techniques
+        abstract: API Descriptions can be powerful design and implementation tools. In this session, we look at approaches to using API descriptions to create excellent API documentation, what kind of challenges you might encounter (technical as well as political), and some  strategies to solve them. We'll talk about tools to translate formats, as well as how to generate the best content with the least maintenance.
+        bio: Anya Stettler works for Avalara (www.avalara.com), documenting and supporting their diverse sales tax calculation and compliance APIs. Over the past four years, she has driven a colossal documentation shift from hard-copy developer documentation to an ever-improving self-service developer site.
       - name: Neil Mansilla
         company: Runscope
+        url: http://www.runscope.com
+        twitter: mansillaDEV
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/neil-mansilla.png
         slug: neil-mansilla
-        detail: none
-        title:
-        abstract:
+        detail: neil-mansilla-the-journey-of-effective-api-evangelism.html
+        title: The Journey of Effective API Evangelism
+        abstract: Getting developers to discover and use your API is an oversimplification of the challenge. The journey of API evangelism begins before a single line of code is written, and long before the first route and method is defined. In this career, Neil Mansilla has worked with dozens of companies around the world, helping them throughout the stages of API design, development, documentation and deployment. In this talk, Neil will discuss the most important factors for effectively evangelizing your API to the diverse set of communities - internal developers, existing partner developers and to new prospective developers.
+        bio: Neil heads up developer relations at Runscope, an API monitoring, testing and debugging company. Formerly, Neil was with Mashery, an API management company, where he focused on developers tools and experience. He is the co-creator of I/O Docs, an open-source interactive API documentation engine.
       - name: Mike Stowe
         company: Mulesoft
+        url: https://www.mulesoft.com/
+        twitter: mikegstowe
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-stowe.jpg
         slug: mike-stowe
         detail: none
-        title:
-        abstract:
+        title: Going Further with API Specifications
+        abstract: With Swagger recently reaching version 2.0, and RAML 1.0 just around the corner - the idea of what an API spec is has evolved, along with their capabilities.  In this session we're going to look at what's new with Swagger 2 and RAML 1, and more importantly how they change the dynamic of designing, prototyping, documenting, sharing, generating, and even testing APIs.
+        bio: Author of Undisturbed REST, Michael Stowe has spoken at top API conferences around the country including API Days, API Strat, and API World. An active advocate for creating better APIs more efficiently, his work has also been featured on ProgrammableWeb, DZone, and InfoQ. You can view his past talks and slides at www.mikestowe.com/slides and follow him on Twitter @mikegstowe.
       - name: Gareth Jones
         company: Microsoft
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/gareth-jones.jpg
@@ -540,6 +549,7 @@ daytwo:
         detail: none
         title:
         abstract:
+        bio: Seasoned software development leader with a strong architectural bias. Passionate about the developer experience. Creator of T4 code generation. Currently working as an API Architect for the OneNote API at Microsoft.
   - time: 1:30 pm - 3:00 pm
     title: API Testing And Monitoring
     location: Breakout Two
