@@ -1317,7 +1317,7 @@ h2 + .btn-header {
     text-align: center;
     color: #e73955;
 }
-.location .explore .pageheading {
+.location .explore .heading {
     margin: 0 -4px 32px;
     padding: 19px 15px;
     color: #fff;
@@ -1326,7 +1326,7 @@ h2 + .btn-header {
     font-size: 18px; font-weight: 500;
     background: #e73955;
 }
-.location .explore .pageheading a {
+.location .explore .heading a {
     color: #fff;
     text-decoration: none;
 }
@@ -1410,7 +1410,7 @@ h2 + .btn-header {
     text-decoration: none;
     color: inherit;
 }
-.articles article .post-content .pageheading {
+.articles article .post-content .heading {
     display: block;
     font-weight: normal; font-size: 24px;
     margin: 0.5em 0;
