@@ -902,6 +902,10 @@ daythree:
     title: APIs in the Enterprise
     location: Breakout Two
     speakers:
+      - name: Shion Deysarkar
+        company: Datafiniti <br />(Session Chair)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shion-deysarkar.png
+        slug: shion-deysarkar
       - name: Steven Fonseca
         company: Intuit
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-fonseca.jpg
@@ -1418,3 +1422,7 @@ allspeakers:
     company: SlashDB
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-olex.png
     slug: victor-olex
+  - name: Shion Deysarkar
+    company: Datafiniti <br />(Session Chair)
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/shion-deysarkar.png
+    slug: shion-deysarkar
