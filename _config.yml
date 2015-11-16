@@ -775,7 +775,7 @@ daytwo:
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-marx.jpg
         slug: steve-marx
   - time: 5:50 pm - 6:20 pm
-    title: Diversity Panel (To Be Announced)
+    title: Diversity Panel
     location: Main Stage
     speakers:
     - name: Lorinda Brandon
