@@ -1414,3 +1414,7 @@ allspeakers:
     company: Form.io <br /> (Deployment)
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/travis-tidwell.jpg
     slug: travis-tidwell
+  - name: Victor Olex
+    company: SlashDB
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-olex.png
+    slug: victor-olex
