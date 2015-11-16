@@ -490,6 +490,16 @@ daytwo:
         title: Personas for APIs - A Product Approach
         abstract: Personas are a powerful tool for understanding your customer, and often used in marketing, sales or product development. They are equally important for building an external API or breathing new life into a stale API program.<br /><br />In this talk, I’ll demonstrate how powerful personas can be for your API program and show you how to create one, as well as give you tools to measure if you're on the right track.<br /><br />This talk is for you if you want help navigating your organizational challenges with new communication tools. Depending on what environmental context you are in, your API program may live in Engineering, Marketing, or Business Development. It's confusing because it's actually a product that serves all three. Most organizations don't understand that. Using personas can help you guide your organization to understand the value of an API, with proper funding, a dedicated team and real results. Your API program isn’t just a spec, there are real users to think about.
         bio: Kristen Womack is Director of Product at LeadPages. Previously, she was the head of the Developer Program and open APIs at Best Buy. Kristen is a leader in the Minneapolis tech, startup and advertising communities, co-leading the Twin Cities Geekettes, co-founder of HackTheGap.MN, and sponsorship chair on the board of Mpls MadWomen. She is a lethal combination of people leader, product nerd and technical “get it” factor.
+      - name: Andrew Noonan
+        company: Uber
+        url: https://www.uber.com/
+        twitter: noonisms
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/andrew-noonan.png
+        slug: andrew-noonan
+        detail: none
+        title: none
+        abstract: none
+        bio: Andrew Noonan is a Developer Advocate and Partner Engineer on the Uber Developer Platform. As part of the recently formed developer relations team he is helping to shape how developers will tap into Uber to build moving experiences. Prior to joining the team at Uber Andrew spent time at Asana, Twitter, and Gnip in similar capacities.
   - time: 12:30 pm - 1:30 pm
     title: Lunch
     location: Break Area
@@ -768,6 +778,22 @@ daytwo:
     title: Diversity Panel (To Be Announced)
     location: Main Stage
     speakers:
+    - name: Lorinda Brandon
+      company: Capital One
+      image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/lorinda-brandon.jpg
+      slug: lorinda-brandon
+    - name: Leah Bannon
+      company: Tech Lady Hackathons
+      image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/leah-bannon-18f.jpg
+      slug: leah-bannon
+    - name: Mark Boyd
+      company: Conference Chair
+      image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-boyd.png
+      slug: mark-boyd
+    - name: Audrey Watters
+      company: Hack Education
+      image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/audrey-watters.jpg
+      slug: audrey-watters
   - time: 6:20 pm - 6:30 pm
     title: Closing Remarks
     location: Main Stage
@@ -1436,3 +1462,17 @@ allspeakers:
     title: API Strategy - The Next Generation
     abstract: APIs. You build them, test them, ship them, and monitor them. Big whoop. You even have an “API strategy”, but do you know what your real long-term strategy is? Who will be maintaining these systems long-term, years into the future. If you answer “who cares?” then this session is not for you.<br /><br />This session will focus on building teams, people, and minds that can shape our future API strategy such that testing and monitoring becomes less about finding bugs and more about shipping what people actually want in the first place. Disclaimer, there will be no product demos or complicated charts in this talk. We will have a booth for that sort of thing when you’re not at an awesome conference.
     bio: Paul Bruce is a professional nerd. A programmer at 13, of course he loves to code, but really enjoys real conversations with real people about stuff that really matters. Paul currently serves as an API Product Manager at SmartBear, focusing on technical relations and communication. You can read more at <a href="http://paulsbruce.io/blog" target="_blank">paulsbruce.io/blog</a>.
+  - name: Andrew Noonan
+    company: Uber
+    url: https://www.uber.com/
+    twitter: noonisms
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/andrew-noonan.png
+    slug: andrew-noonan
+    detail: none
+    title: none
+    abstract: none
+    bio: Andrew Noonan is a Developer Advocate and Partner Engineer on the Uber Developer Platform. As part of the recently formed developer relations team he is helping to shape how developers will tap into Uber to build moving experiences. Prior to joining the team at Uber Andrew spent time at Asana, Twitter, and Gnip in similar capacities.
+  - name: Audrey Watters
+    company: Hack Education
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/audrey-watters.jpg
+    slug: audrey-watters
