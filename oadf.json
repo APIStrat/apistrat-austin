@@ -153,7 +153,15 @@
         "summary": "pulls all speakers",
         "description": "pulls all speakers",
         "operationId": "getSpeakers",
-        "parameters": [],
+        "parameters": [
+          {
+            "name": "query",
+            "in": "query",
+            "description": "a text query to search across schedule",
+            "required": false,
+            "type": "string"
+          }
+        ],
         "responses": {
           "200": {
             "description": "speakers response",
