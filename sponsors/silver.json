@@ -5,9 +5,9 @@ layout: none
   {% for sponsors in site.silverponsors limit:500 %}
     {
     "type": "silver",
-    "name": "{{ speakers.name }}",
-    "link": "{{ speakers.link }}",
-    "logo": "{{ speakers.logo }}"
+    "name": "{{ sponsors.name }}",
+    "link": "{{ sponsors.link }}",
+    "logo": "{{ sponsors.logo }}"
     }{% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]
