@@ -401,18 +401,18 @@ header.sticky #menu-primary {
 
 
 /* heading */
-.pageheading {
+.heading {
     position: relative;
     display: block;
     background: #35aadc;
     color: #fff;
     margin: 0 0 45px;
 }
-.pageheading .container {
+.heading .container {
     position: relative;
     display: table;
 }
-.pageheading h1 {
+.heading h1 {
     display: table-cell;
     vertical-align: middle;
     color: #fff;
@@ -421,7 +421,7 @@ header.sticky #menu-primary {
     line-height: 1.2;
     height: 158px;
 }
-.pageheading .nav {
+.heading .nav {
     display: table-cell;
     width: 30%;
     margin: 0;
@@ -430,15 +430,15 @@ header.sticky #menu-primary {
     vertical-align: middle;
     text-align: right;
 }
-.pageheading .nav a {
+.heading .nav a {
     color: #fff;
     margin: 0 12px;
 }
-.pageheading .nav .icon-angle-left {
+.heading .nav .icon-angle-left {
     background-position: -240px -60px;
     width: 18px; height: 30px;
 }
-.pageheading .nav .icon-angle-right {
+.heading .nav .icon-angle-right {
     background-position: -360px -60px;
     width: 18px; height: 30px;
 }
