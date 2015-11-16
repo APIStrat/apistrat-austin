@@ -560,6 +560,10 @@ daytwo:
         title:
         abstract:
         bio: Seasoned software development leader with a strong architectural bias. Passionate about the developer experience. Creator of T4 code generation. Currently working as an API Architect for the OneNote API at Microsoft.
+      - name: Tony Tam
+        company: SmartBear
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tony-tam.jpg
+        slug: tony-tam        
   - time: 1:30 pm - 3:00 pm
     title: API Testing And Monitoring
     location: Breakout Two
