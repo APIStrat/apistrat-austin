@@ -2,7 +2,7 @@
 layout: none
 ---
 [
-  {% for sponsors in site.silverponsors limit:500 %}
+  {% for sponsors in site.silversponsors limit:500 %}
     {
     "type": "silver",
     "name": "{{ sponsors.name }}",
