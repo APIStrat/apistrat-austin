@@ -91,14 +91,14 @@
             "name": "day",
             "in": "query",
             "description": "a day number to override 18,19, or 20",
-            "required": true,
+            "required": false,
             "type": "string"
           },
           {
             "name": "time",
             "in": "query",
             "description": "a time to overrirde now mm/dd/yyyy AM/PM",
-            "required": true,
+            "required": false,
             "type": "string"
           }
         ],
