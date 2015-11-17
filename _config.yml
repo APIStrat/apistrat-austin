@@ -268,11 +268,11 @@ dayone:
         slug: max-katz
   - time: 5:30 pm - 7:00 pm
     title: Birds of a Feather
-    location: Sheraton
+    location: Cheer up Charlie’s (900 Red River St - cheerupcharlies.com)
     speakers:
   - time: 7:30 pm - 9:00 pm
     title: Speakers Dinner
-    location: [coming soon]
+    location: Stubb's bar-b-q (stubbsaustin.com)
     speakers:
   - time: 9:30 pm - 12:00 am
     title: Meetup Bar
@@ -563,7 +563,7 @@ daytwo:
       - name: Tony Tam
         company: SmartBear
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/tony-tam.jpg
-        slug: tony-tam        
+        slug: tony-tam
   - time: 1:30 pm - 3:00 pm
     title: API Testing And Monitoring
     location: Breakout Two
