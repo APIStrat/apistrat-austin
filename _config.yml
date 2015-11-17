@@ -268,11 +268,11 @@ dayone:
         slug: max-katz
   - time: 5:30 pm - 7:00 pm
     title: Birds of a Feather
-    location: Cheer up Charlie’s (900 Red River St - cheerupcharlies.com)
+    location: Cheer up Charlie’s (900 Red River St - <a href="http://cheerupcharlies.com">cheerupcharlies.com</a>)
     speakers:
   - time: 7:30 pm - 9:00 pm
     title: Speakers Dinner
-    location: Stubb's bar-b-q (stubbsaustin.com)
+    location: Stubb's bar-b-q (<a href="http://stubbsaustin.com">stubbsaustin.com</a>)
     speakers:
   - time: 9:30 pm - 12:00 am
     title: Meetup Bar
