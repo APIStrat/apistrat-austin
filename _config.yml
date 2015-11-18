@@ -254,10 +254,10 @@ dayone:
     registration: http://austin2015.apistrat.com/workshops/crash-course-practical-api-management-workshop.html
     location: Breakout Two
     speakers:
-      - name: Manfred Bortenschlager
-        company: 3Scale
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/manfred-bortenschlager.jpg
-        slug: manfred-bortenschlager
+      - name: Mark Cheshire
+        company: 3Scale <br /> (Business Models)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mark-cheshire.jpeg
+        slug: mark-cheshire
       - name: Victor Delgado
         company: 3Scale
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/victor-delgado.png
