@@ -1510,3 +1510,7 @@ allspeakers:
     twitter: marbemac
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/marc-macleod.jpg
     slug: marc-macleod
+  - name: Steven Fonseca
+    company: Intuit
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/steve-fonseca.jpg
+    slug: steven-fonseca
