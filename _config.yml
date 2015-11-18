@@ -626,10 +626,10 @@ daytwo:
         detail: none
         title:
         abstract:
-      - name: Bryce Barrand
-        company: Marriott
-        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/bryce-barrand.jpg
-        slug: bryce-barrand
+      - name: Mike Amundsen
+        company: API Academy @ CA Inc. <br /> (Session Chair)
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/mike-amundsen.jpg
+        slug: mike-amundsen
         detail: none
         title:
         abstract:
