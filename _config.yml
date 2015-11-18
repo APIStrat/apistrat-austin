@@ -269,7 +269,7 @@ dayone:
   - time: 3:30 pm - 5:00 pm
     title: Simple API Supervision
     abstract: Benchmarking, monitoring, and managing APIs can be a headache. In a microservice world, doubly so. Fret not! This workshop is a relaxed, buddha-like approach look at API supervision. Learn how others manage their APIs. Discover tools of the trade. Identify the metrics most meaningful to your service.
-    registration: http://austin2015.apistrat.com/workshops/focus-on-api-workflow-workshop.html
+    registration: http://austin2015.apistrat.com/workshops/simple-api-supervision.html
     location: Breakout Three
     speakers:
       - name: Paul Burt
