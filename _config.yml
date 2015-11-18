@@ -266,6 +266,16 @@ dayone:
         company: Appery.io
         image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/max-katz.jpg
         slug: max-katz
+  - time: 3:30 pm - 5:00 pm
+    title: Simple API Supervision
+    abstract: Benchmarking, monitoring, and managing APIs can be a headache. In a microservice world, doubly so. Fret not! This workshop is a relaxed, buddha-like approach look at API supervision. Learn how others manage their APIs. Discover tools of the trade. Identify the metrics most meaningful to your service.
+    registration: http://austin2015.apistrat.com/workshops/focus-on-api-workflow-workshop.html
+    location: Breakout Three
+    speakers:
+      - name: Paul Burt
+        company: Iron.io
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/paul-burt.jpg
+        slug: paul-burt
   - time: 5:30 pm - 7:00 pm
     title: Birds of a Feather
     location: <strong>Cheer up Charlie’s</strong> (900 Red River St - <a href="http://cheerupcharlies.com">cheerupcharlies.com</a>)
@@ -1480,3 +1490,7 @@ allspeakers:
     company: Hack Education
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/audrey-watters.jpg
     slug: audrey-watters
+  - name: Paul Burt
+    company: Iron.io
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/paul-burt.jpg
+    slug: paul-burt
