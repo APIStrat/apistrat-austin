@@ -608,6 +608,16 @@ daytwo:
         title: API Strategy - The Next Generation
         abstract: APIs. You build them, test them, ship them, and monitor them. Big whoop. You even have an “API strategy”, but do you know what your real long-term strategy is? Who will be maintaining these systems long-term, years into the future. If you answer “who cares?” then this session is not for you.<br /><br />This session will focus on building teams, people, and minds that can shape our future API strategy such that testing and monitoring becomes less about finding bugs and more about shipping what people actually want in the first place. Disclaimer, there will be no product demos or complicated charts in this talk. We will have a booth for that sort of thing when you’re not at an awesome conference.
         bio: Paul Bruce is a professional nerd. A programmer at 13, of course he loves to code, but really enjoys real conversations with real people about stuff that really matters. Paul currently serves as an API Product Manager at SmartBear, focusing on technical relations and communication. You can read more at <a href="http://paulsbruce.io/blog" target="_blank">paulsbruce.io/blog</a>.
+      - name: Marc MacLeod
+        company: StopLight
+        url: http://stoplight.io
+        twitter: marbemac
+        image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/marc-macleod.jpg
+        slug: marc-macleod
+        detail: none
+        title:
+        abstract:
+        bio:
   - time: 1:30 pm - 3:00 pm
     title: Internal Innovation With APIs
     location: Breakout Three
@@ -1494,3 +1504,9 @@ allspeakers:
     company: Iron.io
     image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/paul-burt.jpg
     slug: paul-burt
+  - name: Marc MacLeod
+    company: StopLight
+    url: http://stoplight.io
+    twitter: marbemac
+    image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/speakers/marc-macleod.jpg
+    slug: marc-macleod
