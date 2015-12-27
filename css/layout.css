@@ -698,9 +698,9 @@ h2 + .btn-header {
 }
 .landing .box {
     border-radius: 4px;
-    height: 150px;
+    height: 130px;
     text-align: left;
-    padding: 20px 40px 20px 96px;
+    padding: 10px 40px 10px 40px;
     box-sizing: border-box;
     opacity: .92;
     background: #35aadc;
