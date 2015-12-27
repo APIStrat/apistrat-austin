@@ -673,8 +673,8 @@ h2 + .btn-header {
     letter-spacing: 0;
     text-transform: uppercase;
     padding: 89px 0 0 15px;
-    margin: 0 0 10px 15px;
-    height: 245px;
+    margin: 0 0 0 15px;
+    height: 200px;
 }
 .landing h1 > span {
     display: block;
