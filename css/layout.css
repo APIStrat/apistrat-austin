@@ -691,7 +691,7 @@ h2 + .btn-header {
 }
 .landing .bg {
     position: absolute;
-    left: 0; right: 0; height: 300px;
+    left: 0; right: 0; height: 200px;
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
