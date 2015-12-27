@@ -674,7 +674,7 @@ h2 + .btn-header {
     text-transform: uppercase;
     padding: 89px 0 0 15px;
     margin: 0 0 0 15px;
-    height: 200px;
+    height: 215px;
 }
 .landing h1 > span {
     display: block;
@@ -698,9 +698,9 @@ h2 + .btn-header {
 }
 .landing .box {
     border-radius: 4px;
-    height: 130px;
+    height: 150px;
     text-align: left;
-    padding: 10px 40px 10px 40px;
+    padding: 20px 40px 20px 96px;
     box-sizing: border-box;
     opacity: .92;
     background: #35aadc;
