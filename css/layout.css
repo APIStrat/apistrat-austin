@@ -663,7 +663,7 @@ h2 + .btn-header {
     color: #fff;
     background: transparent;
     border-radius: 0;
-    height: 350px;
+    height: 400px;
     font-size: 30px;
 }
 .landing h1 {
@@ -691,7 +691,7 @@ h2 + .btn-header {
 }
 .landing .bg {
     position: absolute;
-    left: 0; right: 0; height: 350px;
+    left: 0; right: 0; height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
