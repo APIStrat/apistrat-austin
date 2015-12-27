@@ -700,7 +700,7 @@ h2 + .btn-header {
     border-radius: 4px;
     height: 150px;
     text-align: left;
-    padding: 20px 40px 20px 96px;
+    padding: 20px 40px 20px 40px;
     box-sizing: border-box;
     opacity: .92;
     background: #35aadc;
